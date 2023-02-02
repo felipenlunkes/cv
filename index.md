@@ -21,6 +21,8 @@ Interested in acting as a backend developer (in C, Python, Java and SQL), or as 
 
 </p>
 
+<hr>
+
 ## Professional experience
 
 #### **2021-2023** Master's Student - René Rachou Institute/Fiocruz Minas - Brazil
