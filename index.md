@@ -5,12 +5,13 @@ output:
     toc: FALSE
 ---
 
-<p align="center">
+<div align="center">
 
-<h1> Felipe Miguel Nery Lunkes </h1> <br>
+# Felipe Miguel Nery Lunkes
+
 felipenldev@gmail.com
 
-</p>
+</div>
 
 <hr>
 
@@ -43,7 +44,7 @@ Interested in acting as a backend developer (in C, Python, Java and SQL), or as 
 
 ## Projects, portfolio and technologies
 
-<p align="justify">
+<div align="justify">
 
 * C:
   - Development of an operating system (PX-DOS) derived from the Public Domain Operating System;
@@ -60,13 +61,13 @@ Interested in acting as a backend developer (in C, Python, Java and SQL), or as 
   - Hexagonix Operating System. Hexagonix (2015-current) is a simple, Unix-like operating system developed completely in assembly for the x86 architecture. In addition to the kernel, I have developed a series of tools, utilities and libraries that allow the system to be expanded by anyone interested. The aim of the project was to practice logic that could be applied in any high-level language. In addition, I wrote extensive documentation in Portuguese and English. More at: github.com/hexagonix;
   - Creation of a basic operating system (Bin OS) in 2013, to practice baremetal programming.
 
-</p>
+</div>
 
 <hr>
 
 ## Skills and interests
 
-<p align="justify">
+<div align="justify">
 
 * Fluent Portuguese (native) and advanced English (C1);
 * Domain of the Office package (including open source alternatives) and statistical packages (R and Prism);
@@ -77,7 +78,7 @@ Interested in acting as a backend developer (in C, Python, Java and SQL), or as 
 * Good communication and teamwork;
 * Interested in computing history, emulation and preservation of historic software.
 
-</p>
+</div>
 
 <hr>
 
