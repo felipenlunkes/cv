@@ -5,8 +5,12 @@ output:
     toc: FALSE
 ---
 
+<p align="center">
+
 # Felipe Miguel Nery Lunkes
 felipenldev@gmail.com
+
+</p>
 
 <hr>
 
@@ -19,16 +23,16 @@ Interested in acting as a backend developer (in C, Python, Java and SQL), or as 
 
 ## Professional experience
 
-#### :one: **2021-2023** Master's Student - René Rachou Institute/Fiocruz Minas - Brazil
+#### **2021-2023** Master's Student - René Rachou Institute/Fiocruz Minas - Brazil
 
 * Master's student in Health Sciences at IRR/Fundação Oswaldo Cruz;
 * Project that aims to functionally characterize *Schistosoma mansoni* proteins.
 
-#### :two: **2016-2020** Undergraduate Student - René Rachou Institute/Fiocruz Minas - Brazil
+#### **2016-2020** Undergraduate Student - René Rachou Institute/Fiocruz Minas - Brazil
 
 * Student of Scientific Initiation (IC) during graduation.
 
-#### :three: **2013-2014** Computer Instructor - Centro de Apoio Comunitário Serrano - Belo Horizonte, Brazil
+#### **2013-2014** Computer Instructor - Centro de Apoio Comunitário Serrano - Belo Horizonte, Brazil
 
 * IT instructor for children and seniors during and after completing the technical course;
 * Fellow associated with the federal program TELECENTROS.BR, which aims to democratize access to technology.
@@ -36,6 +40,8 @@ Interested in acting as a backend developer (in C, Python, Java and SQL), or as 
 <hr>
 
 ## Projects, portfolio and technologies
+
+<p align="justify">
 
 * C:
   - Development of an operating system (PX-DOS) derived from the Public Domain Operating System;
@@ -51,6 +57,8 @@ Interested in acting as a backend developer (in C, Python, Java and SQL), or as 
 * x86 Assembly:
   - Hexagonix Operating System. Hexagonix (2015-current) is a simple, Unix-like operating system developed completely in assembly for the x86 architecture. In addition to the kernel, I have developed a series of tools, utilities and libraries that allow the system to be expanded by anyone interested. The aim of the project was to practice logic that could be applied in any high-level language. In addition, I wrote extensive documentation in Portuguese and English. More at: github.com/hexagonix;
   - Creation of a basic operating system (Bin OS) in 2013, to practice baremetal programming.
+
+</p>
 
 <hr>
 
