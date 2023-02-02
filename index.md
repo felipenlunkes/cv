@@ -29,6 +29,28 @@ Interested in acting as a backend developer (in C, Python, Java and SQL), or as 
 * IT instructor for children and seniors during and after completing the technical course;
 * Fellow associated with the federal program TELECENTROS.BR, which aims to democratize access to technology.
 
+<hr>
+
+## Projects, portfolio and technologies
+
+* C:
+  - Development of an operating system (PX-DOS) derived from the Public Domain Operating System;
+  - Development of an operating system from scratch (Lunix OS), to practice programming logic and software structure in C;
+
+* Python:
+  - Use of Python to create a frontend for tools that run on the command line. Mainly using Tkinter and derivatives, targeting Linux and FreeBSD (WSL on Windows is also supported);
+  - Creating small programs to study algorithms in Python;
+
+* Java: 
+  - Building tools that connect to databases (MySQL) to store and retrieve data.
+
+* x86 Assembly:
+  - Hexagonix Operating System. Hexagonix (2015-current) is a simple, Unix-like operating system developed completely in assembly for the x86 architecture. In addition to the kernel, I have developed a series of tools, utilities and libraries that allow the system to be expanded by anyone interested. The aim of the project was to practice logic that could be applied in any high-level language. In addition, I wrote extensive documentation in Portuguese and English. More at: github.com/hexagonix;
+  - Creation of a basic operating system (Bin OS) in 2013, to practice baremetal programming.
+
+
+
+
 
 
 
