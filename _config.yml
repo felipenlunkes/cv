@@ -1,6 +1,7 @@
 plugins:
   - jekyll-relative-links
 markdown: GFM
+theme: minima
 relative_links:
   enabled: true
   collections: true
