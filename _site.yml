@@ -1,7 +1,7 @@
 name: "My CV"
 output:
   html_document:
-    theme: cerulean
+    theme: minima
     highlight: zenburn
     toc: true
     toc_depth: 2
