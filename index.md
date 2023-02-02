@@ -1,3 +1,10 @@
+---
+title: "My website"
+output: 
+  html_document:
+    toc: FALSE
+---
+
 # Felipe Miguel Nery Lunkes
 felipenldev@gmail.com
 
