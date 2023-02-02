@@ -2,6 +2,7 @@ plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
 markdown: GFM
+remote_theme: pages-themes/primer@v0.2.0
 relative_links:
   enabled: true
   collections: true
@@ -11,3 +12,5 @@ include:
   - LICENSE
   - CERTIFICATES.pt.md
   - CERTIFICATES.en.md
+title: [My CV]
+description: [My resume - Felipe Miguel Nery Lunkes]
