@@ -25,16 +25,16 @@ Interested in acting as a backend developer (in C, Python, Java and SQL), or as 
 
 ## Professional experience
 
-#### :one: **2021-2023** Master's Student - René Rachou Institute/Fiocruz Minas - Brazil
+#### :one: **2021-2023** | Master's Student - René Rachou Institute/Fiocruz Minas - Brazil
 
 * Master's student in Health Sciences at IRR/Fundação Oswaldo Cruz;
 * Project that aims to functionally characterize *Schistosoma mansoni* proteins.
 
-#### :two: **2016-2020** Undergraduate Student - René Rachou Institute/Fiocruz Minas - Brazil
+#### :two: **2016-2020** | Undergraduate Student - René Rachou Institute/Fiocruz Minas - Brazil
 
 * Student of Scientific Initiation (IC) during graduation.
 
-#### :three: **2013-2014** Computer Instructor - Centro de Apoio Comunitário Serrano - Belo Horizonte, Brazil
+#### :three: **2013-2014** | Computer Instructor - Centro de Apoio Comunitário Serrano - Belo Horizonte, Brazil
 
 * IT instructor for children and seniors during and after completing the technical course;
 * Fellow associated with the federal program TELECENTROS.BR, which aims to democratize access to technology.
@@ -85,15 +85,15 @@ Interested in acting as a backend developer (in C, Python, Java and SQL), or as 
 
 <div align="justify">
 
-#### **2021-2023** Master's Degree in Health Sciences - Instituto René Rachou/Fiocruz Minas - Brazil
+#### **2021-2023** | **Master's Degree in Health Sciences - Instituto René Rachou/Fiocruz Minas - Brazil**
 
 * Degree in Health Sciences at IRR/Fundação Oswaldo Cruz;
 
-#### **2016-2020** Graduation in Biological Sciences - Universidade Federal de Minas Gerais - Belo Horizonte, Brazil
+#### **2016-2020** | **Graduation in Biological Sciences - Universidade Federal de Minas Gerais - Belo Horizonte, Brazil**
 
 * Graduation with emphasis in Biotechnology and Health;
 
-#### **2011-2023** High school with computer technician - Escola Técnica Vital Brasil - Belo Horizonte, Brazil
+#### **2011-2023** | **High school with computer technician - Escola Técnica Vital Brasil - Belo Horizonte, Brazil**
 
 * Technical formation for developers;
 * Contact with Pascal, C, HTML/CSS, SQL, Java and VisualBasic, in addition to disciplines related to hardware and robotics.
