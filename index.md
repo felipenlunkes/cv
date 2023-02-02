@@ -106,3 +106,6 @@ Interested in acting as a **backend developer** (in C, Python, Java and SQL), or
 #### Portfolio and contact
 
 * [https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg](https://github.com/felipenlunkes)
+* [https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg](https://linkedin.com/in/felipelunkes)
+* [https://github.com/simple-icons/simple-icons/blob/develop/icons/linktree.svg](linktr.ee/felipelunkes)
+* [https://github.com/simple-icons/simple-icons/blob/develop/icons/twitter.svg](https://twitter.com/felipeldev)
