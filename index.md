@@ -7,7 +7,7 @@ output:
 
 <p align="center">
 
-# Felipe Miguel Nery Lunkes
+<h1> Felipe Miguel Nery Lunkes </h1> <br>
 felipenldev@gmail.com
 
 </p>
@@ -64,6 +64,8 @@ Interested in acting as a backend developer (in C, Python, Java and SQL), or as 
 
 ## Skills and interests
 
+<p align="justify">
+
 * Fluent Portuguese (native) and advanced English (C1);
 * Domain of the Office package (including open source alternatives) and statistical packages (R and Prism);
 * Domain of C, Java, Python and x86 Assembly (see projects);
@@ -72,3 +74,10 @@ Interested in acting as a backend developer (in C, Python, Java and SQL), or as 
 * Self-taught in several programming languages;
 * Good communication and teamwork;
 * Interested in computing history, emulation and preservation of historic software.
+
+</p>
+
+<hr>
+
+## Academic background
+
