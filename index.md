@@ -1,5 +1,5 @@
 ---
-title: "My website"
+title: "CV - Felipe Miguel Nery Lunkes"
 output: 
   html_document:
     toc: FALSE
