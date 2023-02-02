@@ -1,13 +1,7 @@
-<div align="center">
-
 # Felipe Miguel Nery Lunkes
 felipenldev@gmail.com
 
-</div>
-
 <hr>
-
-<div align="justify">
 
 ## Personal profile and professional goals
 
@@ -48,14 +42,15 @@ Interested in acting as a backend developer (in C, Python, Java and SQL), or as 
   - Hexagonix Operating System. Hexagonix (2015-current) is a simple, Unix-like operating system developed completely in assembly for the x86 architecture. In addition to the kernel, I have developed a series of tools, utilities and libraries that allow the system to be expanded by anyone interested. The aim of the project was to practice logic that could be applied in any high-level language. In addition, I wrote extensive documentation in Portuguese and English. More at: github.com/hexagonix;
   - Creation of a basic operating system (Bin OS) in 2013, to practice baremetal programming.
 
+<hr>
 
+## Skills and interests
 
-
-
-
-
-
-
-
-
-</div>
+* Fluent Portuguese (native) and advanced English (C1);
+* Domain of the Office package (including open source alternatives) and statistical packages (R and Prism);
+* Domain of C, Java, Python and x86 Assembly (see projects);
+* Familiarity with JavaScript, VisualBasic, C++ and SQL;
+* Domain of versioning tools, such as git (including use of the command line tool);
+* Self-taught in several programming languages;
+* Good communication and teamwork;
+* Interested in computing history, emulation and preservation of historic software.
