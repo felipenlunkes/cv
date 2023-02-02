@@ -1,10 +1,11 @@
 plugins:
   - jekyll-relative-links
 markdown: GFM
-theme: minima
+theme: cerulean
 relative_links:
   enabled: true
   collections: true
 include:
   - index.md
+  - README.md
   - LICENSE.md
