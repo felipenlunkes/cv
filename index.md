@@ -47,19 +47,19 @@ Interested in acting as a **backend developer** (in C, Python, Java and SQL), or
 <div align="justify">
 
 * C:
-  - Development of an operating system (PX-DOS) derived from the Public Domain Operating System;
-  - Development of an operating system from scratch (Lunix OS), to practice programming logic and software structure in C;
+  - Development of an operating system ([PX-DOS](https://github.com/felipenlunkes/PX-DOS-Core)) derived from the [Public Domain Operating System](pdos.org);
+  - Development of an operating system from scratch ([Lunix OS](https://github.com/felipenlunkes/lunix)), to practice programming logic and software structure in C;
 
 * Python:
   - Use of Python to create a frontend for tools that run on the command line. Mainly using Tkinter and derivatives, targeting Linux and FreeBSD (WSL on Windows is also supported);
   - Creating small programs to study algorithms in Python;
 
-* Java: 
+* Java:
   - Building tools that connect to databases (MySQL) to store and retrieve data.
 
 * x86 Assembly:
-  - Hexagonix Operating System. Hexagonix (2015-current) is a simple, Unix-like operating system developed completely in assembly for the x86 architecture. In addition to the kernel, I have developed a series of tools, utilities and libraries that allow the system to be expanded by anyone interested. The aim of the project was to practice logic that could be applied in any high-level language. In addition, I wrote extensive documentation in Portuguese and English. More at: github.com/hexagonix;
-  - Creation of a basic operating system (Bin OS) in 2013, to practice baremetal programming.
+  - [Hexagonix Operating System](https://github.com/hexagonix) (2015-current) is a simple, Unix-like operating system developed completely in Assembly for the x86 architecture. In addition to the kernel, I've developed a series of tools, utilities and libraries that allow the system to be expanded by anyone interested. The aim of the project was to practice logic that could be applied in any high-level language. In addition, I wrote extensive documentation in Portuguese and English. More at: github.com/hexagonix;
+  - Creation of a basic operating system ([Bin OS](https://github.com/felipenlunkes/Bin-S.O)) in 2013, to practice baremetal programming.
 
 </div>
 
@@ -71,7 +71,7 @@ Interested in acting as a **backend developer** (in C, Python, Java and SQL), or
 
 * Fluent Portuguese (native) and advanced English (C1);
 * Domain of the Office package (including open source alternatives) and statistical packages (R and Prism);
-* Domain of C, Java, Python and x86 Assembly (see projects);
+* Domain of C, Java, Python and x86 Assembly (see [projects](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md));
 * Familiarity with JavaScript, VisualBasic, C++ and SQL;
 * Domain of versioning tools, such as git (including use of the command line tool);
 * Self-taught in several programming languages;
@@ -86,11 +86,11 @@ Interested in acting as a **backend developer** (in C, Python, Java and SQL), or
 
 <div align="justify">
 
-#### **2021-2023** | **Master's Degree in Health Sciences - Instituto René Rachou/Fiocruz Minas - Brazil**
+#### **2021-2023** | **Master's Degree in Health Sciences - [Instituto René Rachou/Fiocruz Minas](https://portal.fiocruz.br/) - Brazil**
 
 * Degree in Health Sciences at IRR/Fundação Oswaldo Cruz;
 
-#### **2016-2020** | **Graduation in Biological Sciences - Universidade Federal de Minas Gerais - Belo Horizonte, Brazil**
+#### **2016-2020** | **Graduation in Biological Sciences - [Universidade Federal de Minas Gerais](https://ufmg.br/) - Belo Horizonte, Brazil**
 
 * Graduation with emphasis in Biotechnology and Health;
 
@@ -105,7 +105,7 @@ Interested in acting as a **backend developer** (in C, Python, Java and SQL), or
 
 #### Portfolio and contact
 
-* <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" width="25px" height="15px" /> [GitHub](https://github.com/felipenlunkes)
-* <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" width="25px" height="15px" /> [LinkedIn](https://linkedin.com/in/felipelunkes)
-* <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linktree.svg" width="25px" height="15px" /> [LinkTree](linktr.ee/felipelunkes)
-* <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/twitter.svg" width="25px" height="15px" /> [Twitter](https://twitter.com/felipeldev)
+* [GitHub](https://github.com/felipenlunkes)
+* [LinkedIn](https://linkedin.com/in/felipelunkes)
+* [LinkTree](linktr.ee/felipelunkes)
+* [Twitter](https://twitter.com/felipeldev)
