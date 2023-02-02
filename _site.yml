@@ -1,4 +1,4 @@
-name: "My CV - Felipe Miguel Nery Lunkes"
+name: "My resume - Felipe Miguel Nery Lunkes"
 output:
   html_document:
     theme: cerulean
