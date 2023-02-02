@@ -26,6 +26,10 @@ Interested in acting as a backend developer (in C, Python, Java and SQL), or as 
 
 #### :three: **2013-2014** Computer Instructor - Centro de Apoio Comunitário Serrano - Belo Horizonte, Brazil
 
+* IT instructor for children and seniors during and after completing the technical course;
+* Fellow associated with the federal program TELECENTROS.BR, which aims to democratize access to technology.
+
+
 
 
 
