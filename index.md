@@ -105,7 +105,7 @@ Interested in acting as a **backend developer** (in C, Python, Java and SQL), or
 
 #### Portfolio and contact
 
-* [https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg](https://github.com/felipenlunkes)
-* [https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg](https://linkedin.com/in/felipelunkes)
-* [https://github.com/simple-icons/simple-icons/blob/develop/icons/linktree.svg](linktr.ee/felipelunkes)
-* [https://github.com/simple-icons/simple-icons/blob/develop/icons/twitter.svg](https://twitter.com/felipeldev)
+* <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" width="25px" height="15px" /> [GitHub](https://github.com/felipenlunkes)
+* <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" width="25px" height="15px" /> [LinkedIn](https://linkedin.com/in/felipelunkes)
+* <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linktree.svg" width="25px" height="15px" /> [LinkTree](linktr.ee/felipelunkes)
+* <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/twitter.svg" width="25px" height="15px" /> [Twitter](https://twitter.com/felipeldev)
