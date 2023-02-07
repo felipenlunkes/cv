@@ -111,3 +111,4 @@ Interested in acting as a **backend developer** (in C, Python, Java and SQL), or
 * [LinkedIn](https://linkedin.com/in/felipelunkes)
 * [LinkTree](linktr.ee/felipelunkes)
 * [Twitter](https://twitter.com/felipeldev)
+* [Currículo Lattes](http://lattes.cnpq.br/2540365589952421) (Brazil)
