@@ -117,4 +117,4 @@ $\hrulefill$
 
 $\hrulefill$
 
-This curriculum was built entirely in Markdown.
+This CV was built entirely in Markdown.
