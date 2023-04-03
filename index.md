@@ -127,4 +127,4 @@ You can find the CV in PDF, in **[Portuguese (Brazil)](resumes/CV_PT-BR.pdf)** a
 
 This CV was built entirely in Markdown.
 
-
+<hr>
