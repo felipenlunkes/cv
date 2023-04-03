@@ -21,7 +21,7 @@ $\hrulefill$
 
 <div align="justify">
 
-Interessado em atuar como desenvolvedor backend (em C, Python, Java e SQL), ou como DevOps. Possuo experiência no
+Interessado em atuar como **desenvolvedor backend** (em C, Python, Java e SQL), ou como **DevOps**. Possuo experiência no
 desenvolvimento de projetos utilizando as linguagens Assembly x86, C, Python e Java, além de manutenção de código em
 sistema git. Experiência e domínio em sistemas Unix-like, como Linux, FreeBSD e macOS, bem como criação de scripts de
 shell. Formado como técnico em Informática (2013) e graduado em Ciências Biológicas (ênfase em Biotecnologia e Saúde)
