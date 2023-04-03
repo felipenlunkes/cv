@@ -33,9 +33,9 @@ Interested in acting as a **backend developer** (in C, Python, Java and SQL), or
 
 ## Professional experience
 
-#### **2021-2023** | Master's Student - René Rachou Institute/Fiocruz Minas - Belo Horizonte, Brazil
+#### **2021-2023** | Master's degree - René Rachou Institute/Fiocruz Minas - Belo Horizonte, Brazil
 
-* Master's student in Health Sciences at IRR/Fundação Oswaldo Cruz;
+* Master's degree in Health Sciences at IRR/Fundação Oswaldo Cruz;
 * Project that aims to functionally characterize *Schistosoma mansoni* proteins.
 
 #### **2016-2020** | Undergraduate Student - René Rachou Institute/Fiocruz Minas - Belo Horizonte, Brazil
