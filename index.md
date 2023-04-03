@@ -3,6 +3,11 @@ title: "CV - Felipe Miguel Nery Lunkes"
 output: 
   html_document:
     toc: FALSE
+mainfont: DejaVuSerif.ttf
+sansfont: DejaVuSans.ttf
+monofont: DejaVuSansMono.ttf 
+mathfont: texgyredejavu-math.otf 
+geometry: "left=2cm,right=2cm,top=1cm,bottom=2cm"
 ---
 
 <div align="center">
@@ -49,8 +54,8 @@ Interested in acting as a **backend developer** (in C, Python, Java and SQL), or
 <div align="justify">
 
 * C:
-  - Development of an operating system ([PX-DOS](https://github.com/felipenlunkes/PX-DOS-Core)) derived from the [Public Domain Operating System](pdos.org);
-  - Development of an operating system from scratch ([Lunix OS](https://github.com/felipenlunkes/lunix)), to practice programming logic and software structure in C;
+  - Development of an operating system **([PX-DOS](https://github.com/felipenlunkes/PX-DOS-Core))** derived from the [Public Domain Operating System](pdos.org);
+  - Development of an operating system from scratch **([Lunix OS](https://github.com/felipenlunkes/lunix))**, to practice programming logic and software structure in C;
 
 * Python:
   - Use of Python to create a frontend for tools that run on the command line. Mainly using Tkinter and derivatives, targeting Linux and FreeBSD (WSL on Windows is also supported);
@@ -60,8 +65,8 @@ Interested in acting as a **backend developer** (in C, Python, Java and SQL), or
   - Building tools that connect to databases (MySQL) to store and retrieve data.
 
 * x86 Assembly:
-  - [Hexagonix Operating System](https://github.com/hexagonix) (2015-current) is a simple, Unix-like operating system developed completely in Assembly for the x86 architecture. In addition to the kernel, I've developed a series of tools, utilities and libraries that allow the system to be expanded by anyone interested. The aim of the project was to practice logic that could be applied in any high-level language. In addition, I wrote extensive documentation in Portuguese and English. More at: github.com/hexagonix;
-  - Creation of a basic operating system ([Bin OS](https://github.com/felipenlunkes/Bin-S.O)) in 2013, to practice baremetal programming.
+  - **[Hexagonix Operating System](https://github.com/hexagonix)** (2015-current) is a simple, Unix-like operating system developed completely in Assembly for the x86 architecture. In addition to the kernel, I've developed a series of tools, utilities and libraries that allow the system to be expanded by anyone interested. The aim of the project was to practice logic that could be applied in any high-level language. In addition, I wrote extensive documentation in Portuguese and English. More at: **[github.com/hexagonix](https://github.com/hexagonix)**;
+  - Creation of a basic operating system **([Bin OS](https://github.com/felipenlunkes/Bin-S.O))** in 2013, to practice baremetal programming.
 
 </div>
 
@@ -73,8 +78,8 @@ Interested in acting as a **backend developer** (in C, Python, Java and SQL), or
 
 * Fluent Portuguese (native) and advanced English (C1);
 * Domain of the Office package (including open source alternatives) and statistical packages (R and Prism);
-* Domain of C, Java, Python and x86 Assembly (see [projects](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md));
-* Familiarity with JavaScript, VisualBasic, C++ and SQL;
+* Domain of C, Python, x86 Assembly, shell script (Unix-like systems), SQL (see **[projects](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md))** and Markdown;
+* Familiarity with Java, JavaScript, VisualBasic and C++;
 * Domain of versioning tools, such as git (including use of the command line tool);
 * Self-taught in several programming languages;
 * Good communication and teamwork;
@@ -111,4 +116,15 @@ Interested in acting as a **backend developer** (in C, Python, Java and SQL), or
 * [LinkedIn](https://linkedin.com/in/felipelunkes)
 * [LinkTree](linktr.ee/felipelunkes)
 * [Twitter](https://twitter.com/felipeldev)
+* [Instagram](https://instagram.com/felipeldev)
 * [Currículo Lattes](http://lattes.cnpq.br/2540365589952421) (Brazil)
+
+<hr>
+
+You can find the CV in PDF, in **[Portuguese (Brazil)](resumes/CV_PT-BR.pdf)** and **[English](resumes/CV_EN.pdf)**.
+
+<hr>
+
+This curriculum was built entirely in Markdown.
+
+
