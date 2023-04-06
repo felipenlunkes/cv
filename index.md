@@ -27,7 +27,18 @@ Belo Horizonte, Brazil
 
 Interested in acting as a **backend developer** (in C, Python, Java and SQL), or as **a DevOps developer**. I have experience in project development using C, Python, Java and x86 Assembly languages, as well as code maintenance in the git system. Experience and mastery of Unix-like systems such as Linux, FreeBSD and macOS, as well as shell scripting. Graduated as a computer technician (2013) and graduated in Biological Sciences (emphasis in Biotechnology and Health) from UFMG. In my spare time, I'm interested in studying and developing operating systems and associated projects, as well as projects in low-level programming. I always try to update myself in the most used languages ​​and frameworks. I'm looking for my first opportunity in the development market and to improve myself in the area, applying what I've learned from my projects to products.
 
-</div>
+<hr>
+
+## Certificates
+
+#### **2022**
+
+* Java (143 min) - Let's Code (Santander Coders);
+* Minicamp Cloud & Cybersecurity (32 hours) - Faculdade XP Educação (Brazil);
+
+#### **2017**
+
+* Introduction to Programming (3 hours) - Universidade Federal de Minas Gerais (Brazil).
 
 <hr>
 
@@ -51,8 +62,6 @@ Interested in acting as a **backend developer** (in C, Python, Java and SQL), or
 
 ## Projects, portfolio and technologies
 
-<div align="justify">
-
 * C:
   - Development of an operating system **([PX-DOS](https://github.com/felipenlunkes/PX-DOS-Core))** derived from the [Public Domain Operating System](pdos.org);
   - Development of an operating system from scratch **([Lunix OS](https://github.com/felipenlunkes/lunix))**, to practice programming logic and software structure in C;
@@ -68,13 +77,9 @@ Interested in acting as a **backend developer** (in C, Python, Java and SQL), or
   - **[Hexagonix Operating System](https://github.com/hexagonix)** (2015-current) is a simple, Unix-like operating system developed completely in Assembly for the x86 architecture. In addition to the kernel, I've developed a series of tools, utilities and libraries that allow the system to be expanded by anyone interested. The aim of the project was to practice logic that could be applied in any high-level language. In addition, I wrote extensive documentation in Portuguese and English. More at: **[github.com/hexagonix](https://github.com/hexagonix)**;
   - Creation of a basic operating system **([Bin OS](https://github.com/felipenlunkes/Bin-S.O))** in 2013, to practice baremetal programming.
 
-</div>
-
 <hr>
 
 ## Skills and interests
-
-<div align="justify">
 
 * Fluent Portuguese (native) and advanced English (C1);
 * Domain of the Office package (including open source alternatives) and statistical packages (R and Prism);
@@ -85,13 +90,9 @@ Interested in acting as a **backend developer** (in C, Python, Java and SQL), or
 * Good communication and teamwork;
 * Interested in computing history, emulation and preservation of historic software.
 
-</div>
-
 <hr>
 
 ## Academic background
-
-<div align="justify">
 
 #### **2021-2023** | **Master's Degree in Health Sciences - [Instituto René Rachou/Fiocruz Minas](https://portal.fiocruz.br/) - Belo Horizonte, Brazil**
 
@@ -105,8 +106,6 @@ Interested in acting as a **backend developer** (in C, Python, Java and SQL), or
 
 * Technical formation for developers;
 * Contact with Pascal, C, HTML/CSS, SQL, Java and VisualBasic, in addition to disciplines related to hardware and robotics.
-
-</div>
 
 <hr>
 
@@ -128,3 +127,5 @@ You can find the CV in PDF, in **[Portuguese (Brazil)](resumes/CV_PT-BR.pdf)** a
 This CV was built entirely in Markdown.
 
 <hr>
+
+</div>
