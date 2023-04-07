@@ -109,7 +109,7 @@ Interested in acting as a **backend developer** (in C, Python, Java and SQL), or
 
 <hr>
 
-#### Portfolio and contact
+## Portfolio and contact
 
 * [GitHub](https://github.com/felipenlunkes)
 * [LinkedIn](https://linkedin.com/in/felipelunkes)
