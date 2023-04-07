@@ -122,7 +122,7 @@ Interested in acting as a **backend developer** (in C, Python, Java and SQL), or
 
 You can find the CV in PDF, in **[Portuguese (Brazil)](resumes/CV_PT-BR.pdf)** and **[English](resumes/CV_EN.pdf)**.
 
-This CV was built entirely in **Markdown** :heart:.
+This CV was built entirely in **Markdown** ❤.
 
 <hr>
 
