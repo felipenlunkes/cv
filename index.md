@@ -10,10 +10,14 @@ mathfont: texgyredejavu-math.otf
 geometry: "left=2cm,right=2cm,top=1cm,bottom=2cm"
 ---
 
+
 <div align="center">
 
 # Felipe Miguel Nery Lunkes
-felipenldev@gmail.com
+
+**[felipenldev@gmail.com](mailto:felipenldev@gmail.com)**
+
+Tel: +55 31 98100-7706
 
 Belo Horizonte, Brazil
 
@@ -25,7 +29,7 @@ Belo Horizonte, Brazil
 
 <div align="justify">
 
-Interested in acting as a **backend developer** (in C, Python, Java and SQL), or as **a DevOps developer**. I have experience in project development using C, Python, Java and x86 Assembly languages, as well as code maintenance in the git system. Experience and mastery of Unix-like systems such as Linux, FreeBSD and macOS, as well as shell scripting. Graduated as a computer technician (2013) and graduated in Biological Sciences (emphasis in Biotechnology and Health) from UFMG (Universidade Federal de Minas Gerais - Federal University of Minas Gerais, Brazil). In my spare time, I'm interested in studying and developing operating systems and associated projects, as well as projects in low-level programming. I always try to update myself in the most used languages ​​and frameworks. I'm looking for my first opportunity in the development market and to improve myself in the area, applying what I've learned from my projects to products.
+Interested in acting as a **backend developer** (in C, Python, Java and SQL), or as **a DevOps developer**. I have experience in project development using C, Python, Java and x86 Assembly languages, as well as code maintenance in the git system. Experience and mastery of Unix-like systems such as Linux, FreeBSD and macOS, as well as shell scripting. Graduated as a computer technician (2013). In my spare time, I'm interested in studying and developing operating systems and associated projects, as well as projects in low-level programming. I always try to update myself in the most used languages ​​and frameworks. I'm looking for my first opportunity in the development market and to improve myself in the area.
 
 <hr>
 
@@ -44,14 +48,20 @@ Interested in acting as a **backend developer** (in C, Python, Java and SQL), or
 
 ## Professional experience
 
-#### **2021-2023** | Master's degree - René Rachou Institute/Fiocruz Minas - Belo Horizonte, Brazil
+#### **2021-2023** | Master's Student - René Rachou Institute/Fiocruz Minas - Belo Horizonte, Brazil
 
-* Master's degree in Health Sciences at IRR/Fundação Oswaldo Cruz;
+* Master's in Health Sciences at IRR/Fundação Oswaldo Cruz;
 * Project that aims to functionally characterize *Schistosoma mansoni* proteins.
 
 #### **2016-2020** | Undergraduate Student - René Rachou Institute/Fiocruz Minas - Belo Horizonte, Brazil
 
 * Student of Scientific Initiation (IC) during graduation.
+
+#### **2015-2016** | Teaching experience - CNPq and Escola Estadual Ordem e Progresso - Belo Horizonte, Brazil
+
+* Scholarship holder of the Institutional Teaching Initiation Scholarship Program (PIBID), coordinated by the Pontifícia Universidade Católica de Minas Gerais (PUC Minas), working in high school at the Escola Estadual Ordem e Progresso (Belo Horizonte). The activities carried out include:
+  - Preparation of theoretical and practical classes for students of all years of high school;
+  - Preparation and correction of tests and assessment activities;
 
 #### **2013-2014** | Computer Instructor - Centro de Apoio Comunitário Serrano - Belo Horizonte, Brazil
 
@@ -71,11 +81,18 @@ Interested in acting as a **backend developer** (in C, Python, Java and SQL), or
   - Creating small programs to study algorithms in Python;
 
 * Java:
-  - Building tools that connect to databases (MySQL) to store and retrieve data.
+  - Building tools that connect to databases (MySQL) to store and retrieve data;
+  - A simple [shell](https://github.com/felipenlunkes/Java-Power-Shell) developed in Java. More information: [github.com/felipenlunkes/Java-Power-Shell](https://github.com/felipenlunkes/Java-Power-Shell).
 
 * x86 Assembly:
   - **[Hexagonix Operating System](https://github.com/hexagonix)** (2015-current) is a simple, Unix-like operating system developed completely in Assembly for the x86 architecture. In addition to the kernel, I've developed a series of tools, utilities and libraries that allow the system to be expanded by anyone interested. The aim of the project was to practice logic that could be applied in any high-level language. In addition, I wrote extensive documentation in Portuguese and English. More at: **[github.com/hexagonix](https://github.com/hexagonix)**;
   - Creation of a basic operating system **([Bin OS](https://github.com/felipenlunkes/Bin-S.O))** in 2013, to practice baremetal programming.
+
+* Linux:
+  - Development of a Linux from Scratch distribution, Neptune OS, in 2012. This project brought experience in configuring and compiling packages, architecture of a Unix-like system and systems administration. A system .iso file is available.
+
+* FreeBSD:
+  - Development of a [utility](https://github.com/felipenlunkes/freebsd-config) that automates the process of installing a graphical environment and essential utilities, updating the system, configuring graphics cards and wireless network cards. Found **[here](https://github.com/felipenlunkes/freebsd-config)**.
 
 <hr>
 
@@ -98,9 +115,9 @@ Interested in acting as a **backend developer** (in C, Python, Java and SQL), or
 
 * Degree in Health Sciences at IRR/Fundação Oswaldo Cruz;
 
-#### **2016-2020** | **Graduation in Biological Sciences - [Universidade Federal de Minas Gerais](https://ufmg.br/) - Belo Horizonte, Brazil**
+#### **2016-2020** | **Graduation in Biological Sciences (Biology) - [Universidade Federal de Minas Gerais](https://ufmg.br/) - Belo Horizonte, Brazil**
 
-* Graduation with emphasis in Biotechnology and Health;
+* Graduation in Biological Sciences (Biology) with emphasis in Biotechnology and Health;
 
 #### **2011-2023** | **High school with computer technician - Escola Técnica Vital Brasil - Belo Horizonte, Brazil**
 
@@ -109,7 +126,7 @@ Interested in acting as a **backend developer** (in C, Python, Java and SQL), or
 
 <hr>
 
-## Portfolio and contact
+#### Portfolio and contact
 
 * [GitHub](https://github.com/felipenlunkes)
 * [LinkedIn](https://linkedin.com/in/felipelunkes)
@@ -119,6 +136,8 @@ Interested in acting as a **backend developer** (in C, Python, Java and SQL), or
 * [Currículo Lattes](http://lattes.cnpq.br/2540365589952421) (Brazil)
 
 <hr>
+
+#### CV in PDF format (Portuguese and English)
 
 You can find the CV in PDF, in **[Portuguese (Brazil)](resumes/CV_PT-BR.pdf)** and **[English](resumes/CV_EN.pdf)**.
 
