@@ -10,7 +10,6 @@ mathfont: texgyredejavu-math.otf
 geometry: "left=2cm,right=2cm,top=1cm,bottom=2cm"
 ---
 
-
 <div align="center">
 
 # Felipe Miguel Nery Lunkes
@@ -141,7 +140,11 @@ Interested in acting as a **backend developer** (in C, Python, Java and SQL), or
 
 You can find the CV in PDF, in **[Portuguese (Brazil)](resumes/CV_PT-BR.pdf)** and **[English](resumes/CV_EN.pdf)**.
 
-This CV was built entirely in **Markdown** ❤.
+<hr>
+
+#### About this CV
+
+This resume was built entirely by me in **Markdown** ❤.
 
 <hr>
 
