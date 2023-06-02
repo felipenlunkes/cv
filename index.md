@@ -243,7 +243,7 @@ Click on the name of each project to access the respective repository on GitHub.
 * [LinkTree](https://linktr.ee/felipelunkes)
 * [Twitter](https://twitter.com/felipeldev)
 * [Instagram](https://instagram.com/felipeldev)
-* [Currículo Lattes](http://lattes.cnpq.br/2540365589952421) (Brazil)
+* [Currículo Lattes (Portuguese)](http://lattes.cnpq.br/2540365589952421)
 
 <hr>
 
