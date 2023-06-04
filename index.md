@@ -68,7 +68,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 * Jr backend developer (Java) working at UbiSafe/Orsegups Participações S/A from June 2023.
 
-#### **2023** | career transition
+#### **2023** | Career transition
 
 * Career transition from biologist (after completing the academic master's course in Health Sciences) to backend developer (Java, C and Python). I've been improving myself, after my technical training and work as a freelancer, for over 2 years. My portfolio can be found [**here**](https://github.com/felipenlunkes). Since 2012, I've been working as a freelancer and developing personal projects (hobbies), gaining experience in x86 Assembly, Java, Python, C, SQL, shell script, among other technologies, languages ​​and frameworks. Seeking an opportunity in Java, C or Python.
 
@@ -214,8 +214,7 @@ Click on the name of each project to access the respective repository on GitHub.
 
 * Interested in computing history, emulation and preservation of historical software;
 * Operating system collector: from Version 1 Unix through 86-DOS and Windows 1.0 to Windows 11 and FreeBSD 13. Talk to me about an operating system and I'll probably have a disk, floppy or ISO image;
-* I use the command line more than the graphical interface;
-* Proplayer from Minecraft and GhostWire: Tokyo.
+* Minecraft and GhostWire: Tokyo player.
 
 <hr>
 
