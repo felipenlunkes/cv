@@ -70,7 +70,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 #### **2023** | Career transition
 
-* Career transition from biologist (after completing the academic master's course in Health Sciences) to backend developer (Java, C and Python). I've been improving myself, after my technical training and work as a freelancer, for over 2 years. My portfolio can be found [**here**](https://github.com/felipenlunkes). Since 2012, I've been working as a freelancer and developing personal projects (hobbies), gaining experience in x86 Assembly, Java, Python, C, SQL, shell script, among other technologies, languages ​​and frameworks. Seeking an opportunity in Java, C or Python.
+* Career transition from biologist (after completing the academic master's course in Health Sciences) to backend developer (Java, C and Python). I've been improving myself, after my technical training and work as a freelancer, for over 2 years. My portfolio can be found [**here**](https://github.com/felipenlunkes). Since 2012, I've been working as a freelancer and developing personal projects (hobbies), gaining experience in x86 Assembly, Java, Python, C, SQL, shell script, among other technologies, languages and frameworks.
 
 #### **2021-2023** | Master's student - Instituto René Rachou/Fiocruz Minas - Belo Horizonte, Brazil
 
@@ -89,13 +89,13 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 #### **2013-2015** | freelance software developer
 
-* Freelance software developer, using Java, C and VisualBasic languages. Freelance software developer, using Java, C and VisualBasic languages.
+* Freelance software developer, using Java, C and VisualBasic.
 
 **Skills: Visual Basic · C · Java**
 
 #### **2012-2015** | Freelance computer maintenance technician
 
-* Technician responsible for the maintenance of desktop computers and laptops, acting as a freelancer. Technician responsible for the maintenance of desktop computers and laptops, acting as a freelancer.
+* Technician responsible for the maintenance of desktop computers and laptops, acting as a freelancer.
 
 **Skills: Microsoft Windows · Hardware · Linux**
 
@@ -134,7 +134,7 @@ Click on the name of each project to access the respective repository on GitHub.
 
   - [**Java-Contact-Book**](https://github.com/felipenlunkes/Java-Contact-Book/) | **2013**
 
-    - Diary project developed in Java and using a SQL database that allows adding and consulting personal information.
+    - Contact book developed in Java and using a SQL database that allows adding and consulting personal information.
 
   - [**Java-Random**](https://github.com/felipenlunkes/Java-Random) | **2013**
 
