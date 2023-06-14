@@ -64,7 +64,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 ## Professional experience
 
-#### **2023-currently** | Jr backend developer at UbiSafe/Orsegups Participações S/A
+#### **2023-currently** | Jr. backend developer at UbiSafe/Orsegups Participações S/A
 
 * Jr backend developer (Java) working at UbiSafe/Orsegups Participações S/A from June 2023.
 
