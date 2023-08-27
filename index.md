@@ -34,8 +34,6 @@ Backend developer with experience in implementing projects using x86 Assembly, C
 
 I have technical training in informatics and I worked as an instructor of informatics and technology democratization for students of all ages, with the federal government program Telecentros.BR (Brazil). I worked as a freelancer in software development (using Java and C with integration to MySQL databases) and computer maintenance (laptops and desktops).
 
-I graduated with a bachelor's degree in Biological Sciences from the Universidade Federal de Minas Gerais (UFMG), with an emphasis on Biotechnology and Health, focusing on the areas of Bioinformatics, Biochemistry and Molecular Biology, and I have an academic master's degree (strictu sensu) in Health Sciences from the Instituto René Rachou/Fiocruz Minas (Fundação Oswaldo Cruz).
-
 I am interested in preservation, documentation and emulation of historical software, having a large collection of operating systems collected over the years.
 
 #linux #mysql #java #opensource #c #python #freebsd #osdev #backend #devops
