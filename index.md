@@ -144,7 +144,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 * Free-DOS;
 * MS-DOS;
 * Windows DOS (Windows 1x-3x, Windows 95, 98 and ME);
-* Windows NT (NT 4.x-11);
+* Windows NT (NT 3.x-11);
 
 ##### Linux
 
