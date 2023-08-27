@@ -324,14 +324,6 @@ Click on the name of each project to access the respective repository on GitHub.
 
 <hr>
 
-## Interests
-
-* Interested in computing history, emulation and preservation of historical software;
-* Operating system collector: from Version 1 Unix through 86-DOS and Windows 1.0 to Windows 11 and FreeBSD 13. Talk to me about an operating system and I'll probably have a disk, floppy or ISO image;
-* Minecraft and GhostWire: Tokyo player (2023).
-
-<hr>
-
 ## Academic background
 
 #### **2021-2023** | **Master's degree in Health Sciences - [Instituto René Rachou/Fiocruz Minas](https://portal.fiocruz.br/) - Belo Horizonte, Brazil**
@@ -349,6 +341,14 @@ Click on the name of each project to access the respective repository on GitHub.
 
 <hr>
 
+## Interests
+
+* Interested in computing history, emulation and preservation of historical software;
+* Operating system collector: from Version 1 Unix through 86-DOS and Windows 1.0 to Windows 11 and FreeBSD 13. Talk to me about an operating system and I'll probably have a disk, floppy or ISO image;
+* Minecraft and GhostWire: Tokyo player (2023).
+
+<hr>
+
 #### Portfolio and contact
 
 * [GitHub](https://github.com/felipenlunkes)
@@ -359,11 +359,11 @@ Click on the name of each project to access the respective repository on GitHub.
 
 <hr>
 
-#### CV in PDF format (Portuguese and English)
+<!-- #### CV in PDF format (Portuguese and English)
 
 You can find the CV in PDF, in **[Portuguese (Brazil)](resumes/CV_PT-BR.pdf)** and **[English](resumes/CV_EN.pdf)**.
 
-<hr>
+<hr> -->
 
 #### About this CV
 
