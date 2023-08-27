@@ -124,23 +124,13 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 <hr>
 
-## Projects, portfolio and technologies
+## Tools and technologies
+
+![c](https://img.shields.io/badge/C-F5b342?style=for-the-badge&logo=c&logoColor=white)
+
+## Projects and portfolio
 
 Click on the name of each project to access the respective repository on GitHub.
-
-* C:
-
-  - [**Lunix Operating System (Lunix OS)**](https://github.com/felipenlunkes/lunix) | **2022-currently**
-
-    - Lunix OS is an operating system in early development and is developed in C language. Lunix OS has educational and testing purpose, allowing me to improve my experience in C. Furthermore, it is documented, allowing other people to use it for the same end.
-
-  - [**PX-DOS**](https://github.com/felipenlunkes/PX-DOS) | **2013-2015**
-
-    - PX-DOS is derived from an older version of a DOS system, the Public Domain Operating System (PDOS). PX-DOS adds new layers, abstractions and functions on top of PDOS and extends its functionality. Several new utilities (userland) have also been added to the base system. System components were divided into repositories. We have the repository which contains the kernel, boot loader and shell, which contains the system init (user mode) and system utilities. We also have the repository with the assembly and libc development libraries.
-
-  - [**PXBAS**](https://github.com/felipenlunkes/PXBAS) | **2011-2013**
-
-    - PXBAS is a simple BASIC interpreter for MS-DOS, FreeDOS, PX-DOS, PDOS and compatibles. It may work on 32-bit versions of Windows.
 
 * Java:
 
@@ -160,21 +150,19 @@ Click on the name of each project to access the respective repository on GitHub.
 
     - Varied Java projects using SQL databases and Java methods.
 
-* Python:
+* C:
 
-  - [**Python-exp**](https://github.com/felipenlunkes?tab=repositories) | **2021-currently**
+  - [**Lunix Operating System (Lunix OS)**](https://github.com/felipenlunkes/lunix) | **2022-currently**
 
-    - General purpose tools developed in Python to automate or facilitate tasks performed at the command line. Also, in-language learning utilities like BMI calculator. The projects are distributed among several repositories on my GitHub.
+    - Lunix OS is an operating system in early development and is developed in C language. Lunix OS has educational and testing purpose, allowing me to improve my experience in C. Furthermore, it is documented, allowing other people to use it for the same end.
 
-  - Use of Python to create a frontend for tools that run on the command line. Mainly using
-  Tkinter and derivatives, targeting Linux and FreeBSD (WSL on Windows is also supported);
-  - Creating small programs to study algorithms in Python;
+  - [**PX-DOS**](https://github.com/felipenlunkes/PX-DOS) | **2013-2015**
 
-* C++:
+    - PX-DOS is derived from an older version of a DOS system, the Public Domain Operating System (PDOS). PX-DOS adds new layers, abstractions and functions on top of PDOS and extends its functionality. Several new utilities (userland) have also been added to the base system. System components were divided into repositories. We have the repository which contains the kernel, boot loader and shell, which contains the system init (user mode) and system utilities. We also have the repository with the assembly and libc development libraries.
 
-  - [**Arduino**](https://github.com/felipenlunkes/AxiomKernel) | **2012-2018**
+  - [**PXBAS**](https://github.com/felipenlunkes/PXBAS) | **2011-2013**
 
-    - This is one of the Arduino based projects developed between 2012-2018. Other projects can be found among my repositories on GitHub.
+    - PXBAS is a simple BASIC interpreter for MS-DOS, FreeDOS, PX-DOS, PDOS and compatibles. It may work on 32-bit versions of Windows.
 
 * Assembly:
 
@@ -190,11 +178,21 @@ Click on the name of each project to access the respective repository on GitHub.
 
     - MIPS Assembly code written by me for the Discipline of Computer Organization I (DCC006) at the Computer Science Department of the Federal University of Minas Gerais (UFMG), in 2018. The code can be executed in the MARS MIPS Simulator.
 
-* Linux:
+* Python:
 
-  - Netuno OS | **2012-2014**
+  - [**Python-exp**](https://github.com/felipenlunkes?tab=repositories) | **2021-currently**
 
-    - During 2012, motivated to learn more about how a modern operating system works, I started to develop a small and simple Linux distribution, choosing to maintain a command line interface. For that, I followed the steps proposed by the Linux From Scratch project. The result was Netuno OS, an operating system based on the 2.6 series Linux kernel, standard tools and utilities. There are no sources other than those available for the packages used, so a repository had not been created at the time. What was left of it was an installation image of the system, approximately 192 Mb, dated 2012 and updated in 2014. At the moment, I also developed some kernel modules to study the interfaces and use of the /proc directory.
+    - General purpose tools developed in Python to automate or facilitate tasks performed at the command line. Also, in-language learning utilities like BMI calculator. The projects are distributed among several repositories on my GitHub.
+
+  - Use of Python to create a frontend for tools that run on the command line. Mainly using
+  Tkinter and derivatives, targeting Linux and FreeBSD (WSL on Windows is also supported);
+  - Creating small programs to study algorithms in Python;
+
+* C++:
+
+  - [**Arduino**](https://github.com/felipenlunkes/AxiomKernel) | **2012-2018**
+
+    - This is one of the Arduino based projects developed between 2012-2018. Other projects can be found among my repositories on GitHub.
 
 * Shell script:
 
@@ -215,6 +213,12 @@ Click on the name of each project to access the respective repository on GitHub.
   - [**My Resume**](https://github.com/felipenlunkes/cv/tree/main/resumes) | **2022-2023**
 
     - This resume was entirely developed in Markdown and converted into PDF with the `pandoc` utility.
+
+* Linux:
+
+  - Netuno OS | **2012-2014**
+
+    - During 2012, motivated to learn more about how a modern operating system works, I started to develop a small and simple Linux distribution, choosing to maintain a command line interface. For that, I followed the steps proposed by the Linux From Scratch project. The result was Netuno OS, an operating system based on the 2.6 series Linux kernel, standard tools and utilities. There are no sources other than those available for the packages used, so a repository had not been created at the time. What was left of it was an installation image of the system, approximately 192 Mb, dated 2012 and updated in 2014. At the moment, I also developed some kernel modules to study the interfaces and use of the /proc directory.
 
 <hr>
 
