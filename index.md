@@ -139,10 +139,11 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 ### Operating Systems and platforms
 
-##### DOS (Disk Operating System) and Windows 
+##### DOS (Disk Operating System), OS/2 and Windows 
 
 * Free-DOS;
 * MS-DOS;
+* OS/2;
 * Windows DOS (Windows 1x-3x, Windows 95, 98 and ME);
 * Windows NT (NT 3.x-11);
 
@@ -162,6 +163,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 * FreeBSD;
 * macOS (including PowerPC versions);
+* OpenIndiana (OpenSolaris);
 * Plan 9 from Bell Labs;
 * UnixWare;
 * UNIX System V;
@@ -207,6 +209,12 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 * Bitbucket;
 * GitHub;
 
+##### Utilities
+
+* DBeaver;
+* MySQL Workbench;
+* Postman;
+
 ##### Workflow
 
 * Jenkins;
@@ -217,6 +225,13 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 * QEMU;
 * VirtualBox;
 * Microsoft VirtualPC.
+
+##### Design tools
+
+* Adobe Creative Cloud;
+* Canva;
+* GNU GIMP;
+* Inkscape;
 
 ## Projects and portfolio
 
