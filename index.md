@@ -256,9 +256,8 @@ Click on the name of each project to access the respective repository on GitHub.
 * [GitHub](https://github.com/felipenlunkes)
 * [LinkedIn](https://linkedin.com/in/felipelunkes)
 * [LinkTree](https://linktr.ee/felipelunkes)
-* [Twitter](https://twitter.com/felipeldev)
-* [Instagram](https://instagram.com/felipeldev)
-* [Currículo Lattes (Portuguese)](http://lattes.cnpq.br/2540365589952421)
+* [Twitter](https://twitter.com/fmlunx)
+* [Instagram](https://instagram.com/fmlunx)
 
 <hr>
 
