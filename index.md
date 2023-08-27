@@ -224,14 +224,28 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 * QEMU;
 * VirtualBox;
-* Microsoft VirtualPC.
+* Microsoft VirtualPC;
 
 ##### Design tools
 
 * Adobe Creative Cloud;
 * Canva;
 * GNU GIMP;
-* Inkscape;
+* Inkscape.
+
+<hr>
+
+## Skills
+
+* Fluent Portuguese (native) and advanced English (C1);
+* Domain of the Office package (including open source alternatives) and statistical packages (R and Prism);
+* Domain of C, Java, Python, x86 Assembly, shell script (Unix-like systems), SQL (see **[projects](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md))** and Markdown;
+* Familiarity with JavaScript, VisualBasic and C++;
+* Domain of versioning tools, such as git (including use of the command line tool);
+* Self-taught in several programming languages;
+* Good communication and teamwork;
+
+<hr>
 
 ## Projects and portfolio
 
@@ -324,18 +338,6 @@ Click on the name of each project to access the respective repository on GitHub.
   - Netuno OS | **2012-2014**
 
     - During 2012, motivated to learn more about how a modern operating system works, I started to develop a small and simple Linux distribution, choosing to maintain a command line interface. For that, I followed the steps proposed by the Linux From Scratch project. The result was Netuno OS, an operating system based on the 2.6 series Linux kernel, standard tools and utilities. There are no sources other than those available for the packages used, so a repository had not been created at the time. What was left of it was an installation image of the system, approximately 192 Mb, dated 2012 and updated in 2014. At the moment, I also developed some kernel modules to study the interfaces and use of the /proc directory.
-
-<hr>
-
-## Skills
-
-* Fluent Portuguese (native) and advanced English (C1);
-* Domain of the Office package (including open source alternatives) and statistical packages (R and Prism);
-* Domain of C, Java, Python, x86 Assembly, shell script (Unix-like systems), SQL (see **[projects](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md))** and Markdown;
-* Familiarity with JavaScript, VisualBasic and C++;
-* Domain of versioning tools, such as git (including use of the command line tool);
-* Self-taught in several programming languages;
-* Good communication and teamwork;
 
 <hr>
 
