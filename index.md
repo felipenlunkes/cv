@@ -144,6 +144,10 @@ Click on the name of each project to access the respective repository on GitHub.
 
 * Java:
 
+  - [**FilmPlay**](https://github.com/felipenlunkes/FilmPlay) | **2023**
+
+    - FilmPlay is a small project developed to obtain movie information using the [OMDb](https://www.omdbapi.com/) API. To get the information via HTTP request, FilmPlay uses the GSON library to serialize and deserialize the JSON sent as a response. Application libraries and build are managed by Gradle.
+
   - [**Java Power Shell (JpS)**](https://github.com/felipenlunkes/Java-Power-Shell) | **2013**
 
     - Java Power Shell (JPS) is a portable shell developed in Java and tested on Linux, macOS and Windows. Used as a learning project for the main Java interfaces during the technical course, using language inheritance and standard methods.
