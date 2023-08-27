@@ -230,20 +230,6 @@ Click on the name of each project to access the respective repository on GitHub.
 
     - Varied Java projects using SQL databases and Java methods.
 
-* C:
-
-  - [**Lunix Operating System (Lunix OS)**](https://github.com/felipenlunkes/lunix) | **2022-currently**
-
-    - Lunix OS is an operating system in early development and is developed in C language. Lunix OS has educational and testing purpose, allowing me to improve my experience in C. Furthermore, it is documented, allowing other people to use it for the same end.
-
-  - [**PX-DOS**](https://github.com/felipenlunkes/PX-DOS) | **2013-2015**
-
-    - PX-DOS is derived from an older version of a DOS system, the Public Domain Operating System (PDOS). PX-DOS adds new layers, abstractions and functions on top of PDOS and extends its functionality. Several new utilities (userland) have also been added to the base system. System components were divided into repositories. We have the repository which contains the kernel, boot loader and shell, which contains the system init (user mode) and system utilities. We also have the repository with the assembly and libc development libraries.
-
-  - [**PXBAS**](https://github.com/felipenlunkes/PXBAS) | **2011-2013**
-
-    - PXBAS is a simple BASIC interpreter for MS-DOS, FreeDOS, PX-DOS, PDOS and compatibles. It may work on 32-bit versions of Windows.
-
 * Assembly:
 
   - [**Hexagonix OS**](https://github.com/hexagonix) | **2015-currently**
@@ -258,6 +244,20 @@ Click on the name of each project to access the respective repository on GitHub.
 
     - MIPS Assembly code written by me for the Discipline of Computer Organization I (DCC006) at the Computer Science Department of the Federal University of Minas Gerais (UFMG), in 2018. The code can be executed in the MARS MIPS Simulator.
 
+* C:
+
+  - [**Lunix Operating System (Lunix OS)**](https://github.com/felipenlunkes/lunix) | **2022-currently**
+
+    - Lunix OS is an operating system in early development and is developed in C language. Lunix OS has educational and testing purpose, allowing me to improve my experience in C. Furthermore, it is documented, allowing other people to use it for the same end.
+
+  - [**PX-DOS**](https://github.com/felipenlunkes/PX-DOS) | **2013-2015**
+
+    - PX-DOS is derived from an older version of a DOS system, the Public Domain Operating System (PDOS). PX-DOS adds new layers, abstractions and functions on top of PDOS and extends its functionality. Several new utilities (userland) have also been added to the base system. System components were divided into repositories. We have the repository which contains the kernel, boot loader and shell, which contains the system init (user mode) and system utilities. We also have the repository with the assembly and libc development libraries.
+
+  - [**PXBAS**](https://github.com/felipenlunkes/PXBAS) | **2011-2013**
+
+    - PXBAS is a simple BASIC interpreter for MS-DOS, FreeDOS, PX-DOS, PDOS and compatibles. It may work on 32-bit versions of Windows.
+
 * Python:
 
   - [**Python-exp**](https://github.com/felipenlunkes?tab=repositories) | **2021-currently**
@@ -267,12 +267,6 @@ Click on the name of each project to access the respective repository on GitHub.
   - Use of Python to create a frontend for tools that run on the command line. Mainly using
   Tkinter and derivatives, targeting Linux and FreeBSD (WSL on Windows is also supported);
   - Creating small programs to study algorithms in Python;
-
-* C++:
-
-  - [**Arduino**](https://github.com/felipenlunkes/AxiomKernel) | **2012-2018**
-
-    - This is one of the Arduino based projects developed between 2012-2018. Other projects can be found among my repositories on GitHub.
 
 * Shell script:
 
@@ -294,6 +288,12 @@ Click on the name of each project to access the respective repository on GitHub.
 
     - This resume was entirely developed in Markdown and converted into PDF with the `pandoc` utility.
 
+* C++:
+
+  - [**Arduino**](https://github.com/felipenlunkes/AxiomKernel) | **2012-2018**
+
+    - This is one of the Arduino based projects developed between 2012-2018. Other projects can be found among my repositories on GitHub.
+    
 * Linux:
 
   - Netuno OS | **2012-2014**
