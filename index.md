@@ -124,7 +124,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 <hr>
 
-## Skills, tools and technologies
+## Tools and technologies
 
 ### Programming languages
 
@@ -293,7 +293,7 @@ Click on the name of each project to access the respective repository on GitHub.
   - [**Arduino**](https://github.com/felipenlunkes/AxiomKernel) | **2012-2018**
 
     - This is one of the Arduino based projects developed between 2012-2018. Other projects can be found among my repositories on GitHub.
-    
+
 * Linux:
 
   - Netuno OS | **2012-2014**
