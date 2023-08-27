@@ -103,7 +103,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
   - Preparation of theoretical and practical classes for students of all years of high school;
   - Preparation and correction of tests and assessment activities;
 
-#### **2013-2015** | freelance software developer
+#### **2013-2015** | Freelance software developer
 
 * Freelance software developer, using Java, C and VisualBasic.
 
