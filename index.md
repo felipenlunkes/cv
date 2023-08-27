@@ -30,9 +30,15 @@ Belo Horizonte, Brazil
 
 Acting as a **backend Jr. developer** at UbiSafe/Orsegups Participações S/A.
 
-I have experience in development using C, Python, Java and x86 Assembly, in addition to using tools such as git, gcc, nasm, fasm, among others. Command line aficionado, I have experience in Unix-like systems such as Linux, FreeBSD and macOS, as well as shell script development. I have a technical background in informatics at Escola Técnica Vital Brasil-Polimig (2013) where I became familiar with notions of hardware, robotics, HTML/CSS, Pascal, Delphi, C, Java, SQL, systems analysis, entrepreneurship and VisualBasic. Among the programming languages, I studied Java, C, Visual Basic and SQL for 1 year. I've also become a self-taught x86 assembly developer since then. During high school with technical training, I worked as a computer instructor for all ages, with the federal government program Telecentros.BR, in addition to working as a freelancer in software development and maintenance of laptops and desktop computers. I have training in Office Package, Windows, web design and computer maintenance by CNI (2010). Later, I graduated with a bachelor's degree in Biological Sciences from the Universidade Federal de Minas Gerais (UFMG), with an emphasis on Biotechnology and Health, focusing on the areas of Bioinformatics, Biochemistry and Molecular Biology.
+Backend developer with experience in implementing projects using x86 Assembly, C, Java and Python, using tools such as git, gcc, nasm, fasm and virtualization tools (see below my open source projects, in the projects section). Experience managing and documenting open source projects. I have experience in using and administering Unix-like systems, such as Linux, FreeBSD and macOS, as well as developing shell scripts. In my spare time, I try to improve myself in Java, C and Rust, in addition to developing an operating system project (Hexagonix, which you can find below, in the projects section), as well as low-level projects. I have a growing interest in Go.
 
-In my spare time, I am interested in studying and improving myself, in addition to developing an operating system author project (Hexagonix) and associated projects, as well as projects in low-level programming. I always try to update myself in the most used languages ​​and frameworks. Growing interest in Rust and Go. Starting studies in other languages, such as JavaScript, Rust and Go.
+I have technical training in informatics and I worked as an instructor of informatics and technology democratization for students of all ages, with the federal government program Telecentros.BR (Brazil). I worked as a freelancer in software development (using Java and C with integration to MySQL databases) and computer maintenance (laptops and desktops).
+
+I graduated with a bachelor's degree in Biological Sciences from the Universidade Federal de Minas Gerais (UFMG), with an emphasis on Biotechnology and Health, focusing on the areas of Bioinformatics, Biochemistry and Molecular Biology, and I have an academic master's degree (strictu sensu) in Health Sciences from the Instituto René Rachou/Fiocruz Minas (Fundação Oswaldo Cruz).
+
+I am interested in preservation, documentation and emulation of historical software, having a large collection of operating systems collected over the years.
+
+#linux #mysql #java #opensource #c #python #freebsd #osdev #backend #devops
 
 See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**LinkedIn**](https://linkedin.com/in/felipenlunkes).
 
@@ -74,7 +80,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 ## Professional experience
 
-#### **2023-currently** | Jr backend developer at UbiSafe/Orsegups Participações S/A
+#### **2023-currently** | Jr. backend developer at UbiSafe/Orsegups Participações S/A
 
 * Jr backend developer (Java) working at UbiSafe/Orsegups Participações S/A from June 2023.
 
