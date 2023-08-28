@@ -34,11 +34,11 @@ Backend developer with experience in implementing projects using x86 Assembly, C
 
 I have technical training in informatics and I worked as an instructor of informatics and technology democratization for students of all ages, with the federal government program Telecentros.BR (Brazil). I worked as a freelancer in software development (using Java and C with integration to MySQL databases) and computer maintenance (laptops and desktops).
 
-I graduated with a bachelor's degree in Biological Sciences from the Universidade Federal de Minas Gerais (UFMG), with an emphasis on Biotechnology and Health, focusing on the areas of Bioinformatics, Biochemistry and Molecular Biology, and I have an academic master's degree (strictu sensu) in Health Sciences from the Instituto René Rachou/Fiocruz Minas (Fundação Oswaldo Cruz).
+I graduated with a bachelor's degree in Biological Sciences from the Universidade Federal de Minas Gerais (UFMG), with an emphasis on Biotechnology and Health, focusing on the areas of Bioinformatics, Biochemistry and Molecular Biology, and I have an academic master's degree (*strictu sensu*) in Health Sciences from the Instituto René Rachou/Fiocruz Minas (Fundação Oswaldo Cruz).
 
 I am interested in preservation, documentation and emulation of historical software, having a large collection of operating systems collected over the years.
 
-#linux #mysql #java #opensource #c #python #freebsd #osdev #backend #devops
+#linux #mysql #java #opensource #c #python #freebsd #osdev #backend
 
 See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**LinkedIn**](https://linkedin.com/in/felipenlunkes).
 
@@ -143,32 +143,15 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 ##### DOS (Disk Operating System), OS/2 and Windows 
 
-* Free-DOS;
-* MS-DOS;
-* OS/2;
-* Windows DOS (Windows 1x-3x, Windows 95, 98 and ME);
-* Windows NT (NT 3.x-11);
+* Free-DOS, MS-DOS, OS/2, Windows DOS (Windows 1x-3x, Windows 95, 98 and ME) and Windows NT (NT 3.x-11);
 
 ##### Linux
 
-* Arch Linux;
-* Debian;
-* Fedora;
-* Gentoo;
-* Kali Linux;
-* Pop!_OS;
-* OpenSUSE;
-* Ubuntu;
-* ChromeOS;
+* Arch Linux, Debia, Fedora, Gentoo, Kali Linux, Pop!_OS, OpenSUSE, Ubuntu and ChromeOS;
 
 ##### BSD and UNIX
 
-* FreeBSD;
-* macOS (including PowerPC versions);
-* OpenIndiana (OpenSolaris);
-* Plan 9 from Bell Labs;
-* UnixWare;
-* UNIX System V;
+* FreeBSD, macOS (including PowerPC versions), OpenIndiana (OpenSolaris), Plan 9 from Bell Labs, UnixWare and UNIX System V;
 
 ##### Unix-like
 
@@ -176,10 +159,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 ##### Other OS
 
-* BeOS;
-* Haiku;
-* Mac OS Classic;
-* ReactOS;
+* BeOS, Haiku, Mac OS Classic and ReactOS;
 
 ##### Platforms
 
@@ -189,18 +169,11 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 ##### IDEs
 
-* Android Studio;
-* Arduino IDE;
-* Eclipse;
-* IntelliJ IDEA;
-* Visual Studio;
-* Visual Studio Code;
+* Android Studio, Arduino IDE, Eclipse, IntelliJ IDEA, Visual Studio and Visual Studio Code;
 
 ##### Terminal
 
-* GNU Bash;
-* tcsh;
-* Windows Terminal (including PowerShell and Command Prompt);
+* GNU Bash, tcsh and Windows Terminal (including PowerShell and Command Prompt);
 
 ##### Databases
 
@@ -208,33 +181,23 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 ##### Git
 
-* Git;
-* Bitbucket;
-* GitHub;
+* Git, Bitbucket and GitHub;
 
 ##### Utilities
 
-* DBeaver;
-* MySQL Workbench;
-* Postman;
+* DBeaver, MySQL Workbench and Postman;
 
 ##### Workflow
 
-* Jenkins;
-* Jira;
+* Jenkins and Jira;
 
 ##### Virtualization
 
-* QEMU;
-* VirtualBox;
-* Microsoft VirtualPC;
+* QEMU, VirtualBox and Microsoft VirtualPC;
 
 ##### Design tools
 
-* Adobe Creative Cloud;
-* Canva;
-* GNU GIMP;
-* Inkscape.
+* Adobe Creative Cloud, Canva, GNU GIMP and Inkscape.
 
 <hr>
 
