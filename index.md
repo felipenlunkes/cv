@@ -128,16 +128,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 ### Programming languages
 
-* x86 Assembly (using NASM, FASM and GNU AS);
-* C;
-* Delphi;
-* Java;
-* VisualBasic .NET;
-* Pascal;
-* Python;
-* Shell script (GNU Bash, tcsh);
-* Make;
-* Markdown;
+* x86 Assembly (using NASM, FASM and GNU AS), C, Delphi, Java, VisualBasic .NET, Pascal, Python, Shell script (GNU Bash, tcsh), Make and Markdown;
 
 ### Operating Systems and platforms
 
