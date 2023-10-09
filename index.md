@@ -82,7 +82,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 #### **2023-currently** | Jr. backend developer at UbiSafe/Orsegups Participações S/A
 
-* Jr backend developer (Java) working at UbiSafe/Orsegups Participações S/A from June 2023.
+* Backend developer (Java) working at UbiSafe/Orsegups Participações S/A from June 2023.
 
 #### **2023** | Career transition
 
@@ -208,24 +208,6 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 Click on the name of each project to access the respective repository on GitHub.
 
-* Java:
-
-  - [**FilmPlay**](https://github.com/felipenlunkes/FilmPlay) | **2023**
-
-    - FilmPlay is a small project developed to obtain movie information using the [OMDb](https://www.omdbapi.com/) API. To get the information via HTTP request, FilmPlay uses the GSON library to serialize and deserialize the JSON sent as a response. Application libraries and build are managed by Gradle.
-
-  - [**Java Power Shell (JpS)**](https://github.com/felipenlunkes/Java-Power-Shell) | **2013**
-
-    - Java Power Shell (JPS) is a portable shell developed in Java and tested on Linux, macOS and Windows. Used as a learning project for the main Java interfaces during the technical course, using language inheritance and standard methods.
-
-  - [**Java-Contact-Book**](https://github.com/felipenlunkes/Java-Contact-Book/) | **2013**
-
-    - Contact book developed in Java and using a SQL database that allows adding and consulting personal information.
-
-  - [**Java-Random**](https://github.com/felipenlunkes/Java-Random) | **2013**
-
-    - Varied Java projects using SQL databases and Java methods.
-
 * Assembly:
 
   - [**Hexagonix OS**](https://github.com/hexagonix) | **2015-currently**
@@ -254,25 +236,29 @@ Click on the name of each project to access the respective repository on GitHub.
 
     - PXBAS is a simple BASIC interpreter for MS-DOS, FreeDOS, PX-DOS, PDOS and compatibles. It may work on 32-bit versions of Windows.
 
-* Python:
+* C++:
 
-  - [**Python-exp**](https://github.com/felipenlunkes?tab=repositories) | **2021-currently**
+  - [**Arduino**](https://github.com/felipenlunkes/AxiomKernel) | **2012-2018**
 
-    - General purpose tools developed in Python to automate or facilitate tasks performed at the command line. Also, in-language learning utilities like BMI calculator. The projects are distributed among several repositories on my GitHub.
+    - This is one of the Arduino based projects developed between 2012-2018. Other projects can be found among my repositories on GitHub.
 
-  - Use of Python to create a frontend for tools that run on the command line. Mainly using
-  Tkinter and derivatives, targeting Linux and FreeBSD (WSL on Windows is also supported);
-  - Creating small programs to study algorithms in Python;
+* Java:
 
-* Shell script:
+  - [**FilmPlay**](https://github.com/felipenlunkes/FilmPlay) | **2023**
 
-  - [**freebsd-config**](https://github.com/felipenlunkes/freebsd-config) | **2022-currently**
+    - FilmPlay is a small project developed to obtain movie information using the [OMDb](https://www.omdbapi.com/) API. To get the information via HTTP request, FilmPlay uses the GSON library to serialize and deserialize the JSON sent as a response. Application libraries and build are managed by Gradle.
 
-    - The project relies on a shell script designed to automate the installation of various packages after installing FreeBSD. By default, installing FreeBSD does not install graphics and network drivers, as well as GNU utilities and a GUI. The script aims to automate network and graphics configuration, ask the user to choose one of several graphical environments to install and install GNU tools, such as bash and nano, for example.
+  - [**Java Power Shell (JpS)**](https://github.com/felipenlunkes/Java-Power-Shell) | **2013**
 
-  - [**Run Ancient UNIX**](https://github.com/felipenlunkes/run-ancient-unix) | **2022-currently**
+    - Java Power Shell (JPS) is a portable shell developed in Java and tested on Linux, macOS and Windows. Used as a learning project for the main Java interfaces during the technical course, using language inheritance and standard methods.
 
-    - This project/repository aims to facilitate the execution of old versions of UNIX, developed for discontinued architectures, such as PDP-11. This includes the Version 1 UNIX, Version 5 UNIX, and Version 7 UNIX historical versions. The project includes a script and a Python frontend responsible for downloading disk images of old UNIX versions, as well as preparing these images to run on modern architectures.
+  - [**Java-Contact-Book**](https://github.com/felipenlunkes/Java-Contact-Book/) | **2013**
+
+    - Contact book developed in Java and using a SQL database that allows adding and consulting personal information.
+
+  - [**Java-Random**](https://github.com/felipenlunkes/Java-Random) | **2013**
+
+    - Varied Java projects using SQL databases and Java methods.
 
 * Markdown:
 
@@ -284,11 +270,24 @@ Click on the name of each project to access the respective repository on GitHub.
 
     - This resume was entirely developed in Markdown and converted into PDF with the `pandoc` utility.
 
-* C++:
+* Python:
 
-  - [**Arduino**](https://github.com/felipenlunkes/AxiomKernel) | **2012-2018**
+  - [**Python-exp**](https://github.com/felipenlunkes?tab=repositories) | **2021-currently**
 
-    - This is one of the Arduino based projects developed between 2012-2018. Other projects can be found among my repositories on GitHub.
+    - General purpose tools developed in Python to automate or facilitate tasks performed at the command line. Also, in-language learning utilities like BMI calculator. The projects are distributed among several repositories on my GitHub.
+
+  - Use of Python to create a frontend for tools that run on the command line. Mainly using Tkinter and derivatives, targeting Linux and FreeBSD (WSL on Windows is also supported);
+  - Creating small programs to study algorithms in Python;
+
+* Shell script:
+
+  - [**freebsd-config**](https://github.com/felipenlunkes/freebsd-config) | **2022-currently**
+
+    - The project relies on a shell script designed to automate the installation of various packages after installing FreeBSD. By default, installing FreeBSD does not install graphics and network drivers, as well as GNU utilities and a GUI. The script aims to automate network and graphics configuration, ask the user to choose one of several graphical environments to install and install GNU tools, such as bash and nano, for example.
+
+  - [**Run Ancient UNIX**](https://github.com/felipenlunkes/run-ancient-unix) | **2022-currently**
+
+    - This project/repository aims to facilitate the execution of old versions of UNIX, developed for discontinued architectures, such as PDP-11. This includes the Version 1 UNIX, Version 5 UNIX, and Version 7 UNIX historical versions. The project includes a script and a Python frontend responsible for downloading disk images of old UNIX versions, as well as preparing these images to run on modern architectures.
 
 * Linux:
 
