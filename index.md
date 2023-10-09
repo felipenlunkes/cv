@@ -208,6 +208,8 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 Click on the name of each project to access the respective repository on GitHub.
 
+#### Sorted by programming languages
+
 * Assembly:
 
   - [**Hexagonix OS**](https://github.com/hexagonix) | **2015-currently**
@@ -288,6 +290,8 @@ Click on the name of each project to access the respective repository on GitHub.
   - [**Run Ancient UNIX**](https://github.com/felipenlunkes/run-ancient-unix) | **2022-currently**
 
     - This project/repository aims to facilitate the execution of old versions of UNIX, developed for discontinued architectures, such as PDP-11. This includes the Version 1 UNIX, Version 5 UNIX, and Version 7 UNIX historical versions. The project includes a script and a Python frontend responsible for downloading disk images of old UNIX versions, as well as preparing these images to run on modern architectures.
+
+#### Sorted by other technologies
 
 * Linux:
 
