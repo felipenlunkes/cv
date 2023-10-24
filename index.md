@@ -55,7 +55,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 * [Java: consumindo API, gravando arquivos e lidando com erros](https://cursos.alura.com.br/certificate/a4ea3fd8-64fa-48bc-b841-d259d42348eb) - Alura;
 * [Java: criando a sua primeira aplicação](https://cursos.alura.com.br/certificate/577efc46-1287-459c-99df-264464b8661e) - Alura;
 * [Java: trabalhando com listas e coleções de dados](https://cursos.alura.com.br/certificate/60d9383b-ff03-431e-839c-04331399bcca) - Alura;
-* [SOLID com Java: princípiod da programação orientada a objetos](https://cursos.alura.com.br/certificate/f7519fe2-bf16-4cb5-a46d-b772031b3b86) - Alura;
+* [SOLID com Java: princípios da programação orientada a objetos](https://cursos.alura.com.br/certificate/f7519fe2-bf16-4cb5-a46d-b772031b3b86) - Alura;
 * [Swagger: documentando suas APIs](https://cursos.alura.com.br/certificate/054e0bb2-294c-45ab-b45d-920b5e431763) - Alura;
 * [TDD e Java: testes automatizados com JUnit](https://cursos.alura.com.br/certificate/1a0a6e8f-072b-48d5-9751-8176ec4b5aa7) - Alura;
 * Attending Bootcamp: Python developer - Faculdade XP Educação;
