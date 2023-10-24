@@ -28,7 +28,7 @@ Belo Horizonte, Brazil
 
 <div align="justify">
 
-Acting as a **backend Jr. developer** at UbiSafe/Orsegups Participações S/A.
+Acting as a **backend developer** at UbiSafe/Orsegups Participações S/A.
 
 Backend developer with experience in implementing projects using x86 Assembly, C, Java and Python, using tools such as git, gcc, nasm, fasm and virtualization tools (see below my open source projects, in the projects section). Experience managing and documenting open source projects. I have experience in using and administering Unix-like systems, such as Linux, FreeBSD and macOS, as well as developing shell scripts. In my spare time, I try to improve myself in Java, C and Rust, in addition to developing an operating system project (Hexagonix, which you can find below, in the projects section), as well as low-level projects. I have a growing interest in Go.
 
@@ -80,7 +80,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 ## Professional experience
 
-#### **2023-currently** | Jr. backend developer at UbiSafe/Orsegups Participações S/A
+#### **2023-currently** | Backend developer at UbiSafe/Orsegups Participações S/A
 
 * Backend developer (Java) working at UbiSafe/Orsegups Participações S/A from June 2023.
 
