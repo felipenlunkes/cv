@@ -91,7 +91,8 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 #### **2021-2023** | Master's student - Instituto René Rachou/Fiocruz Minas - Belo Horizonte, Brazil
 
 * Master's degree in Health Sciences from IRR/Fundação Oswaldo Cruz;
-* Project that aims to functionally characterize *Schistosoma mansoni* proteins.
+* Project that aims to functionally characterize *Schistosoma mansoni* proteins;
+* Master's thesis available [**here**](https://www.arca.fiocruz.br/handle/icict/60305).
 
 #### **2016-2020** | Scientific Initiation Student - René Rachou Institute/Fiocruz Minas - Belo Horizonte, Brazil
 
@@ -306,6 +307,7 @@ Click on the name of each project to access the respective repository on GitHub.
 #### **2021-2023** | **Master's degree in Health Sciences - [Instituto René Rachou/Fiocruz Minas](https://portal.fiocruz.br/) - Belo Horizonte, Brazil**
 
 * Master's degree in Health Sciences at IRR/Fundação Oswaldo Cruz;
+* Master's thesis available [**here**](https://www.arca.fiocruz.br/handle/icict/60305).
 
 #### **2016-2020** | **Graduation in Biological Sciences (Biology) - [Universidade Federal de Minas Gerais](https://ufmg.br/) - Belo Horizonte, Brazil**
 
