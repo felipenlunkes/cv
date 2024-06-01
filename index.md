@@ -34,7 +34,7 @@ Backend software developer working on project development using, among other tec
 
 I have experience in implementing projects using several languages, the main ones being: x86 Assembly, Java, C, Python and shell scripts, using various tools, such as git, gcc, assemblers (nasm, fasm and gas) and virtualization and emulation tools (see my open source projects below, in the Projects and Portfolio section). Experience in managing and documenting open source projects and in the use and administration of Unix-like systems, such as Linux, FreeBSD and macOS. I have been continuously improving myself in Java, C, Rust, Python and x86 Assembly and since 2015 I have been developing an original operating system project (Hexagonix, which you can find below, in the Projects and Portfolio section) completely written in x86 Assembly, as well as others low-level projects.
 
-I am graduating in Systems Analysis and Development (Análise e Desenvolvimento de Sistemas - ADS) from the Pontifícia Universidade de Minas Gerais (PUC Minas, Brazil). I have technical course in IT and worked as a IT and technology democratization instructor for students of all ages, alongside the federal government program Telecentros.BR. I worked as a freelancer in software development (using Java and C with integration to MySQL databases) and computer maintenance. Furthermore, I graduated with a bachelor's degree in Biological Sciences from the Universidade Federal de Minas Gerais (UFMG, Brazil), with an emphasis on Biotechnology and Health, with a focus on the areas of Bioinformatics, Biochemistry and Molecular Biology, and I have an academic master's degree (strictu sensu) in Health Sciences by the Instituto René Rachou/Fiocruz Minas (Fundação Oswaldo Cruz, Brazil).
+I am graduating in Systems Analysis and Development (Análise e Desenvolvimento de Sistemas - ADS) from the Pontifícia Universidade de Minas Gerais (PUC Minas, Brazil). Computer technician who worked as a IT and technology democratization instructor for students of all ages, alongside the federal government program Telecentros.BR. I worked as a freelancer in software development (using Java and C with integration to MySQL databases) and computer maintenance. Furthermore, I graduated with a bachelor's degree in Biological Sciences from the Universidade Federal de Minas Gerais (UFMG, Brazil), with an emphasis on Biotechnology and Health, with a focus on the areas of Bioinformatics, Biochemistry and Molecular Biology, and I have an academic master's degree (strictu sensu) in Health Sciences by the Instituto René Rachou/Fiocruz Minas (Fundação Oswaldo Cruz, Brazil).
 
 I am interested in preservation, documentation and emulation of historical software, having a large collection of operating systems collected over the years.
 
@@ -336,9 +336,9 @@ Click on the name of each project to access the respective repository on GitHub.
 * Interested in computing history, emulation and preservation of historical software;
 * Operating system collector: from Version 1 Unix through 86-DOS and Windows 1.0 to Windows 11 and FreeBSD 13. Talk to me about an operating system and I'll probably have a disk, floppy or ISO image;
 * Currently playing (2024):
+  * The Legend of Zelda: Tears of the Kingdom (Nintendo Switch);
   * Minecraft (PC, Android and Nintendo Switch);
-  * Ghostwire: Tokyo (Xbox);
-  * The Legend of Zelda: Tears of the Kingdom (Nintendo Switch).
+  * Ghostwire: Tokyo (Xbox).
 
 <hr>
 
@@ -347,7 +347,7 @@ Click on the name of each project to access the respective repository on GitHub.
 * [GitHub](https://github.com/felipenlunkes)
 * [LinkedIn](https://linkedin.com/in/felipelunkes)
 * [LinkTree](https://linktr.ee/felipelunkes)
-* [Twitter](https://twitter.com/fmlunx)
+* [X/Twitter](https://x.com/fmlunx)
 * [Instagram](https://instagram.com/fmlunx)
 
 <hr>
