@@ -30,7 +30,7 @@ Belo Horizonte, Brazil
 
 Acting as a **backend developer** at UbiSafe/Orsegups Participações S/A.
 
-Backend software developer working on project development using, among other technologies, **Java**, **Spring Framework**, **MySQL**, **JavaScript/TypeScript**, **Docker**, **Linux**, **Apache Kafka**, **Kinesis** and **microservices architecture**.
+Backend software developer working on project development using, among other technologies, **Java**, **Spring Framework**, **Spring Boot**, **MySQL**, **JavaScript/TypeScript**, **Docker**, **Linux**, **Apache Kafka**, **Kinesis** and **microservices architecture**.
 
 I have experience in implementing projects using several languages, the main ones being: x86 Assembly, Java, C, Python and shell scripts, using various tools, such as git, gcc, assemblers (nasm, fasm and gas) and virtualization and emulation tools (see my open source projects below, in the [Projects and portfolio section](https://felipenlunkes.github.io/cv/#projects-and-portfolio)). Experience in managing and documenting open source projects and in the use and administration of Unix-like systems, such as Linux, FreeBSD and macOS. I have been continuously improving myself in Java, C, Rust, Python and x86 Assembly and since 2015 I have been developing an original operating system project (Hexagonix, which you can find below, in the [Projects and portfolio section](https://felipenlunkes.github.io/cv/#projects-and-portfolio)) completely written in x86 Assembly, as well as others low-level projects.
 
@@ -90,9 +90,9 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 #### **2023-currently** | Backend developer at UbiSafe/Orsegups Participações S/A
 
 * Backend developer (Java) working at UbiSafe/Orsegups Participações S/A from June 2023;
-* Developer working with, among other technologies, **Java**, **Spring Framework**, **MySQL**, **JavaScript/TypeScript**, **Docker**, **Linux**, **Apache Kafka**, **Kinesis** and **microservices architecture**.
+* Developer working with, among other technologies, Java, Spring Framework, Spring Boot, MySQL, JavaScript/TypeScript, Docker, Linux, Apache Kafka, Kinesis and microservices architecture.
 
-**Skills: Java · Spring Framework · MySQL · JavaScript · Typescript · Docker · Linux · Apache Kafka · Kinesis**
+**Skills: Java · Spring Framework · Spring Boot · MySQL · JavaScript · Typescript · Docker · Linux · Apache Kafka · Kinesis**
 
 #### **2023** | Career transition
 
