@@ -46,8 +46,15 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 ## Certificates
 
+#### **2024**
+
+* [Kafka e Spring: Integrando aplicações e gerenciando fluxos de dados](https://cursos.alura.com.br/certificate/ad4d64f8-2b6d-49df-929f-cfd8743574dc) - Alura;
+* [Persistência com JPA: Hibernate](https://cursos.alura.com.br/certificate/6464d898-354d-47e7-b103-be018b8a4bdb?lang) - Alura;
+* [Spring Boot 3: Desenvolva uma API REST em Java](https://cursos.alura.com.br/certificate/cfc12f24-1e19-4b62-a5b3-73de9cdb2c63) - Alura;
+
 #### **2023**
 
+* [SQL com MySQL: manipule dados](https://cursos.alura.com.br/certificate/61e70f43-447f-40f1-b245-8518d029643a) - Alura;
 * [Design Patterns em Java I: boas práticas de programação](https://cursos.alura.com.br/certificate/e20bf3ff-eca4-4976-b9e2-bdb12ce087a5) - Alura;
 * [Design Patterns em Java II: avançando nas boas práticas de programação](https://cursos.alura.com.br/certificate/2b01d253-81da-4b10-9ec5-970fd5349a0e) - Alura;
 * [Java JRE e JDK: compile e execute o seu programa](https://cursos.alura.com.br/certificate/20438c7f-5195-4644-9c77-161488d9395e) - Alura;
@@ -304,6 +311,10 @@ Click on the name of each project to access the respective repository on GitHub.
 
 ## Academic background
 
+#### **2024-2027** | **Undergraduate student in Systems Analysis and Development - [Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br/destaques/Paginas/default.aspx) - Belo Horizonte, Brazil**
+
+* Graduation in progress in Systems Analysis and Development.
+
 #### **2021-2023** | **Master's degree in Health Sciences - [Instituto René Rachou/Fiocruz Minas](https://portal.fiocruz.br/) - Belo Horizonte, Brazil**
 
 * Master's degree in Health Sciences at IRR/Fundação Oswaldo Cruz;
@@ -324,7 +335,10 @@ Click on the name of each project to access the respective repository on GitHub.
 
 * Interested in computing history, emulation and preservation of historical software;
 * Operating system collector: from Version 1 Unix through 86-DOS and Windows 1.0 to Windows 11 and FreeBSD 13. Talk to me about an operating system and I'll probably have a disk, floppy or ISO image;
-* Minecraft and GhostWire: Tokyo player (2023).
+* Currently playing (2024):
+  * Minecraft (PC, Android and Nintendo Switch);
+  * GhostWire: Tokyo player (Xbox);
+  * The Legend of Zelda: Tears of the Kingdom (Nintendo Switch).
 
 <hr>
 
