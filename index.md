@@ -30,15 +30,15 @@ Belo Horizonte, Brazil
 
 Acting as a **backend developer** at UbiSafe/Orsegups Participações S/A.
 
-Backend developer with experience in implementing projects using x86 Assembly, C, Java and Python, using tools such as git, gcc, nasm, fasm and virtualization tools (see below my open source projects, in the projects section). Experience managing and documenting open source projects. I have experience in using and administering Unix-like systems, such as Linux, FreeBSD and macOS, as well as developing shell scripts. In my spare time, I try to improve myself in Java, C and Rust, in addition to developing an operating system project (Hexagonix, which you can find below, in the projects section), as well as low-level projects. I have a growing interest in Go.
+Backend software developer working on project development using, among other technologies, **Java**, **Spring Framework**, **MySQL**, **JavaScript/TypeScript**, **Docker**, **Linux** and **microservices architecture**.
 
-I have technical training in informatics and I worked as an instructor of informatics and technology democratization for students of all ages, with the federal government program Telecentros.BR (Brazil). I worked as a freelancer in software development (using Java and C with integration to MySQL databases) and computer maintenance (laptops and desktops).
+I have experience in implementing projects using several languages, the main ones being: x86 Assembly, Java, C, Python and shell scripts, using various tools, such as git, gcc, assemblers (nasm, fasm and gas) and virtualization and emulation tools (see my open source projects below, in the Projects and Portfolio section). Experience in managing and documenting open source projects and in the use and administration of Unix-like systems, such as Linux, FreeBSD and macOS. I have been continuously improving myself in Java, C, Rust, Python and x86 Assembly and since 2015 I have been developing an original operating system project (Hexagonix, which you can find below, in the Projects and Portfolio section) completely written in x86 Assembly, as well as others low-level projects.
 
-I graduated with a bachelor's degree in Biological Sciences from the Universidade Federal de Minas Gerais (UFMG), with an emphasis on Biotechnology and Health, focusing on the areas of Bioinformatics, Biochemistry and Molecular Biology, and I have an academic master's degree (*strictu sensu*) in Health Sciences from the Instituto René Rachou/Fiocruz Minas (Fundação Oswaldo Cruz).
+I am graduating in Systems Analysis and Development (Análise e Desenvolvimento de Sistemas - ADS) from the Pontifícia Universidade de Minas Gerais (PUC Minas, Brazil). I have technical course in IT and worked as a IT and technology democratization instructor for students of all ages, alongside the federal government program Telecentros.BR. I worked as a freelancer in software development (using Java and C with integration to MySQL databases) and computer maintenance. Furthermore, I graduated with a bachelor's degree in Biological Sciences from the Universidade Federal de Minas Gerais (UFMG, Brazil), with an emphasis on Biotechnology and Health, with a focus on the areas of Bioinformatics, Biochemistry and Molecular Biology, and I have an academic master's degree (strictu sensu) in Health Sciences by the Instituto René Rachou/Fiocruz Minas (Fundação Oswaldo Cruz, Brazil).
 
 I am interested in preservation, documentation and emulation of historical software, having a large collection of operating systems collected over the years.
 
-#linux #mysql #java #opensource #c #python #freebsd #osdev #backend
+**#java** **#spring** **#mysql** **#javascript** **#docker** **#linux** **#opensource** **#c** **#python** **#freebsd** **#osdev** **#backend**
 
 See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**LinkedIn**](https://linkedin.com/in/felipenlunkes).
 
