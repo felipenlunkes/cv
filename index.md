@@ -34,7 +34,7 @@ Backend software developer working on project development using, among other tec
 
 I have experience in implementing projects using several languages, the main ones being: x86 Assembly, Java, C, Python and shell scripts, using various tools, such as git, gcc, assemblers (nasm, fasm and gas) and virtualization and emulation tools (see my open source projects below, in the [Projects and portfolio section](https://felipenlunkes.github.io/cv/#projects-and-portfolio)). Experience in managing and documenting open source projects and in the use and administration of Unix-like systems, such as Linux, FreeBSD and macOS. I have been continuously improving myself in Java, C, Rust, Python and x86 Assembly and since 2015 I have been developing an original operating system project (Hexagonix, which you can find below, in the [Projects and portfolio section](https://felipenlunkes.github.io/cv/#projects-and-portfolio)) completely written in x86 Assembly, as well as others low-level projects.
 
-I am graduating in Systems Analysis and Development (Análise e Desenvolvimento de Sistemas - ADS) from the Pontifícia Universidade de Minas Gerais (PUC Minas, Brazil). I am a computer technician and I worked as a IT and technology democratization instructor for students of all ages, alongside the federal government program Telecentros.BR. I worked as a freelancer in software development (using Java and C with integration to MySQL databases) and computer maintenance. Furthermore, I graduated with a bachelor's degree in Biological Sciences from the Universidade Federal de Minas Gerais (UFMG, Brazil), with an emphasis on Biotechnology and Health, with a focus on the areas of Bioinformatics, Biochemistry and Molecular Biology, and I have an academic master's degree (strictu sensu) in Health Sciences by the Instituto René Rachou/Fiocruz Minas (Fundação Oswaldo Cruz, Brazil). See my [academic background](https://felipenlunkes.github.io/cv/#academic-background) below.
+I am graduating in Systems Analysis and Development (*Análise e Desenvolvimento de Sistemas - ADS*) from the *Pontifícia Universidade Católica de Minas Gerais* (PUC Minas, Brazil). I am a computer technician and I worked as a IT and technology democratization instructor for students of all ages, alongside the federal government program Telecentros.BR. I worked as a freelancer in software development (using Java and C with integration to MySQL databases) and computer maintenance. Furthermore, I graduated with a bachelor's degree in Biological Sciences from the *Universidade Federal de Minas Gerais* (UFMG, Brazil), with an emphasis on Biotechnology and Health, with a focus on the areas of Bioinformatics, Biochemistry and Molecular Biology, and I have an academic master's degree (strictu sensu) in Health Sciences by the *Instituto René Rachou/Fiocruz Minas* (Fundação Oswaldo Cruz, Brazil). See my [academic background](https://felipenlunkes.github.io/cv/#academic-background) below.
 
 I am interested in preservation, documentation and emulation of historical software, having a large collection of operating systems collected over the years. See other [interests](https://felipenlunkes.github.io/cv/#interests) below.
 
@@ -89,7 +89,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 #### **2023-currently** | Backend developer at UbiSafe/Orsegups Participações S/A
 
-* Backend developer (Java) working at UbiSafe/Orsegups Participações S/A from June 2023;
+* Backend developer (Java) at *UbiSafe/Orsegups Participações S/A* from June 2023;
 * Developer working with, among other technologies, Java, Spring Framework, Spring Boot, MySQL, JavaScript/TypeScript, Docker, Linux, Apache Kafka, Kinesis and microservices architecture.
 
 **Skills: Java · Spring Framework · Spring Boot · MySQL · JavaScript · Typescript · Docker · Linux · Apache Kafka · Kinesis**
@@ -100,7 +100,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 #### **2021-2023** | Master's student - Instituto René Rachou/Fiocruz Minas - Belo Horizonte, Brazil
 
-* Master's degree in Health Sciences from IRR/Fundação Oswaldo Cruz;
+* Master's degree in Health Sciences from *IRR/Fundação Oswaldo Cruz*;
 * Project that aims to functionally characterize *Schistosoma mansoni* proteins;
 * Master's thesis available [**here**](https://www.arca.fiocruz.br/handle/icict/60305).
 
@@ -110,7 +110,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 #### **2015-2016** | Teaching experience - CNPq and Ordem e Progresso State School - Belo Horizonte, Brazil
 
-* Scholarship holder of the Institutional Teaching Initiation Scholarship Program (PIBID), coordinated by the Pontifical Catholic University of Minas Gerais (PUC Minas), working in high school at the Ordem e Progresso State School (Belo Horizonte). The activities carried out include:
+* Scholarship holder of the Institutional Teaching Initiation Scholarship Program (PIBID), coordinated by the Pontifícia Universidade Católica de Minas Gerais (PUC Minas), working in high school at the *Ordem e Progresso* State School (Belo Horizonte). The activities carried out include:
   - Preparation of theoretical and practical classes for students of all years of high school;
   - Preparation and correction of tests and assessment activities;
 
@@ -316,7 +316,7 @@ Click on the name of each project to access the respective repository on GitHub.
 
 #### **2024-2027** | **Undergraduate student in Systems Analysis and Development - [Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br/destaques/Paginas/default.aspx) - Belo Horizonte, Brazil**
 
-* Graduation in progress in Systems Analysis and Development.
+* Graduation in progress in Systems Analysis and Development (*Análise e Desenvolvimento de Sistemas - ADS*).
 
 #### **2021-2023** | **Master's degree in Health Sciences - [Instituto René Rachou/Fiocruz Minas](https://portal.fiocruz.br/) - Belo Horizonte, Brazil**
 
