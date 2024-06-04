@@ -210,7 +210,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 * Fluent Portuguese (native) and advanced English (C1);
 * Domain of the Office package (including open source alternatives) and statistical packages (R and Prism);
 * Domain of C, Java, Python, x86 Assembly, shell script (Unix-like systems), SQL and Markdown (see **[projects](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md))**;
-* Familiarity with JavaScript, VisualBasic and C++;
+* Familiarity with VisualBasic and C++;
 * Domain of versioning tools, such as git (including use of the command line tool);
 * Self-taught in several programming languages;
 * Good communication and teamwork;
