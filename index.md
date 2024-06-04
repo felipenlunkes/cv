@@ -50,24 +50,24 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 #### **2024**
 
-* [Kafka e Spring: Integrando aplicações e gerenciando fluxos de dados](https://cursos.alura.com.br/certificate/ad4d64f8-2b6d-49df-929f-cfd8743574dc) - Alura;
-* [Persistência com JPA: Hibernate](https://cursos.alura.com.br/certificate/6464d898-354d-47e7-b103-be018b8a4bdb?lang) - Alura;
-* [Spring Boot 3: Desenvolva uma API REST em Java](https://cursos.alura.com.br/certificate/cfc12f24-1e19-4b62-a5b3-73de9cdb2c63) - Alura;
+* [Kafka e Spring: Integrando aplicações e gerenciando fluxos de dados](https://cursos.alura.com.br/certificate/ad4d64f8-2b6d-49df-929f-cfd8743574dc) - Alura (Brazil);
+* [Persistência com JPA: Hibernate](https://cursos.alura.com.br/certificate/6464d898-354d-47e7-b103-be018b8a4bdb?lang) - Alura (Brazil);
+* [Spring Boot 3: Desenvolva uma API REST em Java](https://cursos.alura.com.br/certificate/cfc12f24-1e19-4b62-a5b3-73de9cdb2c63) - Alura (Brazil);
 
 #### **2023**
 
-* [SQL com MySQL: manipule dados](https://cursos.alura.com.br/certificate/61e70f43-447f-40f1-b245-8518d029643a) - Alura;
-* [Design Patterns em Java I: boas práticas de programação](https://cursos.alura.com.br/certificate/e20bf3ff-eca4-4976-b9e2-bdb12ce087a5) - Alura;
-* [Design Patterns em Java II: avançando nas boas práticas de programação](https://cursos.alura.com.br/certificate/2b01d253-81da-4b10-9ec5-970fd5349a0e) - Alura;
-* [Java JRE e JDK: compile e execute o seu programa](https://cursos.alura.com.br/certificate/20438c7f-5195-4644-9c77-161488d9395e) - Alura;
-* [Java: aplicando a Orientação a Objetos](https://cursos.alura.com.br/certificate/6a441f80-8f86-42fd-ae3d-4777ba146fe6) - Alura;
-* [Java: consumindo API, gravando arquivos e lidando com erros](https://cursos.alura.com.br/certificate/a4ea3fd8-64fa-48bc-b841-d259d42348eb) - Alura;
-* [Java: criando a sua primeira aplicação](https://cursos.alura.com.br/certificate/577efc46-1287-459c-99df-264464b8661e) - Alura;
-* [Java: trabalhando com listas e coleções de dados](https://cursos.alura.com.br/certificate/60d9383b-ff03-431e-839c-04331399bcca) - Alura;
-* [SOLID com Java: princípios da programação orientada a objetos](https://cursos.alura.com.br/certificate/f7519fe2-bf16-4cb5-a46d-b772031b3b86) - Alura;
-* [Swagger: documentando suas APIs](https://cursos.alura.com.br/certificate/054e0bb2-294c-45ab-b45d-920b5e431763) - Alura;
-* [TDD e Java: testes automatizados com JUnit](https://cursos.alura.com.br/certificate/1a0a6e8f-072b-48d5-9751-8176ec4b5aa7) - Alura;
-* Attending Bootcamp: Python developer - Faculdade XP Educação;
+* [SQL com MySQL: manipule dados](https://cursos.alura.com.br/certificate/61e70f43-447f-40f1-b245-8518d029643a) - Alura (Brazil);
+* [Design Patterns em Java I: boas práticas de programação](https://cursos.alura.com.br/certificate/e20bf3ff-eca4-4976-b9e2-bdb12ce087a5) - Alura (Brazil);
+* [Design Patterns em Java II: avançando nas boas práticas de programação](https://cursos.alura.com.br/certificate/2b01d253-81da-4b10-9ec5-970fd5349a0e) - Alura (Brazil);
+* [Java JRE e JDK: compile e execute o seu programa](https://cursos.alura.com.br/certificate/20438c7f-5195-4644-9c77-161488d9395e) - Alura (Brazil);
+* [Java: aplicando a Orientação a Objetos](https://cursos.alura.com.br/certificate/6a441f80-8f86-42fd-ae3d-4777ba146fe6) - Alura (Brazil);
+* [Java: consumindo API, gravando arquivos e lidando com erros](https://cursos.alura.com.br/certificate/a4ea3fd8-64fa-48bc-b841-d259d42348eb) - Alura (Brazil);
+* [Java: criando a sua primeira aplicação](https://cursos.alura.com.br/certificate/577efc46-1287-459c-99df-264464b8661e) - Alura (Brazil);
+* [Java: trabalhando com listas e coleções de dados](https://cursos.alura.com.br/certificate/60d9383b-ff03-431e-839c-04331399bcca) - Alura (Brazil);
+* [SOLID com Java: princípios da programação orientada a objetos](https://cursos.alura.com.br/certificate/f7519fe2-bf16-4cb5-a46d-b772031b3b86) - Alura (Brazil);
+* [Swagger: documentando suas APIs](https://cursos.alura.com.br/certificate/054e0bb2-294c-45ab-b45d-920b5e431763) - Alura (Brazil);
+* [TDD e Java: testes automatizados com JUnit](https://cursos.alura.com.br/certificate/1a0a6e8f-072b-48d5-9751-8176ec4b5aa7) - Alura (Brazil);
+* Attending Bootcamp: Python developer - Faculdade XP Educação (Brazil);
 
 #### **2022**
 

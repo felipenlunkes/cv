@@ -209,7 +209,7 @@ Veja mais sobre meus projetos no [**GitHub**](https://github.com/felipenlunkes) 
 
 * Português fluente (nativo) e inglês avançado (C1);
 * Domínio do pacote Office (incluindo alternativas open source) e pacotes estatísticos (R e Prism);
-* Domínio de C, Java, Python, x86 Assembly, shell script (sistemas Unix-like), SQL e Mardkdown (ver **[projetos](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md) )**;
+* Domínio de C, Java, Python, x86 Assembly, shell script (sistemas Unix-like), SQL e Mardkdown (ver **[projetos](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md)**);
 * Familiaridade com JavaScript, VisualBasic e C++;
 * Domínio de ferramentas de versionamento, como git (incluindo uso da ferramenta de linha de comando);
 * Autodidata em diversas linguagens de programação;
