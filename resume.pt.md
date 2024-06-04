@@ -20,6 +20,8 @@ Tel: +55 31 98100-7706
 
 Belo Horizonte, Brasil
 
+[English version :uk:](https://felipenlunkes.github.io/cv/)
+
 </div>
 
 <hr>
