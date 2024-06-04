@@ -20,6 +20,8 @@ Tel: +55 31 98100-7706
 
 Belo Horizonte, Brazil
 
+[Currículo em Portugûes :brazil:](https://felipenlunkes.github.io/cv/resume.pt)
+
 </div>
 
 <hr>
@@ -81,7 +83,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 * Maintenance of notebooks - CNI;
 * Office Package - CNI;
 * Windows operating system - CNI;
-* Web designer - CNI.
+* Web design - CNI.
 
 <hr>
 
@@ -139,7 +141,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 ### Programming languages
 
-* x86 Assembly (using NASM, FASM and GNU AS), C, Delphi, Java, VisualBasic .NET, Pascal, Python, Shell script (GNU Bash, tcsh), Make and Markdown;
+* x86 Assembly (using NASM, FASM and GNU as), C, Delphi, Java, VisualBasic .NET, Pascal, Python, Shell script (GNU Bash, tcsh), Make and Markdown;
 
 ### Operating Systems and platforms
 
@@ -207,7 +209,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 * Fluent Portuguese (native) and advanced English (C1);
 * Domain of the Office package (including open source alternatives) and statistical packages (R and Prism);
-* Domain of C, Java, Python, x86 Assembly, shell script (Unix-like systems), SQL (see **[projects](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md))** and Markdown;
+* Domain of C, Java, Python, x86 Assembly, shell script (Unix-like systems), SQL and Markdown (see **[projects](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md))**;
 * Familiarity with JavaScript, VisualBasic and C++;
 * Domain of versioning tools, such as git (including use of the command line tool);
 * Self-taught in several programming languages;
