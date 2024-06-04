@@ -327,7 +327,7 @@ Click on the name of each project to access the respective repository on GitHub.
 
 #### **2016-2020** | **Graduation in Biological Sciences (Biology) - [Universidade Federal de Minas Gerais](https://ufmg.br/) - Belo Horizonte, Brazil**
 
-* Graduation in Biological Sciences (Biology) with emphasis in Biotechnology and Health;
+* Graduation in Biological Sciences (Biology) with emphasis in Biotechnology and Health.
 
 #### **2011-2023** | **High school with computer technician - Escola Técnica Vital Brasil - Belo Horizonte, Brazil**
 
