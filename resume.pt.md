@@ -67,7 +67,7 @@ Veja mais sobre meus projetos no [**GitHub**](https://github.com/felipenlunkes) 
 * [SOLID com Java: princípios da programação orientada a objetos](https://cursos.alura.com.br/certificate/f7519fe2-bf16-4cb5-a46d-b772031b3b86) - Alura;
 * [Swagger: documentando suas APIs](https://cursos.alura.com.br/certificate/054e0bb2-294c-45ab-b45d-920b5e431763) - Alura;
 * [TDD e Java: testes automatizados com JUnit](https://cursos.alura.com.br/certificate/1a0a6e8f-072b-48d5-9751-8176ec4b5aa7) - Alura;
-* Realizando Bootcamp: desenvolvedor Python - Faculdade XP Educação;
+* Cursando - Bootcamp: desenvolvedor Python - Faculdade XP Educação;
 
 #### **2022**
 

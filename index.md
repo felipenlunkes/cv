@@ -80,10 +80,10 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 #### **2010**
 
-* Maintenance of notebooks - CNI;
-* Office Package - CNI;
-* Windows operating system - CNI;
-* Web design - CNI.
+* Maintenance of notebooks - CNI (Brazil);
+* Office Package - CNI (Brazil);
+* Windows operating system - CNI (Brazil);
+* Web design - CNI (Brazil).
 
 <hr>
 
