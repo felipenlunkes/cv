@@ -112,7 +112,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 #### **2015-2016** | Teaching experience - CNPq and Ordem e Progresso State School - Belo Horizonte, Brazil
 
-* Scholarship holder of the Institutional Teaching Initiation Scholarship Program (PIBID), coordinated by the Pontifícia Universidade Católica de Minas Gerais (PUC Minas), working in high school at the *Ordem e Progresso* State School (Belo Horizonte). The activities carried out include:
+* Scholarship holder of the Institutional Teaching Initiation Scholarship Program (PIBID), coordinated by the *Pontifícia Universidade Católica de Minas Gerais* (PUC Minas), working in high school at the *Ordem e Progresso* State School (Belo Horizonte). The activities carried out include:
   - Preparation of theoretical and practical classes for students of all years of high school;
   - Preparation and correction of tests and assessment activities;
 
@@ -131,7 +131,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 #### **2013-2014** | Computer Instructor - Centro de Apoio Comunitário Serrano - Belo Horizonte, Brazil
 
 * IT instructor for children and seniors during and after completing the technical course;
-* Fellow associated with the federal program TELECENTROS.BR, which aims to democratize access to technology.
+* Fellow associated with the federal program *TELECENTROS.BR*, which aims to democratize access to technology.
 
 **Skills: Microsoft Excel · MySQL · Teaching · Linux · Java · Programming languages**
 
