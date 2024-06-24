@@ -353,6 +353,7 @@ Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 
 * [GitHub](https://github.com/felipenlunkes)
 * [LinkedIn](https://linkedin.com/in/felipelunkes)
+* [Currículo Lattes](http://lattes.cnpq.br/2540365589952421)
 * [LinkTree](https://linktr.ee/felipelunkes)
 * [X/Twitter](https://x.com/fmlunx)
 * [Instagram](https://instagram.com/fmlunx)
