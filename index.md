@@ -50,6 +50,8 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 #### **2024**
 
+* Segurança da informação (60 min) - Orsegups Participações S/A (Brazil);
+* Como se proteger de ataques cibernéticos (90 min) - Orsegups Participações S/A (Brazil);
 * [Kafka e Spring: Integrando aplicações e gerenciando fluxos de dados](https://cursos.alura.com.br/certificate/ad4d64f8-2b6d-49df-929f-cfd8743574dc) - Alura (Brazil);
 * [Persistência com JPA: Hibernate](https://cursos.alura.com.br/certificate/6464d898-354d-47e7-b103-be018b8a4bdb?lang) - Alura (Brazil);
 * [Spring Boot 3: Desenvolva uma API REST em Java](https://cursos.alura.com.br/certificate/cfc12f24-1e19-4b62-a5b3-73de9cdb2c63) - Alura (Brazil);
