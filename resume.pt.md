@@ -32,7 +32,7 @@ Belo Horizonte, Brasil
 
 Atuando como **desenvolvedor backend pleno** na UbiSafe/Orsegups Participações S/A.
 
-Desenvolvedor backend atuando no desenvolvimento de projetos utilizando, entre outras tecnologias, **Java**, **Spring Framework**, **Spring Boot**, **MySQL**, **JavaScript/TypeScript**, **Docker**, **Linux**, **Apache Kafka**, **Kinesis** e **arquitetura de microsserviços**.
+Desenvolvedor backend pleno atuando no desenvolvimento de projetos utilizando, entre outras tecnologias, **Java**, **Spring Framework**, **Spring Boot**, **MySQL**, **JavaScript/TypeScript**, **Docker**, **Linux**, **Apache Kafka**, **Kinesis** e **arquitetura de microsserviços**.
 
 Possuo experiência na implementação de projetos utilizando várias linguagens, sendo as principais: Assembly x86, Java, C, Python e scripts de shell, utilizando diversas ferramentas, como git, gcc, assemblers (nasm, fasm e gas) e ferramentas de virtualização e emulação (veja abaixo meus projetos de código aberto, na seção de [Projetos e portolio](https://felipenlunkes.github.io/cv/resume.pt#projetos-e-portfolio)). Experiência no gerenciamento e documentação de projetos de código aberto e no uso e administração de sistemas Unix-like, como Linux, FreeBSD e macOS. Venho me aperfeiçoando continuamente em Java, C, Rust, Python e Assembly x86 e desenvolvo, desde 2015, um projeto autoral de sistema operacional (Hexagonix, que você pode encontrar abaixo, na seção de [Projetos e portolio](https://felipenlunkes.github.io/cv/resume.pt#projetos-e-portfolio)) completamente escrito em Assembly x86, bem como outros projetos de baixo nível.
 
