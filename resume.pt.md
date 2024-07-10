@@ -30,7 +30,7 @@ Belo Horizonte, Brasil
 
 <div align="justify">
 
-Atuando como **desenvolvedor backend** na UbiSafe/Orsegups Participações S/A.
+Atuando como **desenvolvedor backend pleno** na UbiSafe/Orsegups Participações S/A.
 
 Desenvolvedor backend atuando no desenvolvimento de projetos utilizando, entre outras tecnologias, **Java**, **Spring Framework**, **Spring Boot**, **MySQL**, **JavaScript/TypeScript**, **Docker**, **Linux**, **Apache Kafka**, **Kinesis** e **arquitetura de microsserviços**.
 
@@ -93,8 +93,19 @@ Veja mais sobre meus projetos no [**GitHub**](https://github.com/felipenlunkes) 
 
 #### **2023-atualmente** | Desenvolvedor backend na UbiSafe/Orsegups Participações S/A
 
-* Desenvolvedor backend na UbiSafe/Orsegups Participações S/A a partir de junho de 2023;
-* Atuando com, entre outras tecnologias, Java, Spring Framework, Spring Boot, MySQL, JavaScript/TypeScript, Docker, Linux, Apache Kafka, Kinesis e arquitetura de microsserviços.
+* Desenvolvedor backend na UbiSafe/Orsegups Participações S/A;
+
+##### **06/2023-10/2023** | Desenvolvedor backend trainee
+
+* Desenvolvedor backend trainee atuando com, entre outras tecnologias, Java, Spring Framework, Spring Boot, MySQL, JavaScript/TypeScript, Docker, Linux, Apache Kafka, Kinesis e arquitetura de microsserviços.
+
+##### **10/2023-06/2024** | Desenvolvedor backend Jr.
+
+* Desenvolvedor backend Jr. atuando com, entre outras tecnologias, Java, Spring Framework, Spring Boot, MySQL, JavaScript/TypeScript, Docker, Linux, Apache Kafka, Kinesis e arquitetura de microsserviços.
+
+##### **10/2023-06/2024** | Desenvolvedor backend pleno
+
+* Desenvolvedor backend pleno I atuando com, entre outras tecnologias, Java, Spring Framework, Spring Boot, MySQL, JavaScript/TypeScript, Docker, Linux, Apache Kafka, Kinesis e arquitetura de microsserviços.
 
 **Habilidades: Java · Spring Framework · Spring Boot · MySQL · JavaScript · Typescript · Docker · Linux · Apache Kafka · Kinesis**
 
