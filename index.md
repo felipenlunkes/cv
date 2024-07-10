@@ -93,7 +93,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 #### **2023-currently** | Backend developer at UbiSafe/Orsegups Participações S/A
 
-* Backend developer (Java) at *UbiSafe/Orsegups Participações S/A*;
+* Backend developer at *UbiSafe/Orsegups Participações S/A*;
 
 ###### **2024/06-currently** | Backend developer
 
