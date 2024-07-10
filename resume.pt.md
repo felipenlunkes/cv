@@ -95,7 +95,7 @@ Veja mais sobre meus projetos no [**GitHub**](https://github.com/felipenlunkes) 
 
 * Desenvolvedor backend na UbiSafe/Orsegups Participações S/A;
 
-###### **10/2023-06/2024** | Desenvolvedor backend pleno
+###### **06/2024-atualmente** | Desenvolvedor backend pleno
 
 * Desenvolvedor backend pleno I atuando com, entre outras tecnologias, Java, Spring Framework, Spring Boot, MySQL, JavaScript/TypeScript, Docker, Linux, Apache Kafka, Kinesis e arquitetura de microsserviços.
 
