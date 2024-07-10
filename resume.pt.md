@@ -109,7 +109,7 @@ Veja mais sobre meus projetos no [**GitHub**](https://github.com/felipenlunkes) 
 
 **Habilidades: Java · Spring Framework · Spring Boot · MySQL · JavaScript · Typescript · Docker · Linux · Apache Kafka · Kinesis**
 
-### **2023** | Transição de carreira
+#### **2023** | Transição de carreira
 
 * Transição de carreira de biólogo (após conclusão do mestrado acadêmico em Ciências da Saúde) para desenvolvedor backend (Java, C e Python). Venho me aprimorando, após minha formação técnica e trabalho como freelancer, há mais de 2 anos. Meu portfólio pode ser encontrado [**aqui**](https://github.com/felipenlunkes). Desde 2012 atuo como freelancer e desenvolvo projetos pessoais (hobbies), adquirindo experiência em Assembly x86, Java, Python, C, SQL, shell script, entre outras tecnologias, linguagens e frameworks.
 
