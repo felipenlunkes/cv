@@ -91,21 +91,21 @@ Veja mais sobre meus projetos no [**GitHub**](https://github.com/felipenlunkes) 
 
 ## Experiência profissional
 
-### **2023-atualmente** | Desenvolvedor backend na UbiSafe/Orsegups Participações S/A
+#### **2023-atualmente** | Desenvolvedor backend na UbiSafe/Orsegups Participações S/A
 
 * Desenvolvedor backend na UbiSafe/Orsegups Participações S/A;
 
-##### **06/2023-10/2023** | Desenvolvedor backend trainee
+###### **10/2023-06/2024** | Desenvolvedor backend pleno
 
-* Desenvolvedor backend trainee atuando com, entre outras tecnologias, Java, Spring Framework, Spring Boot, MySQL, JavaScript/TypeScript, Docker, Linux, Apache Kafka, Kinesis e arquitetura de microsserviços.
+* Desenvolvedor backend pleno I atuando com, entre outras tecnologias, Java, Spring Framework, Spring Boot, MySQL, JavaScript/TypeScript, Docker, Linux, Apache Kafka, Kinesis e arquitetura de microsserviços.
 
-##### **10/2023-06/2024** | Desenvolvedor backend Jr.
+###### **10/2023-06/2024** | Desenvolvedor backend Jr.
 
 * Desenvolvedor backend Jr. atuando com, entre outras tecnologias, Java, Spring Framework, Spring Boot, MySQL, JavaScript/TypeScript, Docker, Linux, Apache Kafka, Kinesis e arquitetura de microsserviços.
 
-##### **10/2023-06/2024** | Desenvolvedor backend pleno
+###### **06/2023-10/2023** | Desenvolvedor backend trainee
 
-* Desenvolvedor backend pleno I atuando com, entre outras tecnologias, Java, Spring Framework, Spring Boot, MySQL, JavaScript/TypeScript, Docker, Linux, Apache Kafka, Kinesis e arquitetura de microsserviços.
+* Desenvolvedor backend trainee atuando com, entre outras tecnologias, Java, Spring Framework, Spring Boot, MySQL, JavaScript/TypeScript, Docker, Linux, Apache Kafka, Kinesis e arquitetura de microsserviços.
 
 **Habilidades: Java · Spring Framework · Spring Boot · MySQL · JavaScript · Typescript · Docker · Linux · Apache Kafka · Kinesis**
 
@@ -113,35 +113,35 @@ Veja mais sobre meus projetos no [**GitHub**](https://github.com/felipenlunkes) 
 
 * Transição de carreira de biólogo (após conclusão do mestrado acadêmico em Ciências da Saúde) para desenvolvedor backend (Java, C e Python). Venho me aprimorando, após minha formação técnica e trabalho como freelancer, há mais de 2 anos. Meu portfólio pode ser encontrado [**aqui**](https://github.com/felipenlunkes). Desde 2012 atuo como freelancer e desenvolvo projetos pessoais (hobbies), adquirindo experiência em Assembly x86, Java, Python, C, SQL, shell script, entre outras tecnologias, linguagens e frameworks.
 
-### **2021-2023** | Estudante de mestrado acadêmico - Instituto René Rachou/Fiocruz Minas - Belo Horizonte
+#### **2021-2023** | Estudante de mestrado acadêmico - Instituto René Rachou/Fiocruz Minas - Belo Horizonte
 
 * Mestre acadêmico (*stricto sensu*) em Ciências da Saúde pela IRR/Fundação Oswaldo Cruz;
 * Projeto que visa caracterizar funcionalmente proteínas de *Schistosoma mansoni*;
 * Dissertação de mestrado disponível [**aqui**](https://www.arca.fiocruz.br/handle/icict/60305).
 
-### **2016-2020** | Estudante de Iniciação Científica - René Rachou Institute/Fiocruz Minas - Belo Horizonte
+#### **2016-2020** | Estudante de Iniciação Científica - Instituto René Rachou/Fiocruz Minas - Belo Horizonte
 
 * Estudante de Iniciação Científica (IC) durante a graduação.
 
-### **2015-2016** | Estudante de Iniciação à Docência - CNPq e Escola Estadual Ordem e Progresso - Belo Horizonte
+#### **2015-2016** | Estudante de Iniciação à Docência - CNPq e Escola Estadual Ordem e Progresso - Belo Horizonte
 
 * Bolsista do Programa Institucional de Bolsas de Iniciação à Docência (PIBID), coordenado pela Pontifícia Universidade Católica de Minas Gerais (PUC Minas), atuando no ensino médio na Escola Estadual Ordem e Progresso (Belo Horizonte). As atividades realizadas incluem:
   - Preparação de aulas teóricas e práticas para alunos de todos os anos do ensino médio;
   - Elaboração e correção de testes e atividades avaliativas;
 
-### **2013-2015** | Desenvolvedor de software Freelancer
+#### **2013-2015** | Desenvolvedor de software Freelancer
 
 * Desenvolvedor de software freelancer, utilizando Java, C e VisualBasic.
 
 **Habilidades: Visual Basic · C · Java**
 
-### **2012-2015** | Técnico de informática Freelancer
+#### **2012-2015** | Técnico de informática Freelancer
 
 * Técnico responsável pela manutenção de computadores desktop e notebooks, atuando como freelancer.
 
 **Habilidades: Microsoft Windows · Hardware · Linux**
 
-### **2013-2014** | Instrutor de informática - Centro de Apoio Comunitário Serrano - Belo Horizonte
+#### **2013-2014** | Instrutor de informática - Centro de Apoio Comunitário Serrano - Belo Horizonte
 
 * Instrutor de informática para crianças e idosos durante e após a conclusão do curso técnico;
 * Bolsista associado ao programa federal TELECENTROS.BR, que visa democratizar o acesso à tecnologia.
