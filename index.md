@@ -366,8 +366,8 @@ Click on the name of each project to access the respective repository on GitHub.
 * [LinkedIn](https://linkedin.com/in/felipelunkes)
 * [Currículo Lattes (Brazil)](http://lattes.cnpq.br/2540365589952421)
 * [LinkTree](https://linktr.ee/felipelunkes)
-* [X/Twitter](https://x.com/fmlunx)
-* [Instagram](https://instagram.com/fmlunx)
+* [X/Twitter](https://x.com/lunx8086)
+* [Instagram](https://instagram.com/lunx8086)
 
 <hr>
 
