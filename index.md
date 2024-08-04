@@ -30,7 +30,7 @@ Belo Horizonte, Brazil
 
 <div align="justify">
 
-Acting as a **backend developer** at *UbiSafe/Orsegups Participações S/A*.
+**Backend developer** at *UbiSafe/Orsegups Participações S/A*.
 
 Backend software developer working on project development using, among other technologies, **Java**, **Spring Framework**, **Spring Boot**, **RESTful APIs**, **relational databases** (such as MySQL), **JavaScript/TypeScript**, **Docker**, **Linux**, **unit and integration tests**, **messaging with Apache Kafka and Kinesis** and **microservices architecture**.
 

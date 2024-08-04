@@ -30,7 +30,7 @@ Belo Horizonte, Brasil
 
 <div align="justify">
 
-Atuando como **desenvolvedor backend pleno** na UbiSafe/Orsegups Participações S/A.
+**Desenvolvedor backend pleno** na UbiSafe/Orsegups Participações S/A.
 
 Desenvolvedor de software backend pleno atuando no desenvolvimento de projetos utilizando, entre outras tecnologias, **Java**, **Spring Framework**, **Spring Boot**, **APIs RESTful**, **bancos de dados relacionais** (como MySQL), **JavaScript/TypeScript**, **Docker**, **Linux**, **testes unitários e de integração**, **mensageria com Apache Kafka e Kinesis** e **arquitetura de microsserviços**. 
 
