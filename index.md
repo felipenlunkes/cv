@@ -110,9 +110,9 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 **Skills: Java · Spring Framework · Spring Boot · MySQL · JavaScript · Typescript · Docker · Linux · Apache Kafka · Kinesis**
 
-#### **2023** | Career transition
+#### **2023** | Career transition to backend developer
 
-* Career transition (after completing the academic master's course in Health Sciences) to backend developer (Java, C and Python).
+* Career transition (return to software development) to backend developer (Java, C and Python).
 
 #### **2021-2023** | Master's student - Instituto René Rachou/Fiocruz Minas - Belo Horizonte, Brazil
 

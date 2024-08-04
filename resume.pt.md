@@ -110,9 +110,9 @@ Veja mais sobre meus projetos no [**GitHub**](https://github.com/felipenlunkes) 
 
 **Habilidades: Java · Spring Framework · Spring Boot · MySQL · JavaScript · Typescript · Docker · Linux · Apache Kafka · Kinesis**
 
-#### **2023** | Transição de carreira
+#### **2023** | Transição de carreira para desenvolvedor backend
 
-* Transição de carreira (após conclusão do mestrado acadêmico em Ciências da Saúde) para desenvolvedor backend (Java, C e Python).
+* Transição de carreira (retorno à área de desenvolvimento) para desenvolvedor backend (Java, C e Python).
 
 #### **2021-2023** | Estudante de mestrado acadêmico - Instituto René Rachou/Fiocruz Minas - Belo Horizonte
 
