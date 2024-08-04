@@ -112,7 +112,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 #### **2023** | Career transition
 
-* Career transition from biologist (after completing the academic master's course in Health Sciences) to backend developer (Java, C and Python). I've been improving myself, after my technical training and work as a freelancer, for over 2 years. My portfolio can be found [**here**](https://github.com/felipenlunkes). Since 2012, I've been working as a freelancer and developing personal projects (hobbies), gaining experience in x86 Assembly, Java, Python, C, SQL, shell script, among other technologies, languages and frameworks.
+* Career transition (after completing the academic master's course in Health Sciences) to backend developer (Java, C and Python).
 
 #### **2021-2023** | Master's student - Instituto René Rachou/Fiocruz Minas - Belo Horizonte, Brazil
 
