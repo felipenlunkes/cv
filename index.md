@@ -40,7 +40,7 @@ I am graduating in Systems Analysis and Development (*Análise e Desenvolvimento
 
 I am interested in preservation, documentation and emulation of historical software, having a large collection of operating systems collected over the years. See other [interests](https://felipenlunkes.github.io/cv/#interests) below.
 
-**#java** **#spring** **#mysql** **#javascript** **#docker** **#linux** **#opensource** **#c** **#python** **#freebsd** **#osdev** **#backend**
+**#Java** **#SpringFramework** **#SpringBoot** **#Spring** **#Linux** **#MySQL** **#Docker** **#C** **#Python** **#Backend** **#Kafka** **#Kinesis** **#OpenSource** **#FreeBSD** **#osdev**
 
 See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**LinkedIn**](https://linkedin.com/in/felipenlunkes).
 

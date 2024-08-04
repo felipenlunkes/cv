@@ -40,7 +40,7 @@ Sou graduando em Análise e Desenvolvimento de Sistemas (ADS) pela Pontifícia U
 
 Me interesso por preservação, documentação e emulação de software histórico, tendo uma grande coleção de sistemas operacionais coletados ao longo dos anos. Veja outros [interesses](https://felipenlunkes.github.io/cv/resume.pt#interesses) abaixo.
 
-**#java** **#spring** **#mysql** **#javascript** **#docker** **#linux** **#opensource** **#c** **#python** **#freebsd** **#osdev** **#backend**
+**#Java** **#SpringFramework** **#SpringBoot** **#Spring** **#Linux** **#MySQL** **#Docker** **#C** **#Python** **#Backend** **#Kafka** **#Kinesis** **#OpenSource** **#FreeBSD** **#osdev**
 
 Veja mais sobre meus projetos no [**GitHub**](https://github.com/felipenlunkes) ou no [**LinkedIn**](https://linkedin.com/in/felipenlunkes).
 
