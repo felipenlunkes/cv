@@ -155,7 +155,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 ### Programming languages
 
-* x86 Assembly (using NASM, FASM and GNU as), C, Delphi, Java, VisualBasic .NET, Pascal, Python, Shell script (GNU Bash, tcsh), Make and Markdown;
+* x86 Assembly (using NASM, FASM and GNU as), Java, Rust, Python, C, Shell script (GNU Bash, tcsh), Delphi, VisualBasic .NET, Pascal, Make and Markdown;
 
 ### Operating Systems and platforms
 
@@ -211,7 +211,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 ##### Virtualization
 
-* QEMU, VirtualBox and Microsoft VirtualPC;
+* Docker, QEMU, VirtualBox and Microsoft VirtualPC;
 
 ##### Design tools
 
