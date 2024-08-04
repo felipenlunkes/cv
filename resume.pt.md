@@ -32,7 +32,7 @@ Belo Horizonte, Brasil
 
 Atuando como **desenvolvedor backend pleno** na UbiSafe/Orsegups Participações S/A.
 
-Desenvolvedor backend pleno atuando no desenvolvimento de projetos utilizando, entre outras tecnologias, **Java**, **Spring Framework**, **Spring Boot**, **MySQL**, **JavaScript/TypeScript**, **Docker**, **Linux**, **Apache Kafka**, **Kinesis** e **arquitetura de microsserviços**.
+Desenvolvedor de software backend pleno atuando no desenvolvimento de projetos utilizando, entre outras tecnologias, **Java**, **Spring Framework**, **Spring Boot**, **APIs RESTful**, **bancos de dados relacionais** (como MySQL), **JavaScript/TypeScript**, **Docker**, **Linux**, **testes unitários e de integração**, **mensageria com Apache Kafka e Kinesis** e **arquitetura de microsserviços**. 
 
 Possuo experiência na implementação de projetos utilizando várias linguagens, sendo as principais: Assembly x86, Java, C, Python e scripts de shell (veja abaixo meus projetos de código aberto, na seção de [Projetos e portolio](https://felipenlunkes.github.io/cv/resume.pt#projetos-e-portfolio)). Tenho proficiência no uso de diversas ferramentas, como controle de código por git, GNU Compiler Collection, diversos montadores (assemblers), como flat assembler (fasm), NASM e GNU as, ferramentas de virtualização, como Docker e QEMU, e emulação. Experiência no gerenciamento e documentação de projetos de código aberto e no uso e administração de sistemas Unix-like. Venho me aperfeiçoando continuamente em Java, C, Rust, Python e Assembly x86 e desenvolvo, desde 2015, um projeto autoral de sistema operacional (Hexagonix, que você pode encontrar abaixo, na seção de [Projetos e portolio](https://felipenlunkes.github.io/cv/resume.pt#projetos-e-portfolio)) completamente escrito em Assembly x86, bem como outros projetos de baixo nível. 
 
@@ -50,6 +50,7 @@ Veja mais sobre meus projetos no [**GitHub**](https://github.com/felipenlunkes) 
 
 #### **2024**
 
+* [Rust: a linguagem de programação performática e segura](https://cursos.alura.com.br/certificate/d1212eac-8893-4597-b329-925064eecbd6?lang) - Alura;
 * Segurança da informação (60 min) - Orsegups Participações S/A;
 * Como se proteger de ataques cibernéticos (90 min) - Orsegups Participações S/A;
 * [Kafka e Spring: Integrando aplicações e gerenciando fluxos de dados](https://cursos.alura.com.br/certificate/ad4d64f8-2b6d-49df-929f-cfd8743574dc) - Alura;

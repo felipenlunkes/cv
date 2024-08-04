@@ -32,7 +32,7 @@ Belo Horizonte, Brazil
 
 Acting as a **backend developer** at *UbiSafe/Orsegups Participações S/A*.
 
-Backend software developer working on project development using, among other technologies, **Java**, **Spring Framework**, **Spring Boot**, **MySQL**, **JavaScript/TypeScript**, **Docker**, **Linux**, **Apache Kafka**, **Kinesis** and **microservices architecture**.
+Backend software developer working on project development using, among other technologies, **Java**, **Spring Framework**, **Spring Boot**, **RESTful APIs**, **relational databases** (such as MySQL), **JavaScript/TypeScript**, **Docker**, **Linux**, **unit and integration tests**, **messaging with Apache Kafka and Kinesis** and **microservices architecture**.
 
 I have experience in implementing projects using several languages, the main ones being: x86 Assembly, Java, C, Python and shell scripts (see my open source projects below, in the [Projects and portfolio section](https://felipenlunkes.github.io/cv/#projects-and-portfolio)). I am proficient in using several tools, such as code control with git, GNU Compiler Collection, various assemblers, such as flat assembler (fasm), NASM and GNU as, virtualization tools, such as Docker and QEMU, and emulation. Experience in managing and documenting open source projects and in the use and administration of Unix-like systems. I have been continuously improving myself in Java, C, Rust, Python and x86 Assembly and since 2015 I have been developing an original operating system project (Hexagonix, which you can find below, in the [Projects and portfolio section](https://felipenlunkes.github.io/cv/#projects-and-portfolio)) completely written in x86 Assembly, as well as others low-level projects.
 
@@ -50,6 +50,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 #### **2024**
 
+* [Rust: a linguagem de programação performática e segura](https://cursos.alura.com.br/certificate/d1212eac-8893-4597-b329-925064eecbd6?lang) - Alura (Brazil);
 * Segurança da informação (60 min) - Orsegups Participações S/A (Brazil);
 * Como se proteger de ataques cibernéticos (90 min) - Orsegups Participações S/A (Brazil);
 * [Kafka e Spring: Integrando aplicações e gerenciando fluxos de dados](https://cursos.alura.com.br/certificate/ad4d64f8-2b6d-49df-929f-cfd8743574dc) - Alura (Brazil);
