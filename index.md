@@ -94,13 +94,19 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 #### **2023-currently** | Backend developer at UbiSafe/Orsegups Participações S/A
 
-* Backend developer working with, among other technologies, Java, Spring Framework, Spring Boot, MySQL, JavaScript/TypeScript, Docker, Linux, Apache Kafka, Kinesis and microservices architecture.
+Backend developer working on project development using, among other technologies, Java, Spring Framework, Spring Boot, Python, relational databases (such as MySQL), JavaScript/TypeScript (Node.js), Docker, Linux, messaging with Apache Kafka and Amazon Kinesis and microservices architecture.
 
 ###### **2024/07-currently** | Backend developer
 
+* Change of seniority from Jr. developer to backend developer.
+
 ###### **2023/11-2024/06** | Junior backend developer
 
+* Change of seniority from trainee backend developer to Junior backend developer.
+
 ###### **2023/06-2023/10** | Trainee backend developer
+
+* Trainee backend developer.
 
 **Skills: Java · Spring Framework · Spring Boot · MySQL · JavaScript · Typescript · Docker · Linux · Apache Kafka · Kinesis**
 
