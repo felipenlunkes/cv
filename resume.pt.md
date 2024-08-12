@@ -94,19 +94,13 @@ Veja mais sobre meus projetos no [**GitHub**](https://github.com/felipenlunkes) 
 
 #### **2023-atualmente** | Desenvolvedor backend na UbiSafe/Orsegups Participações S/A
 
-* Desenvolvedor backend na UbiSafe/Orsegups Participações S/A;
+* Desenvolvedor backend atuando com, entre outras tecnologias, Java, Spring Framework, Spring Boot, MySQL, JavaScript/TypeScript, Docker, Linux, Apache Kafka, Kinesis e arquitetura de microsserviços.
 
 ###### **07/2024-atualmente** | Desenvolvedor backend pleno
 
-* Desenvolvedor backend pleno I atuando com, entre outras tecnologias, Java, Spring Framework, Spring Boot, MySQL, JavaScript/TypeScript, Docker, Linux, Apache Kafka, Kinesis e arquitetura de microsserviços.
-
 ###### **11/2023-06/2024** | Desenvolvedor backend Jr.
 
-* Desenvolvedor backend Jr. atuando com, entre outras tecnologias, Java, Spring Framework, Spring Boot, MySQL, JavaScript/TypeScript, Docker, Linux, Apache Kafka, Kinesis e arquitetura de microsserviços.
-
 ###### **06/2023-10/2023** | Desenvolvedor backend trainee
-
-* Desenvolvedor backend trainee atuando com, entre outras tecnologias, Java, Spring Framework, Spring Boot, MySQL, JavaScript/TypeScript, Docker, Linux, Apache Kafka, Kinesis e arquitetura de microsserviços.
 
 **Habilidades: Java · Spring Framework · Spring Boot · MySQL · JavaScript · Typescript · Docker · Linux · Apache Kafka · Kinesis**
 
@@ -223,8 +217,8 @@ Veja mais sobre meus projetos no [**GitHub**](https://github.com/felipenlunkes) 
 
 * Português fluente (nativo) e inglês avançado (C1);
 * Domínio do pacote Office (incluindo alternativas open source) e pacotes estatísticos (R e Prism);
-* Domínio de C, Java, Python, x86 Assembly, shell script (sistemas Unix-like), SQL e Markdown (ver **[projetos](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md)**);
-* Familiaridade com VisualBasic e C++;
+* Domínio de Assembly x86, Java, Python, C, shell script (sistemas Unix-like), SQL e Markdown (ver **[projetos](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md)**);
+* Familiaridade com C++, Rust e VisualBasic;
 * Domínio de ferramentas de versionamento, como git (incluindo uso da ferramenta de linha de comando);
 * Autodidata em diversas linguagens de programação;
 * Boa comunicação e trabalho em equipe;

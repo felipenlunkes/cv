@@ -94,19 +94,13 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 #### **2023-currently** | Backend developer at UbiSafe/Orsegups Participações S/A
 
-* Backend developer at *UbiSafe/Orsegups Participações S/A*;
+* Backend developer working with, among other technologies, Java, Spring Framework, Spring Boot, MySQL, JavaScript/TypeScript, Docker, Linux, Apache Kafka, Kinesis and microservices architecture.
 
 ###### **2024/07-currently** | Backend developer
 
-* Backend developer working with, among other technologies, Java, Spring Framework, Spring Boot, MySQL, JavaScript/TypeScript, Docker, Linux, Apache Kafka, Kinesis and microservices architecture.
-
 ###### **2023/11-2024/06** | Junior backend developer
 
-* Junior backend developer working with, among other technologies, Java, Spring Framework, Spring Boot, MySQL, JavaScript/TypeScript, Docker, Linux, Apache Kafka, Kinesis and microservices architecture.
-
 ###### **2023/06-2023/10** | Trainee backend developer
-
-* Trainee backend developer working with, among other technologies, Java, Spring Framework, Spring Boot, MySQL, JavaScript/TypeScript, Docker, Linux, Apache Kafka, Kinesis and microservices architecture.
 
 **Skills: Java · Spring Framework · Spring Boot · MySQL · JavaScript · Typescript · Docker · Linux · Apache Kafka · Kinesis**
 
@@ -155,13 +149,13 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 ### Programming languages
 
-* x86 Assembly (using NASM, FASM and GNU as), Java, Rust, Python, C, Shell script (GNU Bash, tcsh), Delphi, VisualBasic .NET, Pascal, Make and Markdown;
+* x86 Assembly (using NASM, FASM and GNU as), Java, Rust, Python, C, Shell script (GNU bash, tcsh), Delphi, VisualBasic .NET, Pascal, Make and Markdown;
 
 ### Operating Systems and platforms
 
 ##### DOS (Disk Operating System), OS/2 and Windows 
 
-* Free-DOS, MS-DOS, OS/2, Windows DOS (Windows 1x-3x, Windows 95, 98 and ME) and Windows NT (NT 3.x-11);
+* FreeDOS, MS-DOS, OS/2, Windows DOS (Windows 1x-3x, Windows 95, 98 and ME) and Windows NT (NT 3.x-11);
 
 ##### Linux
 
@@ -191,7 +185,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 ##### Terminal
 
-* GNU Bash, tcsh and Windows Terminal (including PowerShell and Command Prompt);
+* GNU bash, tcsh and Windows Terminal (including PowerShell and Command Prompt);
 
 ##### Databases
 
@@ -223,9 +217,9 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 * Fluent Portuguese (native) and advanced English (C1);
 * Domain of the Office package (including open source alternatives) and statistical packages (R and Prism);
-* Domain of C, Java, Python, x86 Assembly, shell script (Unix-like systems), SQL and Markdown (see **[projects](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md))**;
-* Familiarity with VisualBasic and C++;
-* Domain of versioning tools, such as git (including use of the command line tool);
+* Domain of x86 Assembly, Java, Python, C, shell script (Unix-like systems), SQL and Markdown (see **[projects](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md))**;
+* Familiarity with C++, Rust and VisualBasic;
+* Domain of versioning tools, such as git (including use of the command line tools);
 * Self-taught in several programming languages;
 * Good communication and teamwork;
 
@@ -241,7 +235,7 @@ Click on the name of each project to access the respective repository on GitHub.
 
   - [**Hexagonix OS**](https://github.com/hexagonix) | **2015-currently**
 
-    - Hexagonix is ​​a simple and lightweight operating system, Unix-like and completely developed in x86 Assembly. Hexagonix is ​​composed by a simple monolithic kernel, called Hexagon, shell, Unix-like utilities developed in Assembly and libraries for the development of other utilities. In addition, it is self-hosting, with a port of the fasm assembler (flat assembler), the same used for its construction. It operates in 32-bit protected mode, with FAT16 support, Pentium III or higher processors and 32 MB of RAM or more. It can be installed on a physical machine, running natively. The system aims to be simple and fast, based on some concepts of the Unix philosophy, in addition to being licensed under the BSD-3-Clause license, a permissive free software license. At the moment, all the project documentation is in Portuguese and English, while the code comments are in Portuguese. Hexagonix has extensive documentation covering many system, language, and hardware features. Documentation can be found at: github.com/hexagonix/Doc. The project also aims to be an educational tool, with well-commented code.
+    - Hexagonix is ​​a simple and lightweight operating system, Unix-like and completely developed in x86 Assembly. Hexagonix is ​​composed by a simple monolithic kernel, called Hexagon, shell, Unix-like utilities developed in Assembly and libraries for the development of other utilities. In addition, it is self-hosting, with a port of the fasm assembler (flat assembler), the same used for its construction. It operates in 32-bit protected mode, with FAT16 support, Pentium III or higher processors and 32 MB of RAM or more. It can be installed on a physical machine, running natively. The system aims to be simple and fast, based on some concepts of the Unix philosophy, in addition to being licensed under the BSD-3-Clause license, a permissive free software license. At the moment, all the project documentation is in Portuguese and English, while the code and code comments are in English only. Hexagonix has extensive documentation covering many system, language, and hardware features. Documentation can be found at: github.com/hexagonix/Doc. The project also aims to be an educational tool, with well-commented code.
 
   - [**Bin S.O**](https://github.com/felipenlunkes/Bin-S.O) | **2011-2013**
 
