@@ -353,7 +353,7 @@ Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 ## Interesses
 
 * Interessado em história da computação, emulação e preservação de software histórico;
-* Colecionador de sistema operacional: do Version 1 UNIX até o 86-DOS e Windows 1.0 até Windows 11 e FreeBSD 13. Fale comigo sobre algum sistema operacional e provavelmente terei um disco, disquete ou imagem ISO;
+* Colecionador de sistemas operacionais: do Version 1 UNIX até o 86-DOS e Windows 1.0 até Windows 11 e FreeBSD 13. Fale comigo sobre algum sistema operacional e provavelmente terei um disco, disquete ou imagem ISO;
 * Atualmente jogando (2024):
   * The Legend of Zelda: Tears of the Kingdom (Nintendo Switch);
   * Minecraft (PC, Android e Nintendo Switch);
