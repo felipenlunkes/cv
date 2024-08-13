@@ -151,86 +151,6 @@ Desenvolvedor backend pleno atuando no desenvolvimento de projetos utilizando, e
 
 <hr>
 
-## Ferramentas e tecnologias
-
-### Linguagens de programação
-
-* Assembly x86 (usando NASM, FASM e GNU as), Java, Rust, Python, C, Shell script (GNU bash, tcsh), Delphi, VisualBasic .NET, Pascal, Make e Markdown;
-
-### Sistemas Operacionais e plataformas
-
-##### DOS (Disk Operating System), OS/2 e Windows 
-
-* FreeDOS, MS-DOS, OS/2, Windows DOS (Windows 1x-3x, Windows 95, 98 e ME) e Windows NT (NT 3.x-11);
-
-##### Linux
-
-* Arch Linux, Debia, Fedora, Gentoo, Kali Linux, Pop!_OS, OpenSUSE, Ubuntu e ChromeOS;
-
-##### BSD e UNIX
-
-* FreeBSD, macOS (incluindo versçoes PowerPC), OpenIndiana (OpenSolaris), Plan 9 from Bell Labs, UnixWare e UNIX System V;
-
-##### Unix-like
-
-* Minix;
-
-##### Outros Sistemas Operacionais
-
-* BeOS, Haiku, Mac OS Classic e ReactOS;
-
-##### Platformas
-
-* Arduino;
-
-### Ferramentas
-
-##### IDEs
-
-* Android Studio, Arduino IDE, Eclipse, IntelliJ IDEA, Visual Studio e Visual Studio Code;
-
-##### Terminal
-
-* GNU bash, tcsh e Windows Terminal (incluindo PowerShell e Prompt de Comando);
-
-##### Banco de dados
-
-* MySQL;
-
-##### Git
-
-* Git, Bitbucket e GitHub;
-
-##### Utilitários
-
-* DBeaver, MySQL Workbench e Postman;
-
-##### Workflow
-
-* Jenkins e Jira;
-
-##### Virtualização e emulação
-
-* Docker, QEMU, VirtualBox e Microsoft VirtualPC;
-
-##### Ferramentas de design
-
-* Adobe Creative Cloud, Canva, GNU GIMP e Inkscape.
-
-<hr>
-
-## Habilidades
-
-* Português fluente (nativo) e inglês avançado (C1);
-* Domínio do pacote Office (incluindo alternativas open source) e pacotes estatísticos (R e Prism);
-* Domínio de Assembly x86, Java, Python, C, shell script (sistemas Unix-like), SQL e Markdown (ver **[projetos](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md)**);
-* Familiaridade com C++, Rust e VisualBasic;
-* Domínio de ferramentas de versionamento, como git (incluindo uso da ferramentas de linha de comando);
-* Autodidata em diversas linguagens de programação;
-* Boa comunicação e trabalho em equipe;
-
-<hr>
-
 ## Projetos e portfolio
 
 Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
@@ -328,6 +248,88 @@ Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 
 <hr>
 
+## Ferramentas e tecnologias
+
+### Linguagens de programação
+
+[![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
+
+* Assembly x86 (usando NASM, FASM e GNU as), Java, Rust, Python, C, Shell script (GNU bash, tcsh), Delphi, VisualBasic .NET, Pascal, Make e Markdown;
+
+### Sistemas Operacionais e plataformas
+
+##### DOS (Disk Operating System), OS/2 e Windows 
+
+* FreeDOS, MS-DOS, OS/2, Windows DOS (Windows 1x-3x, Windows 95, 98 e ME) e Windows NT (NT 3.x-11);
+
+##### Linux
+
+* Arch Linux, Debia, Fedora, Gentoo, Kali Linux, Pop!_OS, OpenSUSE, Ubuntu e ChromeOS;
+
+##### BSD e UNIX
+
+* FreeBSD, macOS (incluindo versçoes PowerPC), OpenIndiana (OpenSolaris), Plan 9 from Bell Labs, UnixWare e UNIX System V;
+
+##### Unix-like
+
+* Minix;
+
+##### Outros Sistemas Operacionais
+
+* BeOS, Haiku, Mac OS Classic e ReactOS;
+
+##### Platformas
+
+* Arduino;
+
+### Ferramentas
+
+##### IDEs
+
+* Android Studio, Arduino IDE, Eclipse, IntelliJ IDEA, Visual Studio e Visual Studio Code;
+
+##### Terminal
+
+* GNU bash, tcsh e Windows Terminal (incluindo PowerShell e Prompt de Comando);
+
+##### Banco de dados
+
+* MySQL;
+
+##### Git
+
+* Git, Bitbucket e GitHub;
+
+##### Utilitários
+
+* DBeaver, MySQL Workbench e Postman;
+
+##### Workflow
+
+* Jenkins e Jira;
+
+##### Virtualização e emulação
+
+* Docker, QEMU, VirtualBox e Microsoft VirtualPC;
+
+##### Ferramentas de design
+
+* Adobe Creative Cloud, Canva, GNU GIMP e Inkscape.
+
+<hr>
+
+## Habilidades
+
+* Português fluente (nativo) e inglês avançado (C1);
+* Domínio do pacote Office (incluindo alternativas open source) e pacotes estatísticos (R e Prism);
+* Domínio de Assembly x86, Java, Python, C, shell script (sistemas Unix-like), SQL e Markdown (ver **[projetos](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md)**);
+* Familiaridade com C++, Rust e VisualBasic;
+* Domínio de ferramentas de versionamento, como git (incluindo uso da ferramentas de linha de comando);
+* Autodidata em diversas linguagens de programação;
+* Boa comunicação e trabalho em equipe;
+
+<hr>
+
 ## Formação profissional
 
 #### **2024-2027** | **Aluno de graduação em Análise e Desenvolvimento de Sistemas - [Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br/destaques/Paginas/default.aspx) - Belo Horizonte**
@@ -352,8 +354,9 @@ Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 
 ## Interesses
 
+* Interessado em design e implementação de sistemas operacionais;
 * Interessado em história da computação, emulação e preservação de software histórico;
-* Colecionador de sistemas operacionais: do Version 1 UNIX até o 86-DOS e Windows 1.0 até Windows 11 e FreeBSD 13. Fale comigo sobre algum sistema operacional e provavelmente terei um disco, disquete ou imagem ISO;
+* Colecionador de sistemas operacionais: do Version 1 UNIX, 86-DOS e Windows 1.0 até o FreeBSD 14 e Windows 11. Fale comigo sobre algum sistema operacional e provavelmente terei um disco, disquete ou imagem ISO;
 * Atualmente jogando (2024):
   * The Legend of Zelda: Tears of the Kingdom (Nintendo Switch);
   * Minecraft (PC, Android e Nintendo Switch);

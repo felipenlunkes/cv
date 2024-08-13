@@ -151,86 +151,6 @@ Backend developer working on project development using, among other technologies
 
 <hr>
 
-## Tools and technologies
-
-### Programming languages
-
-* x86 Assembly (using NASM, FASM and GNU as), Java, Rust, Python, C, Shell script (GNU bash, tcsh), Delphi, VisualBasic .NET, Pascal, Make and Markdown;
-
-### Operating Systems and platforms
-
-##### DOS (Disk Operating System), OS/2 and Windows 
-
-* FreeDOS, MS-DOS, OS/2, Windows DOS (Windows 1x-3x, Windows 95, 98 and ME) and Windows NT (NT 3.x-11);
-
-##### Linux
-
-* Arch Linux, Debia, Fedora, Gentoo, Kali Linux, Pop!_OS, OpenSUSE, Ubuntu and ChromeOS;
-
-##### BSD and UNIX
-
-* FreeBSD, macOS (including PowerPC versions), OpenIndiana (OpenSolaris), Plan 9 from Bell Labs, UnixWare and UNIX System V;
-
-##### Unix-like
-
-* Minix;
-
-##### Other OS
-
-* BeOS, Haiku, Mac OS Classic and ReactOS;
-
-##### Platforms
-
-* Arduino;
-
-### Tools
-
-##### IDEs
-
-* Android Studio, Arduino IDE, Eclipse, IntelliJ IDEA, Visual Studio and Visual Studio Code;
-
-##### Terminal
-
-* GNU bash, tcsh and Windows Terminal (including PowerShell and Command Prompt);
-
-##### Databases
-
-* MySQL;
-
-##### Git
-
-* Git, Bitbucket and GitHub;
-
-##### Utilities
-
-* DBeaver, MySQL Workbench and Postman;
-
-##### Workflow
-
-* Jenkins and Jira;
-
-##### Virtualization
-
-* Docker, QEMU, VirtualBox and Microsoft VirtualPC;
-
-##### Design tools
-
-* Adobe Creative Cloud, Canva, GNU GIMP and Inkscape.
-
-<hr>
-
-## Skills
-
-* Fluent Portuguese (native) and advanced English (C1);
-* Domain of the Office package (including open source alternatives) and statistical packages (R and Prism);
-* Domain of x86 Assembly, Java, Python, C, shell script (Unix-like systems), SQL and Markdown (see **[projects](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md))**;
-* Familiarity with C++, Rust and VisualBasic;
-* Domain of versioning tools, such as git (including use of the command line tools);
-* Self-taught in several programming languages;
-* Good communication and teamwork;
-
-<hr>
-
 ## Projects and portfolio
 
 Click on the name of each project to access the respective repository on GitHub.
@@ -328,6 +248,86 @@ Click on the name of each project to access the respective repository on GitHub.
 
 <hr>
 
+## Tools and technologies
+
+### Programming languages
+
+* x86 Assembly (using NASM, FASM and GNU as), Java, Rust, Python, C, Shell script (GNU bash, tcsh), Delphi, VisualBasic .NET, Pascal, Make and Markdown;
+
+### Operating Systems and platforms
+
+##### DOS (Disk Operating System), OS/2 and Windows 
+
+* FreeDOS, MS-DOS, OS/2, Windows DOS (Windows 1x-3x, Windows 95, 98 and ME) and Windows NT (NT 3.x-11);
+
+##### Linux
+
+* Arch Linux, Debia, Fedora, Gentoo, Kali Linux, Pop!_OS, OpenSUSE, Ubuntu and ChromeOS;
+
+##### BSD and UNIX
+
+* FreeBSD, macOS (including PowerPC versions), OpenIndiana (OpenSolaris), Plan 9 from Bell Labs, UnixWare and UNIX System V;
+
+##### Unix-like
+
+* Minix;
+
+##### Other OS
+
+* BeOS, Haiku, Mac OS Classic and ReactOS;
+
+##### Platforms
+
+* Arduino;
+
+### Tools
+
+##### IDEs
+
+* Android Studio, Arduino IDE, Eclipse, IntelliJ IDEA, Visual Studio and Visual Studio Code;
+
+##### Terminal
+
+* GNU bash, tcsh and Windows Terminal (including PowerShell and Command Prompt);
+
+##### Databases
+
+* MySQL;
+
+##### Git
+
+* Git, Bitbucket and GitHub;
+
+##### Utilities
+
+* DBeaver, MySQL Workbench and Postman;
+
+##### Workflow
+
+* Jenkins and Jira;
+
+##### Virtualization
+
+* Docker, QEMU, VirtualBox and Microsoft VirtualPC;
+
+##### Design tools
+
+* Adobe Creative Cloud, Canva, GNU GIMP and Inkscape.
+
+<hr>
+
+## Skills
+
+* Fluent Portuguese (native) and advanced English (C1);
+* Domain of the Office package (including open source alternatives) and statistical packages (R and Prism);
+* Domain of x86 Assembly, Java, Python, C, shell script (Unix-like systems), SQL and Markdown (see **[projects](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md))**;
+* Familiarity with C++, Rust and VisualBasic;
+* Domain of versioning tools, such as git (including use of the command line tools);
+* Self-taught in several programming languages;
+* Good communication and teamwork;
+
+<hr>
+
 ## Academic background
 
 #### **2024-2027** | **Undergraduate student in Systems Analysis and Development - [Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br/destaques/Paginas/default.aspx) - Belo Horizonte, Brazil**
@@ -352,8 +352,9 @@ Click on the name of each project to access the respective repository on GitHub.
 
 ## Interests
 
+* Interested in design and implementation of operating systems;
 * Interested in computing history, emulation and preservation of historical software;
-* Operating system collector: from Version 1 Unix through 86-DOS and Windows 1.0 to Windows 11 and FreeBSD 13. Talk to me about an operating system and I'll probably have a disk, floppy or ISO image;
+* Operating system collector: from Version 1 Unix through 86-DOS and Windows 1.0 to FreeBSD 14 and Windows 11. Talk to me about an operating system and I'll probably have a disk, floppy or ISO image;
 * Currently playing (2024):
   * The Legend of Zelda: Tears of the Kingdom (Nintendo Switch);
   * Minecraft (PC, Android and Nintendo Switch);
