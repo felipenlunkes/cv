@@ -264,7 +264,7 @@ Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 
 ##### Linux
 
-* Arch Linux, Debia, Fedora, Gentoo, Kali Linux, Pop!_OS, OpenSUSE, Ubuntu e ChromeOS;
+* Arch Linux, Debian, Fedora, Gentoo, Kali Linux, Pop!_OS, OpenSUSE, Ubuntu e ChromeOS;
 
 ##### BSD e UNIX
 
