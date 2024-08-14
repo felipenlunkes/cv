@@ -34,11 +34,11 @@ Belo Horizonte, Brazil
 
 Backend software developer working on project development using, among other technologies, **Java**, **Spring Framework**, **Spring Boot**, **RESTful APIs**, **relational databases** (such as MySQL), **JavaScript/TypeScript**, **Docker**, **Linux**, **unit and integration tests**, **messaging with Apache Kafka and Kinesis** and **microservices architecture**.
 
-I am proficient in using several tools, such as code control with git, various compilers and assemblers, such as GNU Compiler Collection, flat assembler (fasm), NASM and GNU as, as well as virtualization and emulation tools, such as Docker, VirtualBox and QEMU. I have experience in implementing projects using several languages, the main ones being: x86 Assembly, Java, C, Python and shell scripts (see my open source projects below, in the [Projects and portfolio section](https://felipenlunkes.github.io/cv/#projects-and-portfolio)). Experience in managing and documenting open source projects and in the use and administration of Unix-like systems. I have been continuously improving myself in Java, Rust, Python, C and x86 Assembly and since 2015 I have been developing an original operating system project (Hexagonix, which you can find below, in the [Projects and portfolio section](https://felipenlunkes.github.io/cv/#projects-and-portfolio)) completely written in x86 Assembly, as well as others low-level projects.
+I am proficient in using several tools, such as code control with git, various compilers and assemblers, such as GNU Compiler Collection, flat assembler (fasm), NASM and GNU as, as well as virtualization and emulation tools, such as Docker, VirtualBox and QEMU. I have experience in implementing projects using several languages, the main ones being: x86 Assembly, Java, C, Python and shell scripts (see my open source projects below, in the [Projects and portfolio section](#projects-and-portfolio)). Experience in managing and documenting open source projects and in the use and administration of Unix-like systems. I have been continuously improving myself in Java, Rust, Python, C and x86 Assembly and since 2015 I have been developing an original operating system project (Hexagonix, which you can find below, in the [Projects and portfolio section](#projects-and-portfolio)) completely written in x86 Assembly, as well as others low-level projects.
 
-I am graduating in Systems Analysis and Development (*Análise e Desenvolvimento de Sistemas - ADS*) from the *Pontifícia Universidade Católica de Minas Gerais* (PUC Minas, Brazil). I have a technical course in IT, where I became familiar with the notions of programming logic, C, Java, Pascal, Delphi, VisualBasic, hardware, robotics, web development, relational databases and SQL, systems analysis and entrepreneurship. I worked as a IT and technology democratization instructor, alongside the federal government program Telecentros.BR. I worked as a freelancer in software development (using Java and C with integration to MySQL databases) and computer maintenance. Furthermore, I graduated with a bachelor's degree in Biological Sciences from the *Universidade Federal de Minas Gerais* (UFMG, Brazil), with an emphasis on Biotechnology and Health, with a focus on the areas of Bioinformatics, Biochemistry and Molecular Biology, and I have an academic master's degree (stricto sensu) in Health Sciences by the *Instituto René Rachou/Fiocruz Minas* (Fundação Oswaldo Cruz, Brazil). See my [academic background](https://felipenlunkes.github.io/cv/#academic-background) below.
+I am graduating in Systems Analysis and Development (*Análise e Desenvolvimento de Sistemas - ADS*) from the *Pontifícia Universidade Católica de Minas Gerais* (PUC Minas, Brazil). I have a technical course in IT, where I became familiar with the notions of programming logic, C, Java, Pascal, Delphi, VisualBasic, hardware, robotics, web development, relational databases and SQL, systems analysis and entrepreneurship. I worked as a IT and technology democratization instructor, alongside the federal government program Telecentros.BR. I worked as a freelancer in software development (using Java and C with integration to MySQL databases) and computer maintenance. Furthermore, I graduated with a bachelor's degree in Biological Sciences from the *Universidade Federal de Minas Gerais* (UFMG, Brazil), with an emphasis on Biotechnology and Health, with a focus on the areas of Bioinformatics, Biochemistry and Molecular Biology, and I have an academic master's degree (stricto sensu) in Health Sciences by the *Instituto René Rachou/Fiocruz Minas* (Fundação Oswaldo Cruz, Brazil). See my [academic background](#academic-background) below.
 
-I am interested in preservation, documentation and emulation of historical software, having a large collection of operating systems collected over the years. See other [interests](https://felipenlunkes.github.io/cv/#interests) below.
+I am interested in preservation, documentation and emulation of historical software, having a large collection of operating systems collected over the years. See other [interests](#interests) and [other relevant information about me](#other-relevant-information-about-me) below.
 
 **#Java** **#SpringFramework** **#SpringBoot** **#Spring** **#Linux** **#MySQL** **#Docker** **#C** **#Python** **#Backend** **#Kafka** **#Kinesis** **#OpenSource** **#FreeBSD** **#OSDev**
 
@@ -254,37 +254,15 @@ Click on the name of each project to access the respective repository on GitHub.
 
 * x86 Assembly (using NASM, FASM and GNU as), Java, Rust, Python, C, Shell script (GNU bash, tcsh), Delphi, VisualBasic .NET, Pascal, Make and Markdown;
 
-### Operating Systems and platforms
+### Frameworks
 
-##### DOS (Disk Operating System), OS/2 and Windows 
-
-* FreeDOS, MS-DOS, OS/2, Windows DOS (Windows 1x-3x, Windows 95, 98 and ME) and Windows NT (NT 3.x-11);
-
-##### Linux
-
-* Arch Linux, Debian, Fedora, Gentoo, Kali Linux, Pop!_OS, OpenSUSE, Ubuntu and ChromeOS;
-
-##### BSD and UNIX
-
-* FreeBSD, macOS (including PowerPC versions), OpenIndiana (OpenSolaris), Plan 9 from Bell Labs, UnixWare and UNIX System V;
-
-##### Unix-like
-
-* Minix;
-
-##### Other OS
-
-* BeOS, Haiku, Mac OS Classic and ReactOS;
-
-##### Platforms
-
-* Arduino;
+* Spring Framework, Spring Boot;
 
 ### Tools
 
 ##### IDEs
 
-* Android Studio, Arduino IDE, Eclipse, IntelliJ IDEA, Visual Studio and Visual Studio Code;
+* Android Studio, Arduino IDE, Eclipse, IntelliJ IDEA, PyCharm, RustRover, Visual Studio and Visual Studio Code;
 
 ##### Terminal
 
@@ -294,7 +272,7 @@ Click on the name of each project to access the respective repository on GitHub.
 
 * MySQL;
 
-##### Git
+##### Code versioning and controle
 
 * Git, Bitbucket and GitHub;
 
@@ -310,7 +288,7 @@ Click on the name of each project to access the respective repository on GitHub.
 
 * Docker, QEMU, VirtualBox and Microsoft VirtualPC;
 
-##### Design tools
+##### Design
 
 * Adobe Creative Cloud, Canva, GNU GIMP and Inkscape.
 
@@ -339,14 +317,14 @@ Click on the name of each project to access the respective repository on GitHub.
 * Master's degree in Health Sciences at IRR/Fundação Oswaldo Cruz;
 * Master's thesis available [**here**](https://www.arca.fiocruz.br/handle/icict/60305).
 
-#### **2016-2020** | **Graduation in Biological Sciences (Biology) - [Universidade Federal de Minas Gerais](https://ufmg.br/) - Belo Horizonte, Brazil**
+#### **2016-2020** | **Graduation in Biological Sciences (Biology - Ciências Biológicas) - [Universidade Federal de Minas Gerais](https://ufmg.br/) - Belo Horizonte, Brazil**
 
-* Graduation in Biological Sciences (Biology) with emphasis in Biotechnology and Health.
+* Graduation in Biological Sciences (Biology - Ciências Biológicas) with emphasis in Biotechnology and Health.
 
 #### **2011-2023** | **High school with computer technician - Escola Técnica Vital Brasil - Belo Horizonte, Brazil**
 
 * Technical formation for developers;
-* Contact with Pascal, C, HTML/CSS, SQL, Java and VisualBasic, in addition to disciplines related to hardware and robotics.
+* Familiar with the notions of programming logic, C, Java, Pascal, Delphi, VisualBasic, hardware, robotics, web development, relational databases and SQL, systems analysis and entrepreneurship.
 
 <hr>
 
@@ -359,6 +337,18 @@ Click on the name of each project to access the respective repository on GitHub.
   * The Legend of Zelda: Tears of the Kingdom (Nintendo Switch);
   * Minecraft (PC, Android and Nintendo Switch);
   * Ghostwire: Tokyo (Xbox).
+
+<hr>
+
+## Other relevant information about me
+
+* Proficiency in using different operating systems (old and modern):
+  * DOS (Disk Operating System), OS/2 and Windows: FreeDOS, MS-DOS, OS/2, Windows DOS (Windows 1x-3x, Windows 95, 98 and ME) and Windows NT (NT 3.x-11);
+  * Linux: Arch Linux, Debian, Fedora, Gentoo, Kali Linux, Linux From Scratch, Pop!_OS, OpenSUSE, Ubuntu and ChromeOS;
+  * UNIX and BSD: FreeBSD, macOS (including PowerPC versions), OpenIndiana (OpenSolaris), Plan 9 from Bell Labs, UnixWare and UNIX System V;
+  * Unix-like: Minix;
+  * Other OS: BeOS, Haiku, Mac OS Classic and ReactOS;
+* Familiarity with Arduino;
 
 <hr>
 

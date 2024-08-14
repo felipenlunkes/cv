@@ -252,41 +252,17 @@ Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 
 ### Linguagens de programação
 
-[![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
-
 * Assembly x86 (usando NASM, FASM e GNU as), Java, Rust, Python, C, Shell script (GNU bash, tcsh), Delphi, VisualBasic .NET, Pascal, Make e Markdown;
 
-### Sistemas Operacionais e plataformas
+### Frameworks
 
-##### DOS (Disk Operating System), OS/2 e Windows 
-
-* FreeDOS, MS-DOS, OS/2, Windows DOS (Windows 1x-3x, Windows 95, 98 e ME) e Windows NT (NT 3.x-11);
-
-##### Linux
-
-* Arch Linux, Debian, Fedora, Gentoo, Kali Linux, Pop!_OS, OpenSUSE, Ubuntu e ChromeOS;
-
-##### BSD e UNIX
-
-* FreeBSD, macOS (incluindo versçoes PowerPC), OpenIndiana (OpenSolaris), Plan 9 from Bell Labs, UnixWare e UNIX System V;
-
-##### Unix-like
-
-* Minix;
-
-##### Outros Sistemas Operacionais
-
-* BeOS, Haiku, Mac OS Classic e ReactOS;
-
-##### Platformas
-
-* Arduino;
+* Spring Framework, Spring Boot;
 
 ### Ferramentas
 
 ##### IDEs
 
-* Android Studio, Arduino IDE, Eclipse, IntelliJ IDEA, Visual Studio e Visual Studio Code;
+* Android Studio, Arduino IDE, Eclipse, IntelliJ IDEA, PyCharm, RustRover, Visual Studio e Visual Studio Code;
 
 ##### Terminal
 
@@ -296,7 +272,7 @@ Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 
 * MySQL;
 
-##### Git
+##### Versionalização e controle de código
 
 * Git, Bitbucket e GitHub;
 
@@ -312,7 +288,7 @@ Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 
 * Docker, QEMU, VirtualBox e Microsoft VirtualPC;
 
-##### Ferramentas de design
+##### Design
 
 * Adobe Creative Cloud, Canva, GNU GIMP e Inkscape.
 
@@ -348,7 +324,7 @@ Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 #### **2011-2023** | **Ensino médio com ensino técnico integrado - Escola Técnica Vital Brasil - Belo Horizonte**
 
 * Formação técnica em informática e programação;
-* Contato com Pascal, C, HTML/CSS, SQL, Java e VisualBasic, além de disciplinas de hardware e robótica.
+* Familiaridade com noções de lógica de programação, C, Java, Pascal, Delphi, VisualBasic, hardware, robótica, desenvolvimento web, bancos de dados relacionais e SQL, análise de sistemas e empreendedorismo.
 
 <hr>
 
@@ -361,6 +337,18 @@ Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
   * The Legend of Zelda: Tears of the Kingdom (Nintendo Switch);
   * Minecraft (PC, Android e Nintendo Switch);
   * Ghostwire: Tokyo (Xbox).
+
+<hr>
+
+## Outras informações relevante sobre mim
+
+* Domínio na utilização de diversos sistemas operacionais (antigos e modernos):
+  * Windows e DOS (Disk Operating System): FreeDOS, MS-DOS, OS/2, Windows DOS (Windows 1x-3x, Windows 95, 98 e ME) e Windows NT (NT 3.x-11);
+  * Linux: Arch Linux, Debian, Fedora, Gentoo, Kali Linux, Pop!_OS, OpenSUSE, Ubuntu e ChromeOS;
+  * UNIX e BSD: FreeBSD, macOS (incluindo versçoes PowerPC), OpenIndiana (OpenSolaris), Plan 9 from Bell Labs, UnixWare e UNIX System V;
+  * Unix-like: Minix;
+  * Outros sistemas operacionais: BeOS, Haiku, Mac OS Classic e ReactOS;
+* Familiarizado com Arduino;
 
 <hr>
 
