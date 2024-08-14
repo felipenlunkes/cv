@@ -114,13 +114,13 @@ Desenvolvedor backend pleno atuando no desenvolvimento de projetos utilizando, e
 
 * Transição de carreira (retorno à área de desenvolvimento) para desenvolvedor backend (Java, C e Python).
 
-#### **2021-2023** | Estudante de mestrado acadêmico - Instituto René Rachou/Fiocruz Minas - Belo Horizonte
+#### **2021-2023** | Estudante de mestrado acadêmico - Instituto René Rachou/Fundação Oswaldo Cruz - Belo Horizonte
 
 * Mestre acadêmico (*stricto sensu*) em Ciências da Saúde pela IRR/Fundação Oswaldo Cruz;
 * Projeto que visa caracterizar funcionalmente proteínas de *Schistosoma mansoni*;
 * Dissertação de mestrado disponível [**aqui**](https://www.arca.fiocruz.br/handle/icict/60305).
 
-#### **2016-2020** | Estudante de Iniciação Científica - Instituto René Rachou/Fiocruz Minas - Belo Horizonte
+#### **2016-2020** | Estudante de Iniciação Científica - Instituto René Rachou/Fundação Oswaldo Cruz - Belo Horizonte
 
 * Estudante de Iniciação Científica (IC) durante a graduação.
 
@@ -312,9 +312,9 @@ Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 
 * Graduação em andamento em Análise e Desenvolvimento de Sistemas  (ADS).
 
-#### **2021-2023** | **Mestrado em Ciências da Saúde - [Instituto René Rachou/Fiocruz Minas](https://portal.fiocruz.br/) - Belo Horizonte**
+#### **2021-2023** | **Mestrado em Ciências da Saúde - [Instituto René Rachou/Fundação Oswaldo Cruz](https://portal.fiocruz.br/) - Belo Horizonte**
 
-* Mestrado em Ciências da Saúde pelo Instituto René Rachou/Fiocruz Minas (IRR/Fundação Oswaldo Cruz);
+* Mestrado em Ciências da Saúde pelo Instituto René Rachou/Fundação Oswaldo Cruz (IRR/Fundação Oswaldo Cruz);
 * Dissertação de mestrado em acesso público disponível [**aqui**](https://www.arca.fiocruz.br/handle/icict/60305).
 
 #### **2016-2020** | **Graduação em Ciências Biológicas - [Universidade Federal de Minas Gerais](https://ufmg.br/) - Belo Horizonte**

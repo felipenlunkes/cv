@@ -114,13 +114,13 @@ Backend developer working on project development using, among other technologies
 
 * Career transition (return to software development) to backend developer (Java, C and Python).
 
-#### **2021-2023** | Master's student - Instituto René Rachou/Fiocruz Minas - Belo Horizonte, Brazil
+#### **2021-2023** | Master's student - Instituto René Rachou/Fundação Oswaldo Cruz - Belo Horizonte, Brazil
 
 * Master's degree in Health Sciences from *IRR/Fundação Oswaldo Cruz*;
 * Project that aims to functionally characterize *Schistosoma mansoni* proteins;
 * Master's thesis available [**here**](https://www.arca.fiocruz.br/handle/icict/60305).
 
-#### **2016-2020** | Scientific Initiation Student - René Rachou Institute/Fiocruz Minas - Belo Horizonte, Brazil
+#### **2016-2020** | Scientific Initiation Student - René Rachou Institute/Fundação Oswaldo Cruz - Belo Horizonte, Brazil
 
 * Student of Scientific Initiation (IC) during graduation.
 
@@ -312,7 +312,7 @@ Click on the name of each project to access the respective repository on GitHub.
 
 * Graduation in progress in Systems Analysis and Development (*Análise e Desenvolvimento de Sistemas - ADS*).
 
-#### **2021-2023** | **Master's degree in Health Sciences - [Instituto René Rachou/Fiocruz Minas](https://portal.fiocruz.br/) - Belo Horizonte, Brazil**
+#### **2021-2023** | **Master's degree in Health Sciences - [Instituto René Rachou/Fundação Oswaldo Cruz](https://portal.fiocruz.br/) - Belo Horizonte, Brazil**
 
 * Master's degree in Health Sciences at IRR/Fundação Oswaldo Cruz;
 * Master's thesis available [**here**](https://www.arca.fiocruz.br/handle/icict/60305).
