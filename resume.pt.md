@@ -343,11 +343,11 @@ Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 ## Outras informações relevante sobre mim
 
 * Domínio na utilização de diversos sistemas operacionais (antigos e modernos):
-  * DOS (Disk Operating System), OS/2 e Windows: FreeDOS, MS-DOS, OS/2, Windows DOS (Windows 1x-3x, Windows 95, 98 e ME) e Windows NT (NT 3.x-11);
-  * Linux: Arch Linux, Debian, Fedora, Gentoo, Kali Linux, Pop!_OS, OpenSUSE, Ubuntu e ChromeOS;
-  * UNIX e BSD: FreeBSD, macOS (incluindo versçoes PowerPC), OpenIndiana (OpenSolaris), Plan 9 from Bell Labs, UnixWare e UNIX System V;
-  * Unix-like: Minix;
-  * Outros sistemas operacionais: BeOS, Haiku, Mac OS Classic e ReactOS;
+  * **DOS (Disk Operating System), OS/2 e Windows**: FreeDOS, MS-DOS, OS/2, Windows DOS (Windows 1x-3x, Windows 95, 98 e ME) e Windows NT (NT 3.x-11);
+  * **Linux**: Arch Linux, Debian, Fedora, Gentoo, Kali Linux, Pop!_OS, OpenSUSE, Ubuntu e ChromeOS;
+  * **UNIX e BSD**: FreeBSD, macOS (incluindo versçoes PowerPC), OpenIndiana (OpenSolaris), Plan 9 from Bell Labs, UnixWare e UNIX System V;
+  * **Unix-like**: Minix;
+  * **Outros sistemas operacionais**: BeOS, Haiku, Mac OS Classic e ReactOS;
 * Familiarizado com Arduino;
 
 <hr>
