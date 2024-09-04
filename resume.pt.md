@@ -20,7 +20,7 @@ Tel: +55 31 98100-7706
 
 Belo Horizonte, Brasil
 
-[English version](https://felipenlunkes.github.io/cv/)
+[English version](https://cv.lunx.me)
 
 </div>
 
@@ -358,8 +358,10 @@ Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 * [LinkedIn](https://linkedin.com/in/felipelunkes)
 * [Currículo Lattes](http://lattes.cnpq.br/2540365589952421)
 * [LinkTree](https://linktr.ee/felipelunkes)
-* [X/Twitter](https://x.com/lunx8086)
+* [Bluesky](https://bsky.app/profile/lunx.me)
+* [Threads](https://www.threads.net/@lunx8086)
 * [Instagram](https://instagram.com/lunx8086)
+* [X/Twitter](https://x.com/lunx8086)
 
 <hr>
 
