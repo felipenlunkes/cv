@@ -319,7 +319,7 @@ Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 
 #### **2016-2020** | **Graduação em Ciências Biológicas - [Universidade Federal de Minas Gerais](https://ufmg.br/) - Belo Horizonte**
 
-* Graduação em Ciências Biológicas com ênfase em Biotecnologia e Saúde.
+* Graduação em Ciências Biológicas com ênfase em Biotecnologia e Saúde pelo Instituto de Ciências Biológicas da Universidade Federal de Minas Gerais (ICB/UFMG).
 
 #### **2011-2023** | **Ensino médio com ensino técnico integrado - Escola Técnica Vital Brasil - Belo Horizonte**
 
