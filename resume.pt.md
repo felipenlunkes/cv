@@ -1,5 +1,5 @@
 ---
-title: "CV - Felipe Miguel Nery Lunkes"
+title: "Meu currículo"
 output: 
   html_document:
     toc: FALSE

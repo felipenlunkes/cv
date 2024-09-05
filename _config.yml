@@ -10,4 +10,4 @@ include:
   - resume.pt.md
   - README.md
   - LICENSE
-title: [My resume]
+description: [My resume]
