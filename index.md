@@ -40,6 +40,8 @@ I am graduating in Systems Analysis and Development (*Análise e Desenvolvimento
 
 I am interested in preservation, documentation and emulation of historical software, having a large collection of operating systems collected over the years. See other [interests](#interests) and [other relevant information about me](#other-relevant-information-about-me) below.
 
+See [here](#portfolio-and-contact) my portfolio and contact details.
+
 **#Java** **#SpringFramework** **#SpringBoot** **#Spring** **#Linux** **#MySQL** **#Docker** **#C** **#Python** **#Backend** **#Kafka** **#Kinesis** **#OpenSource** **#FreeBSD** **#OSDev**
 
 See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**LinkedIn**](https://linkedin.com/in/felipenlunkes).
@@ -244,7 +246,7 @@ Click on the name of each project to access the respective repository on GitHub.
 
   - Netuno OS | **2012-2014**
 
-    - During 2012, motivated to learn more about how a modern operating system works, I started to develop a small and simple Linux distribution, choosing to maintain a command line interface. For that, I followed the steps proposed by the Linux From Scratch project. The result was Netuno OS, an operating system based on the 2.6 series Linux kernel, standard tools and utilities. There are no sources other than those available for the packages used, so a repository had not been created at the time. What was left of it was an installation image of the system, approximately 192 Mb, dated 2012 and updated in 2014. At the moment, I also developed some kernel modules to study the interfaces and use of the /proc directory.
+    - During 2012, motivated to learn more about how a modern operating system works, I started to develop a small and simple Linux distribution, choosing to maintain a command line interface. For that, I followed the steps proposed by the Linux From Scratch project. The result was Netuno OS, an operating system based on the 2.6 series Linux kernel, standard tools and utilities. There are no sources other than those available for the packages used, so a repository had not been created at the time. What was left of it was an installation image of the system, approximately 192 MB, dated 2012 and updated in 2014. At the moment, I also developed some kernel modules to study the interfaces and use of the /proc directory.
 
 <hr>
 

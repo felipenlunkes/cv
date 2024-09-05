@@ -34,11 +34,13 @@ Belo Horizonte, Brasil
 
 Desenvolvedor de software backend pleno atuando no desenvolvimento de projetos utilizando, entre outras tecnologias, **Java**, **Spring Framework**, **Spring Boot**, **APIs RESTful**, **bancos de dados relacionais** (como MySQL), **JavaScript/TypeScript**, **Docker**, **Linux**, **testes unitários e de integração**, **mensageria com Apache Kafka e Kinesis** e **arquitetura de microsserviços**. 
 
-Possuo proficiência no uso de diversas ferramentas, como controle de código com git, diversos compiladores e montadores (assemblers), como GNU Compiler Collection, flat assembler (fasm), NASM e GNU as, bem como ferramentas de virtualização e emulação, como Docker, VirtualBox e QEMU. Tenho experiência na implementação de projetos utilizando várias linguagens, sendo as principais: Assembly x86, Java, C, Python e scripts de shell (veja abaixo meus projetos de código aberto, na seção de [Projetos e portolio](#projetos-e-portfolio)). Experiência no gerenciamento e documentação de projetos de código aberto e no uso e administração de sistemas Unix-like. Venho me aperfeiçoando continuamente em Java, Rust, Python, C e Assembly x86 e desenvolvo, desde 2015, um projeto autoral de sistema operacional (Hexagonix, que você pode encontrar abaixo, na seção de [Projetos e portolio](#projetos-e-portfolio)) completamente escrito em Assembly x86, bem como outros projetos de baixo nível. 
+Possuo proficiência no uso de diversas ferramentas, como controle de código com git, diversos compiladores e montadores (assemblers), como GNU Compiler Collection, flat assembler (fasm), NASM e GNU as, bem como ferramentas de virtualização e emulação, como Docker, VirtualBox e QEMU. Tenho experiência na implementação de projetos utilizando várias linguagens, sendo as principais: Assembly x86, Java, C, Python e scripts de shell (veja abaixo meus projetos de código aberto, na seção de [Projetos e portfólio](#projetos-e-portflio)). Experiência no gerenciamento e documentação de projetos de código aberto e no uso e administração de sistemas Unix-like. Venho me aperfeiçoando continuamente em Java, Rust, Python, C e Assembly x86 e desenvolvo, desde 2015, um projeto autoral de sistema operacional (Hexagonix, que você pode encontrar abaixo, na seção de [Projetos e portfólio](#projetos-e-portflio)) completamente escrito em Assembly x86, bem como outros projetos de baixo nível. 
 
 Sou graduando em Análise e Desenvolvimento de Sistemas (ADS) pela Pontifícia Universidade Católica de Minas Gerais (PUC Minas). Tenho formação técnica em informática, onde me familiarizei com noções de lógica de programação, C, Java, Pascal, Delphi, VisualBasic, hardware, robótica, desenvolvimento web, bancos de dados relacionais e SQL, análise de sistemas e empreendedorismo. Atuei como instrutor de informática e democratização da tecnologia, junto ao programa do governo federal Telecentros.BR. Atuei também como freelancer no desenvolvimento de software (utilizando Java e C com integração a bancos de dados MySQL) e manutenção de computadores. Além disso, me formei bacharel em Ciências Biológicas pela Universidade Federal de Minas Gerais (UFMG), com ênfase em Biotecnologia e Saúde, com foco nas áreas de Bioinformática, Bioquímica e Biologia Molecular, e possuo mestrado acadêmico (stricto sensu) em Ciências da Saúde pelo Instituto René Rachou/Fiocruz Minas (Fundação Oswaldo Cruz). Leia mais sobre minha [formação acadêmica](#formao-acadmica) abaixo.
 
 Me interesso por preservação, documentação e emulação de software histórico, tendo uma grande coleção de sistemas operacionais coletados ao longo dos anos. Veja outros [interesses](#interesses) e [outras informações relevantes sobre mim](#outras-informaes-relevante-sobre-mim) abaixo.
+
+Veja [aqui](#portflio-e-contato) meu portólio e detalhes de contato.
 
 **#Java** **#SpringFramework** **#SpringBoot** **#Spring** **#Linux** **#MySQL** **#Docker** **#C** **#Python** **#Backend** **#Kafka** **#Kinesis** **#OpenSource** **#FreeBSD** **#OSDev**
 
@@ -151,7 +153,7 @@ Desenvolvedor backend pleno atuando no desenvolvimento de projetos utilizando, e
 
 <hr>
 
-## Projetos e portfolio
+## Projetos e portfólio
 
 Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 
@@ -244,7 +246,7 @@ Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 
   - Netuno OS | **2012-2014**
 
-    - Durante 2012, motivado a aprender mais sobre como funciona um sistema operacional moderno, comecei a desenvolver uma pequena e simples distribuição Linux, optando por manter uma interface de linha de comando. Para isso segui os passos propostos pelo projeto Linux From Scratch. O resultado foi o Netuno OS, um sistema operacional baseado no kernel Linux da série 2.6, ferramentas e utilitários padrão. Não existem outras fontes além das disponíveis para os pacotes utilizados, portanto não foi criado um repositório no momento. O que restou do projeto foi uma imagem de instalação do sistema, de aproximadamente 192 Mb, datada de 2012 e atualizada em 2014. No momento também desenvolvi alguns módulos do kernel para estudo das interfaces e utilização do diretório /proc.
+    - Durante 2012, motivado a aprender mais sobre como funciona um sistema operacional moderno, comecei a desenvolver uma pequena e simples distribuição Linux, optando por manter uma interface de linha de comando. Para isso segui os passos propostos pelo projeto Linux From Scratch. O resultado foi o Netuno OS, um sistema operacional baseado no kernel Linux da série 2.6, ferramentas e utilitários padrão. Não existem outras fontes além das disponíveis para os pacotes utilizados, portanto não foi criado um repositório no momento. O que restou do projeto foi uma imagem de instalação do sistema, de aproximadamente 192 MB, datada de 2012 e atualizada em 2014. No momento também desenvolvi alguns módulos do kernel para estudo das interfaces e utilização do diretório /proc.
 
 <hr>
 
@@ -352,7 +354,7 @@ Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 
 <hr>
 
-## Portfolio e contato
+## Portfólio e contato
 
 * [GitHub](https://github.com/felipenlunkes)
 * [LinkedIn](https://linkedin.com/in/felipelunkes)
