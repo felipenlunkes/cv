@@ -165,7 +165,7 @@ Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 
   - [**Bin S.O**](https://github.com/felipenlunkes/Bin-S.O) | **2011-2013**
 
-    - Meu primeiro projeto de sistema operacional desenvolvido inteiramente em Assembly x86 (NASM). O sistema implementa um sistema de arquivos simples, chamado BinFS, baseado em uma lista vinculada de arquivos. O sistema de arquivos é criado utilizando uma ferramenta desenvolvida em C, que cria uma imagem de disco. O Bin OS roda em modo real de 16 bits e suporta o desenvolvimento de utilitários usando bibliotecas Assembly x86 disponibilizadas. O sistema pode ser instalado em dispositivos para rodar nativamente, através de um instalador rodando em um LiveCD Linux (Netuno OS).
+    - Meu primeiro projeto de sistema operacional desenvolvido inteiramente em Assembly x86 (NASM). O sistema implementa um sistema de arquivos simples, chamado BinFS, baseado em uma lista vinculada de arquivos. O sistema de arquivos é criado utilizando uma ferramenta desenvolvida em C, que cria uma imagem de disco. O Bin S.O roda em modo real de 16 bits e suporta o desenvolvimento de utilitários usando bibliotecas Assembly x86 disponibilizadas. O sistema pode ser instalado em dispositivos para rodar nativamente, através de um instalador rodando em um LiveCD Linux (Netuno OS).
 
   - [**Asm-MIPS**](https://github.com/felipenlunkes/MIPS-asm) | **2018**
 

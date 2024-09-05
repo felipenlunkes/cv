@@ -165,7 +165,7 @@ Click on the name of each project to access the respective repository on GitHub.
 
   - [**Bin S.O**](https://github.com/felipenlunkes/Bin-S.O) | **2011-2013**
 
-    - My first operating system project developed entirely in Assembly x86. The system implements a simple file system, called BinFS, based on a linked list of files. The file system is created using a tool developed in C, which creates a disk image. Bin OS runs in 16-bit real mode and supports the development of utilities using assembly libraries. The system can be installed on devices to run natively, through an installer running on a Linux LiveCD (Netuno OS).
+    - My first operating system project developed entirely in x86 Assembly. The system implements a simple file system, called BinFS, based on a linked list of files. The file system is created using a tool developed in C, which creates a disk image. Bin S.O runs in 16-bit real mode and supports the development of utilities using Assembly libraries. The system can be installed on devices to run natively, through an installer running on a Linux LiveCD (Netuno OS).
 
   - [**Asm-MIPS**](https://github.com/felipenlunkes/MIPS-asm) | **2018**
 
