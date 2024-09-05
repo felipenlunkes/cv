@@ -10,5 +10,5 @@ include:
   - resume.pt.md
   - README.md
   - LICENSE
-title: [ ]
+title: null
 description: [My resume/Meu currículo]
