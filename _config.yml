@@ -10,6 +10,5 @@ include:
   - resume.pt.md
   - README.md
   - LICENSE
-name: My resume
+name: ""
 title: null
-description: [Felipe Lunkes]
