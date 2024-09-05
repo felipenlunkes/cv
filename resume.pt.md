@@ -1,5 +1,5 @@
 ---
-title: "Meu currículo"
+title: "Meu currículo | CV"
 output: 
   html_document:
     toc: FALSE
