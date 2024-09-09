@@ -1,5 +1,5 @@
 ---
-title: "Meu currículo | CV"
+title: "Meu currículo · CV"
 output: 
   html_document:
     toc: FALSE
@@ -356,14 +356,23 @@ Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 
 ## Portfólio e contato
 
+### Portfólio
+
 * [GitHub](https://github.com/felipenlunkes)
 * [LinkedIn](https://linkedin.com/in/felipelunkes)
 * [Currículo Lattes](http://lattes.cnpq.br/2540365589952421)
 * [LinkTree](https://linktr.ee/felipelunkes)
+
+### Blog
+
+* [Agente x86](https://lunx.me)
+
+### Redes sociais
+
 * [Bluesky](https://bsky.app/profile/lunx.me)
 * [Threads](https://www.threads.net/@lunx8086)
-* [Instagram](https://instagram.com/lunx8086)
 * [X/Twitter](https://x.com/lunx8086)
+* [Instagram](https://instagram.com/lunx8086)
 
 <hr>
 

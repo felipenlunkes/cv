@@ -1,5 +1,5 @@
 ---
-title: "My resume | CV"
+title: "My resume · CV"
 output: 
   html_document:
     toc: FALSE
@@ -356,14 +356,23 @@ Click on the name of each project to access the respective repository on GitHub.
 
 ## Portfolio and contact
 
+### Portfolio
+
 * [GitHub](https://github.com/felipenlunkes)
 * [LinkedIn](https://linkedin.com/in/felipelunkes)
 * [Currículo Lattes (Brazil)](http://lattes.cnpq.br/2540365589952421)
 * [LinkTree](https://linktr.ee/felipelunkes)
+
+### Blog
+
+* [Agente x86 (in Portuguese)](https://lunx.me)
+
+### Social media
+
 * [Bluesky](https://bsky.app/profile/lunx.me)
 * [Threads](https://www.threads.net/@lunx8086)
-* [Instagram](https://instagram.com/lunx8086)
 * [X/Twitter](https://x.com/lunx8086)
+* [Instagram](https://instagram.com/lunx8086)
 
 <hr>
 
