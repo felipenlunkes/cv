@@ -14,7 +14,9 @@ geometry: "left=2cm,right=2cm,top=1cm,bottom=2cm"
 
 # Felipe Miguel Nery Lunkes
 
-**[felipenldev@gmail.com](mailto:felipenldev@gmail.com)**
+[**My website**](https://lunx.me)
+
+[**felipenldev@gmail.com**](mailto:felipenldev@gmail.com)
 
 Tel: +55 31 98100-7706
 
@@ -40,7 +42,7 @@ I am graduating in Systems Analysis and Development (*Análise e Desenvolvimento
 
 I am interested in preservation, documentation and emulation of historical software, having a large collection of operating systems collected over the years. See other [interests](#interests) and [other relevant information about me](#other-relevant-information-about-me) below.
 
-See [here](#portfolio-and-contact) my portfolio and contact details.
+See [here](#portfolio-and-contact) my portfolio and contact details. Also, you can access my [website](https://lunx.me).
 
 **#Java** **#SpringFramework** **#SpringBoot** **#Spring** **#Linux** **#MySQL** **#Docker** **#C** **#Python** **#Backend** **#Kafka** **#Kinesis** **#OpenSource** **#FreeBSD** **#OSDev**
 
