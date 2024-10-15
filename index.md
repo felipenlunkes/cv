@@ -338,6 +338,7 @@ Click on the name of each project to access the respective repository on GitHub.
 * Interested in computing history, emulation and preservation of historical software;
 * Operating system collector: from Version 1 Unix through 86-DOS and Windows 1.0 to FreeBSD 14 and Windows 11. Talk to me about an operating system and I'll probably have a disk, floppy or ISO image;
 * Currently playing (2024):
+  * The Legend of Zelda: Echoes of Wisdom (Nintendo Switch);
   * The Legend of Zelda: Tears of the Kingdom (Nintendo Switch);
   * Minecraft (PC, Android and Nintendo Switch);
   * Ghostwire: Tokyo (Xbox).

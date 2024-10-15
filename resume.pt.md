@@ -338,6 +338,7 @@ Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 * Interessado em história da computação, emulação e preservação de software histórico;
 * Colecionador de sistemas operacionais: do Version 1 UNIX, 86-DOS e Windows 1.0 até o FreeBSD 14 e Windows 11. Fale comigo sobre algum sistema operacional e provavelmente terei um disco, disquete ou imagem ISO;
 * Atualmente jogando (2024):
+  * The Legend of Zelda: Echoes of Wisdom (Nintendo Switch);
   * The Legend of Zelda: Tears of the Kingdom (Nintendo Switch);
   * Minecraft (PC, Android e Nintendo Switch);
   * Ghostwire: Tokyo (Xbox).
