@@ -8,7 +8,11 @@ relative_links:
 include:
   - index.md
   - pt.md
+exclude:
   - README.md
   - LICENSE
+  - AUTHORS
+  - CREDITS
+  - VERSION
 name: ""
 title: null

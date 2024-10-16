@@ -1,5 +1,4 @@
-
-[![Header](https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/header.png "My Twitter account")](https://twitter.com/felipeldev/)
+[![Header](https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/header.png "My page")](https://lunx.me)
 
 <div align="center">
 
@@ -27,12 +26,20 @@
 
 <div align="center">
 
-# Hi there <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/wave.gif" width="30px" height="30px" />
+# Hi there - Olá! <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/wave.gif" width="30px" height="30px" />
 
-## :technologist: My resume
+## :uk: My resume
 
 <div align="justify">
 
 Hi! Here you can find my resume!
+
+</div>
+
+## :brazil: Meu currículo
+
+<div align="justify">
+
+Olá! Aqui você encontrará meu currículo!
 
 </div>
