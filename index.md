@@ -22,7 +22,7 @@ Tel: +55 31 98100-7706
 
 Belo Horizonte, Brazil
 
-[Versão em Português](https://cv.lunx.me/resume.pt)
+[Versão em Português](https://cv.lunx.me/pt)
 
 </div>
 
