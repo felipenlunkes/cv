@@ -54,6 +54,8 @@ Veja mais sobre meus projetos no [**GitHub**](https://github.com/felipenlunkes) 
 
 #### **2024**
 
+* [Microsserviços: explorando os conceitos](https://cursos.alura.com.br/certificate/4d1a31b7-7c72-400b-912d-2cebe7c40d30?lang) - Alura;
+* [Microsserviços: padrões de projeto](https://cursos.alura.com.br/certificate/86ab9423-026c-4aa3-a66d-ddcdeb6fefe8?lang) - Alura;
 * [Rust: a linguagem de programação performática e segura](https://cursos.alura.com.br/certificate/d1212eac-8893-4597-b329-925064eecbd6?lang) - Alura;
 * Segurança da informação (60 min) - Orsegups Participações S/A;
 * Como se proteger de ataques cibernéticos (90 min) - Orsegups Participações S/A;
