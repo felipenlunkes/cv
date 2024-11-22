@@ -34,7 +34,7 @@ Belo Horizonte, Brazil
 
 **Backend developer** at *UbiSafe/Orsegups Participações S/A*.
 
-Backend software developer working on project development using, among other technologies, **Java**, **Spring Framework**, **Spring Boot**, **RESTful APIs**, **relational databases** (such as MySQL), **JavaScript/TypeScript**, **Docker**, **Linux**, **unit and integration tests**, **messaging with Apache Kafka and Kinesis** and **microservices architecture**.
+Backend software developer working on project development using, among other technologies, **Java**, **Spring Framework**, **Spring Boot**, **RESTful APIs**, **relational databases** (such as MySQL), **Python**, **JavaScript/TypeScript**, **Docker**, **Linux**, **Redis**, **AWS SQS**, **AWS S3**, **messaging with Apache Kafka and Kinesis**, **unit and integration tests**, **microservices architecture** and **AWS Lambda** (serverless computing).
 
 I am proficient in using several tools, such as code control with git, various compilers and assemblers, such as GNU Compiler Collection, flat assembler (fasm), NASM and GNU as, as well as virtualization and emulation tools, such as Docker, VirtualBox and QEMU. I have experience in implementing projects using several languages, the main ones being: x86 Assembly, Java, C, Python and shell scripts (see my open source projects below, in the [Projects and portfolio](#projects-and-portfolio) section). Experience in managing and documenting open source projects and in the use and administration of Unix-like systems. I have been continuously improving myself in **Java**, **Rust**, **Python**, **C**, **x86 Assembly**, **JavaScript/TypeScript**, **HTML** and **CSS** and since 2015 I have been developing an original operating system project (Hexagonix, which you can find below, in the [Projects and portfolio](#projects-and-portfolio) section) completely written in x86 Assembly, as well as others low-level projects.
 
@@ -44,7 +44,7 @@ I am interested in preservation, documentation and emulation of historical softw
 
 See [here](#portfolio-and-contact) my portfolio and contact details. Also, you can access my [website](https://lunx.me).
 
-**#Java** **#SpringFramework** **#SpringBoot** **#Spring** **#Linux** **#MySQL** **#Docker** **#C** **#Python** **#Backend** **#Kafka** **#Kinesis** **#OpenSource** **#FreeBSD** **#OSDev**
+**#Java** **#SpringFramework** **#SpringBoot** **#Spring** **#Linux** **#MySQL** **#Docker** **#Python** **#Backend** **#Kafka** **#Kinesis** **#AWSSQS** **#AWSS3** **#AWSLambda** **#JavaScript** **#TypeScript** **#Redis** **#Microservices** **#Serverless** **#OpenSource**
 
 See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**LinkedIn**](https://linkedin.com/in/felipenlunkes).
 
@@ -100,7 +100,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 #### **2023-currently** | Backend developer at UbiSafe/Orsegups Participações S/A
 
-Backend developer working on project development using, among other technologies, Java, Spring Framework, Spring Boot, Python, relational databases (such as MySQL), JavaScript/TypeScript (Node.js), Docker, Linux, messaging with Apache Kafka and Amazon Kinesis and microservices architecture.
+Backend developer working on project development using, among other technologies, Java, Spring Framework, Spring Boot, relational databases (such as MySQL), Python, JavaScript/TypeScript (Node.js), Docker, Linux, Redis, AWS SQS, AWS S3, messaging with Apache Kafka and Amazon Kinesis, unit and integration tests, microservices architecture and AWS Lambda (serverless computing).
 
 ###### **2024/07-currently** | Backend developer
 
