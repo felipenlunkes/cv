@@ -34,7 +34,7 @@ Belo Horizonte, Brasil
 
 **Desenvolvedor backend pleno** na UbiSafe/Orsegups Participações S/A.
 
-Desenvolvedor de software backend pleno atuando no desenvolvimento de projetos utilizando, entre outras tecnologias, **Java**, **Spring Framework**, **Spring Boot**, **APIs RESTful**, **bancos de dados relacionais** (como MySQL), **Python**, **JavaScript/TypeScript**, **Docker**, **Linux**, **Redis**, **AWS SQS**, **AWS S3**, **mensageria com Apache Kafka e Kinesis**, **testes unitários e de integração**, **arquitetura de microsserviços** e **AWS Lambda** (serverless). 
+Desenvolvedor de software backend pleno atuando no desenvolvimento de projetos utilizando, entre outras tecnologias, **Java**, **Spring Framework**, **Spring Boot**, **APIs RESTful**, **bancos de dados relacionais** (como MySQL), **Python**, **JavaScript/TypeScript**, **Docker**, **Linux**, **Redis**, **AWS SQS**, **Amazon S3**, **mensageria com Apache Kafka e Kinesis**, **testes unitários e de integração**, **arquitetura de microsserviços** e **AWS Lambda** (serverless). 
 
 Possuo proficiência no uso de diversas ferramentas, como controle de código com git, diversos compiladores e montadores (assemblers), como GNU Compiler Collection, flat assembler (fasm), NASM e GNU as, bem como ferramentas de virtualização e emulação, como Docker, VirtualBox e QEMU. Tenho experiência na implementação de projetos utilizando várias linguagens, sendo as principais: Assembly x86, Java, C, Python e scripts de shell (veja abaixo meus projetos de código aberto, na seção de [Projetos e portfólio](#projetos-e-portflio)). Experiência no gerenciamento e documentação de projetos de código aberto e no uso e administração de sistemas Unix-like. Venho me aperfeiçoando continuamente em **Java**, **Rust**, **Python**, **C**, **Assembly x86**, **JavaScript/TypeScript**, **HTML** e **CSS**, e desenvolvo, desde 2015, um projeto autoral de sistema operacional (Hexagonix, que você pode encontrar abaixo, na seção de [Projetos e portfólio](#projetos-e-portflio)) completamente escrito em Assembly x86, bem como outros projetos de baixo nível. 
 
@@ -44,7 +44,7 @@ Me interesso por preservação, documentação e emulação de software históri
 
 Veja [aqui](#portflio-e-contato) meu portólio e detalhes de contato. Além disso, você pode acessar meu [website](https://lunx.me).
 
-**#Java** **#SpringFramework** **#SpringBoot** **#Spring** **#Linux** **#MySQL** **#Docker** **#Python** **#Backend** **#Kafka** **#Kinesis** **#AWSSQS** **#AWSS3** **#AWSLambda** **#JavaScript** **#TypeScript** **#Redis** **#Microsserviços** **#Serverless** **#OpenSource**
+**#Java** **#SpringFramework** **#SpringBoot** **#Spring** **#Linux** **#MySQL** **#Docker** **#Python** **#Backend** **#Kafka** **#Kinesis** **#AWSSQS** **#AmazonS3** **#AWSLambda** **#JavaScript** **#TypeScript** **#Redis** **#Microsserviços** **#Serverless** **#OpenSource**
 
 Veja mais sobre meus projetos no [**GitHub**](https://github.com/felipenlunkes) ou no [**LinkedIn**](https://linkedin.com/in/felipenlunkes).
 
@@ -100,7 +100,7 @@ Veja mais sobre meus projetos no [**GitHub**](https://github.com/felipenlunkes) 
 
 #### **2023-atualmente** | Desenvolvedor backend na UbiSafe/Orsegups Participações S/A
 
-Desenvolvedor backend pleno atuando no desenvolvimento de projetos utilizando, entre outras tecnologias, Java, Spring Framework, Spring Boot, bancos de dados relacionais (como MySQL), Python, JavaScript/TypeScript (Node.js), Docker, Linux, Redis, AWS SQS, AWS S3, mensageria com Apache Kafka e Amazon Kinesis, testes unitários e de integração, arquitetura de microsserviços e AWS Lambda (serverless).
+Desenvolvedor backend pleno atuando no desenvolvimento de projetos utilizando, entre outras tecnologias, Java, Spring Framework, Spring Boot, bancos de dados relacionais (como MySQL), Python, JavaScript/TypeScript (Node.js), Docker, Linux, Redis, AWS SQS, Amazon S3, mensageria com Apache Kafka e Amazon Kinesis, testes unitários e de integração, arquitetura de microsserviços e AWS Lambda (serverless).
 
 ###### **07/2024-atualmente** | Desenvolvedor backend pleno
 
