@@ -104,7 +104,7 @@ Desenvolvedor backend pleno atuando no desenvolvimento de projetos utilizando, e
 
 ###### **07/2024-atualmente** | Desenvolvedor backend pleno
 
-* Alteração de senioridade (promoção de cargo) de desenvolvedor Jr. para desenvolvedor pleno.
+* Alteração de senioridade (promoção de cargo) de desenvolvedor backend Jr. para desenvolvedor backend pleno.
 
 ###### **11/2023-06/2024** | Desenvolvedor backend Jr.
 
