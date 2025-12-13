@@ -34,23 +34,28 @@ Belo Horizonte, Brasil
 
 **Desenvolvedor backend pleno** na UbiSafe/Orsegups Participações S/A.
 
-Desenvolvedor de software backend pleno atuando no desenvolvimento de projetos utilizando, entre outras tecnologias, **Java**, **Spring Framework**, **Spring Boot**, **APIs RESTful**, **bancos de dados relacionais** (como MySQL), **Rust**, **Python**, **JavaScript/TypeScript**, **Docker**, **Linux**, **Redis**, **AWS SQS**, **Amazon S3**, **mensageria com Apache Kafka e Kinesis**, **testes unitários e de integração**, **arquitetura de microsserviços** e **AWS Lambda** (serverless). 
+Sou um desenvolvedor backend pleno com experiência no desenvolvimento de soluções utilizando ***Java** (Spring Framework e Spring Boot), **Rust**, **C#** (ASP.NET) e **Python**. Atuo na construção de aplicações escaláveis, com foco em arquitetura de microsserviços orientada a eventos, utilizando APIs RESTful, bancos de dados relacionais (MySQL) e não relacionais (MongoDB), Docker, Redis/Valkey, RabbitMQ e mensageria com Apache Kafka e Kinesis, além de serviços AWS (Lambda, S3 e SQS). Também possuo extensa prática em testes unitários e de integração.
 
-Possuo proficiência no uso de diversas ferramentas, como controle de código com git, diversos compiladores e montadores (assemblers), como GNU Compiler Collection, flat assembler (fasm), NASM e GNU as, bem como ferramentas de virtualização e emulação, como Docker, VirtualBox e QEMU. Tenho experiência na implementação de projetos utilizando várias linguagens, sendo as principais: Java, Python, Assembly x86, JavaScript/TypeScript, HTML, CSS, C e scripts de shell (veja abaixo meus projetos de código aberto, na seção de [Projetos e portfólio](#projetos-e-portflio)). Experiência no gerenciamento e documentação de projetos de código aberto e no uso e administração de sistemas Unix-like. Venho me aperfeiçoando continuamente em **Java**, **Rust**, **Python**, **C**, **Assembly x86**, **JavaScript/TypeScript**, **HTML** e **CSS**, e desenvolvo, desde 2015, um projeto autoral de sistema operacional (Hexagonix, que você pode encontrar abaixo, na seção de [Projetos e portfólio](#projetos-e-portflio)) completamente escrito em Assembly x86, bem como outros projetos de baixo nível. 
+Possuo sólida experiência em diferentes linguagens e ecossistemas, incluindo Java, C#, Python, C, Assembly x86 e shell scripts, além de vivência prática com Rust, JavaScript/TypeScript, HTML e CSS.
+Estou em constante evolução técnica, com destaque recente para Rust. Desde 2015, desenvolvo o Hexagonix, um sistema operacional autoral escrito inteiramente em Assembly x86 (veja abaixo meus projetos de código aberto, na seção de [Projetos e portfólio](#projetos-e-portflio)).
 
-Sou graduando em Análise e Desenvolvimento de Sistemas (ADS) pela Pontifícia Universidade Católica de Minas Gerais (PUC Minas). Tenho formação técnica em informática, onde me familiarizei com noções de lógica de programação, C, Java, Pascal, Delphi, VisualBasic, hardware, robótica, desenvolvimento web, bancos de dados relacionais e SQL, análise de sistemas e empreendedorismo. Atuei como instrutor de informática e democratização da tecnologia, junto ao programa do governo federal Telecentros.BR. Atuei também como freelancer no desenvolvimento de software (utilizando Java e C com integração a bancos de dados MySQL) e manutenção de computadores. Além disso, me formei bacharel em Ciências Biológicas pela Universidade Federal de Minas Gerais (UFMG), com ênfase em Biotecnologia e Saúde, com foco nas áreas de Bioinformática, Bioquímica e Biologia Molecular, e possuo mestrado acadêmico (stricto sensu) em Ciências da Saúde pelo Instituto René Rachou/Fiocruz Minas (Fundação Oswaldo Cruz). Leia mais sobre minha [formação acadêmica](#formao-acadmica) abaixo.
+Sou graduando em Análise e Desenvolvimento de Sistemas (PUC Minas), com formação técnica em informática e formação anterior em Ciências Biológicas (UFMG), com mestrado em Ciências da Saúde (Fiocruz). Leia mais sobre minha [formação acadêmica](#formao-acadmica) abaixo.
 
 Me interesso por preservação, documentação e emulação de software histórico, tendo uma grande coleção de sistemas operacionais coletados ao longo dos anos. Veja outros [interesses](#interesses) e [outras informações relevantes sobre mim](#outras-informaes-relevante-sobre-mim) abaixo.
 
 Veja [aqui](#portflio-e-contato) meu portólio e detalhes de contato. Além disso, você pode acessar meu [website](https://lunx.me).
 
-**#Java** **#SpringFramework** **#SpringBoot** **#Spring** **#Linux** **#MySQL** **#Docker** **#Python** **#Backend** **#Kafka** **#Kinesis** **#AWSSQS** **#AmazonS3** **#AWSLambda** **#JavaScript** **#TypeScript** **#Redis** **#Microsserviços** **#Serverless** **#OpenSource**
+**#Java** **#SpringFramework** **#SpringBoot** **#Spring** **#Rust** **#C#** **#Linux** **#MySQL** **#MongoDB** **#RabbitMQ** **#Docker** **#Python** **#Backend** **#Kafka** **#Kinesis** **#AWSSQS** **#AmazonS3** **#AWSLambda** **#JavaScript** **#TypeScript** **#Redis** **#Microsserviços** **#Serverless** **#OpenSource**
 
 Veja mais sobre meus projetos no [**GitHub**](https://github.com/felipenlunkes) ou no [**LinkedIn**](https://linkedin.com/in/felipenlunkes).
 
 <hr>
 
 ## Certificados e formação complementar
+
+#### **2025**
+
+* [Qualificação profissional como Desenvolvedor de Software](https://web.sistemas.pucminas.br/GAD/DOC/Verificador) - Pontifícia Universidade Católica de Mias Gerais (PUC Minas);
 
 #### **2024**
 
@@ -100,11 +105,15 @@ Veja mais sobre meus projetos no [**GitHub**](https://github.com/felipenlunkes) 
 
 #### **2023-atualmente** | Desenvolvedor backend na UbiSafe/Orsegups Participações S/A
 
-Desenvolvedor backend pleno atuando no desenvolvimento de projetos utilizando, entre outras tecnologias, Java, Spring Framework, Spring Boot, bancos de dados relacionais (como MySQL), Python, JavaScript/TypeScript (Node.js), Docker, Linux, Redis, AWS SQS, Amazon S3, mensageria com Apache Kafka e Amazon Kinesis, testes unitários e de integração, arquitetura de microsserviços e AWS Lambda (serverless).
+Desenvolvimento de soluções utilizando, entre outras tecnologias, Java, Spring Framework, Spring Boot, Rust, Python, APIs RESTful, bancos de dados relacionais (MySQL) e não relacionais (MongoDB), JavaScript/TypeScript, Docker, Linux, Redis/Valkey, RabbitMQ, AWS SQS, Amazon S3, mensageria com Apache Kafka e Kinesis, testes unitários e de integração, arquitetura de microsserviços e AWS Lambda (serverless).Desenvolvimento de soluções utilizando, entre outras tecnologias, Java, Spring Framework, Spring Boot, Rust, Python, APIs RESTful, bancos de dados relacionais (MySQL) e não relacionais (MongoDB), JavaScript/TypeScript, Docker, Linux, Redis/Valkey, RabbitMQ, AWS SQS, Amazon S3, mensageria com Apache Kafka e Kinesis, testes unitários e de integração, arquitetura de microsserviços e AWS Lambda (serverless).
 
-###### **07/2024-atualmente** | Desenvolvedor backend pleno
+###### **11/2025-atualmente** | Desenvolvedor backend pleno III
 
-* Alteração de senioridade (promoção de cargo) de desenvolvedor backend Jr. para desenvolvedor backend pleno.
+* Alteração de senioridade (promoção de cargo) de desenvolvedor backend pleno I para desenvolvedor backend pleno III.
+
+###### **07/2024-10/2025** | Desenvolvedor backend pleno I
+
+* Alteração de senioridade (promoção de cargo) de desenvolvedor backend Jr. para desenvolvedor backend pleno I.
 
 ###### **11/2023-06/2024** | Desenvolvedor backend Jr.
 
@@ -114,7 +123,7 @@ Desenvolvedor backend pleno atuando no desenvolvimento de projetos utilizando, e
 
 * Desenvolvedor backend trainee.
 
-**Habilidades: Java · Spring Framework · Spring Boot · MySQL · JavaScript · Typescript · Docker · Linux · Apache Kafka · Kinesis**
+**Habilidades: Java · Spring Framework · Spring Boot · Rust · C# · MySQL · MongoDB · RabbitMQ · JavaScript · Typescript · Docker · Reids · Linux · Apache Kafka · Kinesis**
 
 #### **2023** | Transição de carreira para desenvolvedor backend
 
@@ -254,52 +263,6 @@ Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 
 <hr>
 
-## Ferramentas e tecnologias
-
-### Linguagens de programação
-
-* Assembly x86 (usando NASM, FASM e GNU as), Java, Rust, Python, C, Shell script (GNU bash, tcsh), Delphi, VisualBasic .NET, Pascal, Make e Markdown;
-
-### Frameworks
-
-* Spring Framework, Spring Boot;
-
-### Ferramentas
-
-##### IDEs
-
-* Android Studio, Arduino IDE, Eclipse, IntelliJ IDEA, PyCharm, RustRover, Visual Studio e Visual Studio Code;
-
-##### Terminal
-
-* GNU bash, tcsh e Windows Terminal (incluindo PowerShell e Prompt de Comando);
-
-##### Banco de dados
-
-* MySQL;
-
-##### Versionalização e controle de código
-
-* Git, Bitbucket e GitHub;
-
-##### Utilitários
-
-* DBeaver, MySQL Workbench e Postman;
-
-##### Workflow
-
-* Jenkins e Jira;
-
-##### Virtualização e emulação
-
-* Docker, QEMU, VirtualBox e Microsoft VirtualPC;
-
-##### Design
-
-* Adobe Creative Cloud, Canva, GNU GIMP e Inkscape.
-
-<hr>
-
 ## Habilidades
 
 * Português fluente (nativo) e inglês avançado (C1);
@@ -339,10 +302,12 @@ Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 * Interessado em design e implementação de sistemas operacionais;
 * Interessado em história da computação, emulação e preservação de software histórico;
 * Colecionador de sistemas operacionais: do Version 1 UNIX, 86-DOS e Windows 1.0 até o FreeBSD 14 e Windows 11. Fale comigo sobre algum sistema operacional e provavelmente terei um disco, disquete ou imagem ISO;
-* Atualmente jogando (2024):
-  * The Legend of Zelda: Echoes of Wisdom (Nintendo Switch);
-  * The Legend of Zelda: Tears of the Kingdom (Nintendo Switch);
-  * Minecraft (PC, Android e Nintendo Switch);
+* Atualmente jogando (2025):
+  * Elden Ring (PC);
+  * Metroid Prime 4: Beyond (Nintendo Switch 2);
+  * The Legend of Zelda: Tears of the Kingdom (Nintendo Switch 2);
+  * Donkey Kong Bananza (Nintendo Switch 2);
+  * Minecraft (PC, Android e Nintendo Switch 2);
   * Ghostwire: Tokyo (Xbox).
 
 <hr>
