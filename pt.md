@@ -55,7 +55,7 @@ Veja mais sobre meus projetos no [**GitHub**](https://github.com/felipenlunkes) 
 
 #### **2025**
 
-* [Qualificação profissional como Desenvolvedor de Software](https://web.sistemas.pucminas.br/GAD/DOC/Verificador) - Pontifícia Universidade Católica de Mias Gerais (PUC Minas);
+* [Qualificação profissional como Desenvolvedor de Software](https://web.sistemas.pucminas.br/GAD/DOC/Verificador) - Pontifícia Universidade Católica de Minas Gerais (PUC Minas);
 
 #### **2024**
 
