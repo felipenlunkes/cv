@@ -297,33 +297,6 @@ Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 
 <hr>
 
-## Interesses
-
-* Interessado em design e implementação de sistemas operacionais;
-* Interessado em história da computação, emulação e preservação de software histórico;
-* Colecionador de sistemas operacionais: do Version 1 UNIX, 86-DOS e Windows 1.0 até o FreeBSD 14 e Windows 11. Fale comigo sobre algum sistema operacional e provavelmente terei um disco, disquete ou imagem ISO;
-* Atualmente jogando (2025):
-  * Elden Ring (PC);
-  * Metroid Prime 4: Beyond (Nintendo Switch 2);
-  * The Legend of Zelda: Tears of the Kingdom (Nintendo Switch 2);
-  * Donkey Kong Bananza (Nintendo Switch 2);
-  * Minecraft (PC, Android e Nintendo Switch 2);
-  * Ghostwire: Tokyo (Xbox).
-
-<hr>
-
-## Outras informações relevante sobre mim
-
-* Domínio na utilização de diversos sistemas operacionais (antigos e modernos):
-  * **DOS (Disk Operating System), OS/2 e Windows**: FreeDOS, MS-DOS, OS/2, Windows DOS (Windows 1x-3x, Windows 95, 98 e ME) e Windows NT (NT 3.x-11);
-  * **Linux**: Arch Linux, Debian, Fedora, Gentoo, Kali Linux, Pop!_OS, OpenSUSE, Ubuntu e ChromeOS;
-  * **UNIX e BSD**: FreeBSD, macOS (incluindo versçoes PowerPC), OpenIndiana (OpenSolaris), Plan 9 from Bell Labs, UnixWare e UNIX System V;
-  * **Unix-like**: Minix;
-  * **Outros sistemas operacionais**: BeOS, Haiku, Mac OS Classic e ReactOS;
-* Familiarizado com Arduino;
-
-<hr>
-
 ## Portfólio e contato
 
 ### Portfólio
