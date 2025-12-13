@@ -34,7 +34,7 @@ Belo Horizonte, Brasil
 
 **Desenvolvedor backend pleno** na UbiSafe/Orsegups Participações S/A.
 
-Sou um desenvolvedor backend pleno com experiência no desenvolvimento de soluções utilizando ***Java** (Spring Framework e Spring Boot), **Rust**, **C#** (ASP.NET) e **Python**. Atuo na construção de aplicações escaláveis, com foco em arquitetura de microsserviços orientada a eventos, utilizando APIs RESTful, bancos de dados relacionais (MySQL) e não relacionais (MongoDB), Docker, Redis/Valkey, RabbitMQ e mensageria com Apache Kafka e Kinesis, além de serviços AWS (Lambda, S3 e SQS). Também possuo extensa prática em testes unitários e de integração.
+Sou um desenvolvedor backend pleno com experiência no desenvolvimento de soluções utilizando Java (Spring Framework e Spring Boot), Rust, C# (ASP.NET) e Python. Atuo na construção de aplicações escaláveis, com foco em arquitetura de microsserviços orientada a eventos, utilizando APIs RESTful, bancos de dados relacionais (MySQL) e não relacionais (MongoDB), Docker, Redis/Valkey, RabbitMQ e mensageria com Apache Kafka e Kinesis, além de serviços AWS (Lambda, S3 e SQS). Também possuo extensa prática em testes unitários e de integração.
 
 Possuo sólida experiência em diferentes linguagens e ecossistemas, incluindo Java, C#, Python, C, Assembly x86 e shell scripts, além de vivência prática com Rust, JavaScript/TypeScript, HTML e CSS.
 Estou em constante evolução técnica, com destaque recente para Rust. Desde 2015, desenvolvo o Hexagonix, um sistema operacional autoral escrito inteiramente em Assembly x86 (veja abaixo meus projetos de código aberto, na seção de [Projetos e portfólio](#projetos-e-portflio)).
