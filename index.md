@@ -34,23 +34,27 @@ Belo Horizonte, Brazil
 
 **Backend developer** at *UbiSafe/Orsegups Participações S/A*.
 
-Backend software developer working on project development using, among other technologies, **Java**, **Spring Framework**, **Spring Boot**, **RESTful APIs**, **relational databases** (such as MySQL), **Rust**, **Python**, **JavaScript/TypeScript**, **Docker**, **Linux**, **Redis**, **AWS SQS**, **Amazon S3**, **messaging with Apache Kafka and Kinesis**, **unit and integration tests**, **microservices architecture** and **AWS Lambda** (serverless computing).
+I’m a backend developer with experience in building solutions using Java (Spring Framework and Spring Boot), Rust, C# (ASP.NET ad Entity Framework), and Python. I work on developing scalable applications, with a focus on event-driven microservices architecture, using RESTful APIs, relational databases (MySQL), NoSQL databases (MongoDB), Docker, Redis/Valkey, RabbitMQ, messaging systems like Apache Kafka and Kinesis, and AWS services (Lambda, S3, and SQS). I also have extensive experience with unit and integration testing.
 
-I am proficient in using several tools, such as code control with git, various compilers and assemblers, such as GNU Compiler Collection, flat assembler (fasm), NASM and GNU as, as well as virtualization and emulation tools, such as Docker, VirtualBox and QEMU. I have experience in implementing projects using several languages, the main ones being: Java, Python, x86 Assembly, JavaScript/TypeScript, HTML, CSS, C and shell scripts (see my open source projects below, in the [Projects and portfolio](#projects-and-portfolio) section). Experience in managing and documenting open source projects and in the use and administration of Unix-like systems. I have been continuously improving myself in **Java**, **Rust**, **Python**, **C**, **x86 Assembly**, **JavaScript/TypeScript**, **HTML** and **CSS** and since 2015 I have been developing an original operating system project (Hexagonix, which you can find below, in the [Projects and portfolio](#projects-and-portfolio) section) completely written in x86 Assembly, as well as others low-level projects.
+I have solid experience in various programming languages and ecosystems, including Java, C#, Python, C, x86 Assembly, and shell scripts, as well as hands-on experience with Rust, JavaScript/TypeScript, HTML, and CSS. I’m constantly improving my technical skills, with a recent focus on Rust. Since 2015 I have been developing an original operating system project (Hexagonix, which you can find below, in the [Projects and portfolio](#projects-and-portfolio) section) completely written in x86 Assembly, as well as others low-level projects.
 
-I am graduating in Systems Analysis and Development (*Análise e Desenvolvimento de Sistemas - ADS*) from the *Pontifícia Universidade Católica de Minas Gerais* (PUC Minas, Brazil). I have a technical course in IT, where I became familiar with the notions of programming logic, C, Java, Pascal, Delphi, VisualBasic, hardware, robotics, web development, relational databases and SQL, systems analysis and entrepreneurship. I worked as a IT and technology democratization instructor, alongside the federal government program Telecentros.BR. I worked as a freelancer in software development (using Java and C with integration to MySQL databases) and computer maintenance. Furthermore, I graduated with a bachelor's degree in Biological Sciences from the *Universidade Federal de Minas Gerais* (UFMG, Brazil), with an emphasis on Biotechnology and Health, with a focus on the areas of Bioinformatics, Biochemistry and Molecular Biology, and I have an academic master's degree (stricto sensu) in Health Sciences by the *Instituto René Rachou/Fiocruz Minas* (Fundação Oswaldo Cruz, Brazil). See my [academic background](#academic-background) below.
+I am currently pursuing a degree in Systems Analysis and Development (Análise e Desenvolvimento de Sistemas - PUC Minas), with a technical background in IT and previous academic training in Biological Sciences (Ciências Biológicas - UFMG), holding a master's degree in Health Sciences (Ciências da Saúde - Fiocruz).
 
 I am interested in preservation, documentation and emulation of historical software, having a large collection of operating systems collected over the years. See other [interests](#interests) and [other relevant information about me](#other-relevant-information-about-me) below.
 
 See [here](#portfolio-and-contact) my portfolio and contact details. Also, you can access my [website](https://lunx.me).
 
-**#Java** **#SpringFramework** **#SpringBoot** **#Spring** **#Linux** **#MySQL** **#Docker** **#Python** **#Backend** **#Kafka** **#Kinesis** **#AWSSQS** **#AmazonS3** **#AWSLambda** **#JavaScript** **#TypeScript** **#Redis** **#Microservices** **#Serverless** **#OpenSource**
+**#Java** **#SpringFramework** **#SpringBoot** **#Spring** **#Rust** **#C#** **#Linux** **#MySQL** **#MongoDB** **#RabbitMQ** **#Docker** **#Python** **#Backend** **#Kafka** **#Kinesis** **#AWSSQS** **#AmazonS3** **#AWSLambda** **#JavaScript** **#TypeScript** **#Redis** **#Microsserviços** **#Serverless** **#OpenSource**
 
 See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**LinkedIn**](https://linkedin.com/in/felipenlunkes).
 
 <hr>
 
 ## Certificates
+
+#### **2025**
+
+* [Qualificação profissional como Desenvolvedor de Software](https://web.sistemas.pucminas.br/GAD/DOC/Verificador) (Professional qualification as a Software Developer) - Pontifícia Universidade Católica de Minas Gerais (PUC Minas, Brazil);
 
 #### **2024**
 
@@ -114,7 +118,7 @@ Backend developer working on project development using, among other technologies
 
 * Trainee backend developer.
 
-**Skills: Java · Spring Framework · Spring Boot · MySQL · JavaScript · Typescript · Docker · Linux · Apache Kafka · Kinesis**
+**Skills: Java · Spring Framework · Spring Boot · Rust · C# · MySQL · MongoDB · RabbitMQ · JavaScript · Typescript · Docker · Redis · Linux · Apache Kafka · Kinesis**
 
 #### **2023** | Career transition to backend developer
 

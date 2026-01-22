@@ -123,7 +123,7 @@ Desenvolvimento de soluções utilizando, entre outras tecnologias, Java, Spring
 
 * Desenvolvedor backend trainee.
 
-**Habilidades: Java · Spring Framework · Spring Boot · Rust · C# · MySQL · MongoDB · RabbitMQ · JavaScript · Typescript · Docker · Reids · Linux · Apache Kafka · Kinesis**
+**Habilidades: Java · Spring Framework · Spring Boot · Rust · C# · MySQL · MongoDB · RabbitMQ · JavaScript · Typescript · Docker · Redis · Linux · Apache Kafka · Kinesis**
 
 #### **2023** | Transição de carreira para desenvolvedor backend
 
