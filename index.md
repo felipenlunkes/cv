@@ -1,5 +1,5 @@
 ---
-title: "My resume · CV"
+title: "Meu currículo · CV"
 output: 
   html_document:
     toc: FALSE
@@ -14,369 +14,303 @@ geometry: "left=2cm,right=2cm,top=1cm,bottom=2cm"
 
 # Felipe Miguel Nery Lunkes
 
-[**My website**](https://lunx.me)
+[**Meu website**](https://lunx.me)
 
 [**felipenldev@gmail.com**](mailto:felipenldev@gmail.com)
 
 Tel: +55 31 98100-7706
 
-Belo Horizonte, Brazil
+Belo Horizonte, Brasil
 
-[Versão em Português](https://cv.lunx.me/pt)
+[English version](https://cv.lunx.me)
 
 </div>
 
 <hr>
 
-## Personal profile and professional goals
+## Perfil pessoal e objetivos profissionais
 
 <div align="justify">
 
-**Backend developer** at *UbiSafe/Orsegups Participações S/A*.
+**Desenvolvedor backend pleno** na UbiSafe/Orsegups Participações S/A.
 
-I’m a backend developer with experience in building solutions using Java (Spring Framework and Spring Boot), Rust, C# (ASP.NET ad Entity Framework), and Python. I work on developing scalable applications, with a focus on event-driven microservices architecture, using RESTful APIs, relational databases (MySQL), NoSQL databases (MongoDB), Docker, Redis/Valkey, RabbitMQ, messaging systems like Apache Kafka and Kinesis, and AWS services (Lambda, S3, and SQS). I also have extensive experience with unit and integration testing.
+Sou um desenvolvedor backend pleno com experiência no desenvolvimento de soluções utilizando Java (Spring Framework e Spring Boot), Rust, C# (ASP.NET) e Python. Atuo na construção de aplicações escaláveis, com foco em arquitetura de microsserviços orientada a eventos, utilizando APIs RESTful, bancos de dados relacionais (MySQL) e não relacionais (MongoDB), Docker, Redis/Valkey, RabbitMQ e mensageria com Apache Kafka e Kinesis, além de serviços AWS (Lambda, S3 e SQS). Também possuo extensa prática em testes unitários e de integração.
 
-I have solid experience in various programming languages and ecosystems, including Java, C#, Python, C, x86 Assembly, and shell scripts, as well as hands-on experience with Rust, JavaScript/TypeScript, HTML, and CSS. I’m constantly improving my technical skills, with a recent focus on Rust. Since 2015 I have been developing an original operating system project (Hexagonix, which you can find below, in the [Projects and portfolio](#projects-and-portfolio) section) completely written in x86 Assembly, as well as others low-level projects.
+Possuo sólida experiência em diferentes linguagens e ecossistemas, incluindo Java, C#, Python, C, Assembly x86 e shell scripts, além de vivência prática com Rust, JavaScript/TypeScript, HTML e CSS.
+Estou em constante evolução técnica, com destaque recente para Rust. Desde 2015, desenvolvo o Hexagonix, um sistema operacional autoral escrito inteiramente em Assembly x86 (veja abaixo meus projetos de código aberto, na seção de [Projetos e portfólio](#projetos-e-portflio)).
 
-I am currently pursuing a degree in Systems Analysis and Development (Análise e Desenvolvimento de Sistemas - PUC Minas), with a technical background in IT and previous academic training in Biological Sciences (Ciências Biológicas - UFMG), holding a master's degree in Health Sciences (Ciências da Saúde - Fiocruz).
+Sou graduando em Análise e Desenvolvimento de Sistemas (PUC Minas), com formação técnica em informática e formação anterior em Ciências Biológicas (UFMG), com mestrado em Ciências da Saúde (Fiocruz). Leia mais sobre minha [formação acadêmica](#formao-acadmica) abaixo.
 
-I am interested in preservation, documentation and emulation of historical software, having a large collection of operating systems collected over the years. See other [interests](#interests) and [other relevant information about me](#other-relevant-information-about-me) below.
+Me interesso por preservação, documentação e emulação de software histórico, tendo uma grande coleção de sistemas operacionais coletados ao longo dos anos. Veja outros [interesses](#interesses) e [outras informações relevantes sobre mim](#outras-informaes-relevante-sobre-mim) abaixo.
 
-See [here](#portfolio-and-contact) my portfolio and contact details. Also, you can access my [website](https://lunx.me).
+Veja [aqui](#portflio-e-contato) meu portólio e detalhes de contato. Além disso, você pode acessar meu [website](https://lunx.me).
 
 **#Java** **#SpringFramework** **#SpringBoot** **#Spring** **#Rust** **#C#** **#Linux** **#MySQL** **#MongoDB** **#RabbitMQ** **#Docker** **#Python** **#Backend** **#Kafka** **#Kinesis** **#AWSSQS** **#AmazonS3** **#AWSLambda** **#JavaScript** **#TypeScript** **#Redis** **#Microsserviços** **#Serverless** **#OpenSource**
 
-See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**LinkedIn**](https://linkedin.com/in/felipenlunkes).
+Veja mais sobre meus projetos no [**GitHub**](https://github.com/felipenlunkes) ou no [**LinkedIn**](https://linkedin.com/in/felipenlunkes).
 
 <hr>
 
-## Certificates
+## Certificados e formação complementar
 
 #### **2025**
 
-* [Qualificação profissional como Desenvolvedor de Software](https://web.sistemas.pucminas.br/GAD/DOC/Verificador) (Professional qualification as a Software Developer) - Pontifícia Universidade Católica de Minas Gerais (PUC Minas, Brazil);
+* [Qualificação profissional como Desenvolvedor de Software](https://web.sistemas.pucminas.br/GAD/DOC/Verificador) - Pontifícia Universidade Católica de Minas Gerais (PUC Minas);
 
 #### **2024**
 
-* [Microservices: exploring the concepts](https://cursos.alura.com.br/certificate/4d1a31b7-7c72-400b-912d-2cebe7c40d30?lang=en) - Alura (Brazil);
-* [Microservices: Design Patterns](https://cursos.alura.com.br/certificate/86ab9423-026c-4aa3-a66d-ddcdeb6fefe8?lang=en) - Alura (Brazil);
-* [Rust: the performant and secure programming language](https://cursos.alura.com.br/certificate/d1212eac-8893-4597-b329-925064eecbd6?lang=en) - Alura (Brazil);
-* Segurança da informação (60 min) - Orsegups Participações S/A (Brazil);
-* Como se proteger de ataques cibernéticos (90 min) - Orsegups Participações S/A (Brazil);
-* [Kafka and Spring: integrating applications and managing data flows](https://cursos.alura.com.br/certificate/ad4d64f8-2b6d-49df-929f-cfd8743574dc?lang=en) - Alura (Brazil);
-* [Persistence with JPA: Hibernate](https://cursos.alura.com.br/certificate/6464d898-354d-47e7-b103-be018b8a4bdb?lang=en) - Alura (Brazil);
-* [Spring Boot 3: develop a Rest API in Java](https://cursos.alura.com.br/certificate/cfc12f24-1e19-4b62-a5b3-73de9cdb2c63?lang=en) - Alura (Brazil);
+* [Microsserviços: explorando os conceitos](https://cursos.alura.com.br/certificate/4d1a31b7-7c72-400b-912d-2cebe7c40d30?lang) - Alura;
+* [Microsserviços: padrões de projeto](https://cursos.alura.com.br/certificate/86ab9423-026c-4aa3-a66d-ddcdeb6fefe8?lang) - Alura;
+* [Rust: a linguagem de programação performática e segura](https://cursos.alura.com.br/certificate/d1212eac-8893-4597-b329-925064eecbd6?lang) - Alura;
+* Segurança da informação (60 min) - Orsegups Participações S/A;
+* Como se proteger de ataques cibernéticos (90 min) - Orsegups Participações S/A;
+* [Kafka e Spring: Integrando aplicações e gerenciando fluxos de dados](https://cursos.alura.com.br/certificate/ad4d64f8-2b6d-49df-929f-cfd8743574dc) - Alura;
+* [Persistência com JPA: Hibernate](https://cursos.alura.com.br/certificate/6464d898-354d-47e7-b103-be018b8a4bdb?lang) - Alura;
+* [Spring Boot 3: Desenvolva uma API REST em Java](https://cursos.alura.com.br/certificate/cfc12f24-1e19-4b62-a5b3-73de9cdb2c63) - Alura;
 
 #### **2023**
 
-* [SQL with MySQL: Manipulate and Query Data](https://cursos.alura.com.br/certificate/61e70f43-447f-40f1-b245-8518d029643a?lang=en) - Alura (Brazil);
-* [Design Patterns in Java I: Good Programming Practices](https://cursos.alura.com.br/certificate/e20bf3ff-eca4-4976-b9e2-bdb12ce087a5?lang=en) - Alura (Brazil);
-* [Design Patterns in Java II: advancing good programming practices](https://cursos.alura.com.br/certificate/2b01d253-81da-4b10-9ec5-970fd5349a0e?lang=en) - Alura (Brazil);
-* [Java JRE and JDK: compile and run your application](https://cursos.alura.com.br/certificate/20438c7f-5195-4644-9c77-161488d9395e?lang=en) - Alura (Brazil);
-* [Java: applying Object Orientation](https://cursos.alura.com.br/certificate/6a441f80-8f86-42fd-ae3d-4777ba146fe6?lang=en) - Alura (Brazil);
-* [Java: consuming API, writing files and handling errors](https://cursos.alura.com.br/certificate/a4ea3fd8-64fa-48bc-b841-d259d42348eb?lang=en) - Alura (Brazil);
-* [Java: creating your first application](https://cursos.alura.com.br/certificate/577efc46-1287-459c-99df-264464b8661e?lang=en) - Alura (Brazil);
-* [Java: working with lists and collections of data](https://cursos.alura.com.br/certificate/60d9383b-ff03-431e-839c-04331399bcca?lang=en) - Alura (Brazil);
-* [SOLID with Java: principles of object-oriented programming](https://cursos.alura.com.br/certificate/f7519fe2-bf16-4cb5-a46d-b772031b3b86?lang=en) - Alura (Brazil);
-* [Swagger: Documenting Your APIs](https://cursos.alura.com.br/certificate/054e0bb2-294c-45ab-b45d-920b5e431763?lang=en) - Alura (Brazil);
-* [TDD and Java: Automated Testing with JUnit](https://cursos.alura.com.br/certificate/1a0a6e8f-072b-48d5-9751-8176ec4b5aa7?lang=en) - Alura (Brazil);
-* Attending Bootcamp: Python developer - Faculdade XP Educação (Brazil);
+* [SQL com MySQL: manipule dados](https://cursos.alura.com.br/certificate/61e70f43-447f-40f1-b245-8518d029643a) - Alura;
+* [Design Patterns em Java I: boas práticas de programação](https://cursos.alura.com.br/certificate/e20bf3ff-eca4-4976-b9e2-bdb12ce087a5) - Alura;
+* [Design Patterns em Java II: avançando nas boas práticas de programação](https://cursos.alura.com.br/certificate/2b01d253-81da-4b10-9ec5-970fd5349a0e) - Alura;
+* [Java JRE e JDK: compile e execute o seu programa](https://cursos.alura.com.br/certificate/20438c7f-5195-4644-9c77-161488d9395e) - Alura;
+* [Java: aplicando a Orientação a Objetos](https://cursos.alura.com.br/certificate/6a441f80-8f86-42fd-ae3d-4777ba146fe6) - Alura;
+* [Java: consumindo API, gravando arquivos e lidando com erros](https://cursos.alura.com.br/certificate/a4ea3fd8-64fa-48bc-b841-d259d42348eb) - Alura;
+* [Java: criando a sua primeira aplicação](https://cursos.alura.com.br/certificate/577efc46-1287-459c-99df-264464b8661e) - Alura;
+* [Java: trabalhando com listas e coleções de dados](https://cursos.alura.com.br/certificate/60d9383b-ff03-431e-839c-04331399bcca) - Alura;
+* [SOLID com Java: princípios da programação orientada a objetos](https://cursos.alura.com.br/certificate/f7519fe2-bf16-4cb5-a46d-b772031b3b86) - Alura;
+* [Swagger: documentando suas APIs](https://cursos.alura.com.br/certificate/054e0bb2-294c-45ab-b45d-920b5e431763) - Alura;
+* [TDD e Java: testes automatizados com JUnit](https://cursos.alura.com.br/certificate/1a0a6e8f-072b-48d5-9751-8176ec4b5aa7) - Alura;
+* Cursando - Bootcamp: desenvolvedor Python - Faculdade XP Educação;
 
 #### **2022**
 
 * Java (143 min) - Let's Code (Santander Coders);
-* Minicamp Cloud & Cybersecurity (32 hours) - Faculdade XP Educação (Brazil);
+* Minicamp Cloud & Cybersecurity (32 horas) - Faculdade XP Educação;
 
 #### **2017**
 
-* Introduction to Programming (3 hours) - Universidade Federal de Minas Gerais (Brazil).
+* Introdução à Programação (3 horas) - Universidade Federal de Minas Gerais;
 
 #### **2010**
 
-* Maintenance of notebooks - CNI (Brazil);
-* Office Package - CNI (Brazil);
-* Windows operating system - CNI (Brazil);
-* Web design - CNI (Brazil).
+* Manutenção de notebooks - CNI;
+* Pacote Office - CNI;
+* Sistema Operacional Windows - CNI;
+* Web design - CNI.
 
 <hr>
 
-## Professional experience
+## Experiência profissional
 
-#### **2023-currently** | Backend developer at UbiSafe/Orsegups Participações S/A
+#### **2023-atualmente** | Desenvolvedor backend na UbiSafe/Orsegups Participações S/A
 
-Backend developer working on project development using, among other technologies, Java, Spring Framework, Spring Boot, relational databases (such as MySQL), Python, JavaScript/TypeScript (Node.js), Docker, Linux, Redis, AWS SQS, Amazon S3, messaging with Apache Kafka and Amazon Kinesis, unit and integration tests, microservices architecture and AWS Lambda (serverless computing).
+Desenvolvimento de soluções utilizando, entre outras tecnologias, Java, Spring Framework, Spring Boot, Rust, Python, APIs RESTful, bancos de dados relacionais (MySQL) e não relacionais (MongoDB), JavaScript/TypeScript, Docker, Linux, Redis/Valkey, RabbitMQ, AWS SQS, Amazon S3, mensageria com Apache Kafka e Kinesis, testes unitários e de integração, arquitetura de microsserviços e AWS Lambda (serverless).Desenvolvimento de soluções utilizando, entre outras tecnologias, Java, Spring Framework, Spring Boot, Rust, Python, APIs RESTful, bancos de dados relacionais (MySQL) e não relacionais (MongoDB), JavaScript/TypeScript, Docker, Linux, Redis/Valkey, RabbitMQ, AWS SQS, Amazon S3, mensageria com Apache Kafka e Kinesis, testes unitários e de integração, arquitetura de microsserviços e AWS Lambda (serverless).
 
-###### **2024/07-currently** | Backend developer
+###### **11/2025-atualmente** | Desenvolvedor backend pleno III
 
-* Change of seniority from Jr. developer to backend developer.
+* Alteração de senioridade (promoção de cargo) de desenvolvedor backend pleno I para desenvolvedor backend pleno III.
 
-###### **2023/11-2024/06** | Junior backend developer
+###### **07/2024-10/2025** | Desenvolvedor backend pleno I
 
-* Change of seniority from trainee backend developer to Junior backend developer.
+* Alteração de senioridade (promoção de cargo) de desenvolvedor backend Jr. para desenvolvedor backend pleno I.
 
-###### **2023/06-2023/10** | Trainee backend developer
+###### **11/2023-06/2024** | Desenvolvedor backend Jr.
 
-* Trainee backend developer.
+* Alteração de senioridade (promoção de cargo) de desenvolvedor backend trainee para desenvolvedor backend Jr.
 
-**Skills: Java · Spring Framework · Spring Boot · Rust · C# · MySQL · MongoDB · RabbitMQ · JavaScript · Typescript · Docker · Redis · Linux · Apache Kafka · Kinesis**
+###### **06/2023-10/2023** | Desenvolvedor backend trainee
 
-#### **2023** | Career transition to backend developer
+* Desenvolvedor backend trainee.
 
-* Career transition (return to software development) to backend developer (Java, C and Python).
+**Habilidades: Java · Spring Framework · Spring Boot · Rust · C# · MySQL · MongoDB · RabbitMQ · JavaScript · Typescript · Docker · Redis · Linux · Apache Kafka · Kinesis**
 
-#### **2021-2023** | Master's student - Instituto René Rachou/Fundação Oswaldo Cruz - Belo Horizonte, Brazil
+#### **2023** | Transição de carreira para desenvolvedor backend
 
-* Master's degree in Health Sciences from *IRR/Fundação Oswaldo Cruz*;
-* Project that aims to functionally characterize *Schistosoma mansoni* proteins;
-* Master's thesis available [**here**](https://www.arca.fiocruz.br/handle/icict/60305).
+* Transição de carreira (retorno à área de desenvolvimento) para desenvolvedor backend (Java, C e Python).
 
-#### **2016-2020** | Scientific Initiation Student - René Rachou Institute/Fundação Oswaldo Cruz - Belo Horizonte, Brazil
+#### **2021-2023** | Estudante de mestrado acadêmico - Instituto René Rachou/Fundação Oswaldo Cruz - Belo Horizonte
 
-* Student of Scientific Initiation (IC) during graduation.
+* Mestre acadêmico (*stricto sensu*) em Ciências da Saúde pela IRR/Fundação Oswaldo Cruz;
+* Projeto que visa caracterizar funcionalmente proteínas de *Schistosoma mansoni*;
+* Dissertação de mestrado disponível [**aqui**](https://www.arca.fiocruz.br/handle/icict/60305).
 
-#### **2015-2016** | Teaching experience - CNPq and Ordem e Progresso State School - Belo Horizonte, Brazil
+#### **2016-2020** | Estudante de Iniciação Científica - Instituto René Rachou/Fundação Oswaldo Cruz - Belo Horizonte
 
-* Scholarship holder of the Institutional Teaching Initiation Scholarship Program (PIBID), coordinated by the *Pontifícia Universidade Católica de Minas Gerais* (PUC Minas), working in high school at the *Ordem e Progresso* State School (Belo Horizonte). The activities carried out include:
-  - Preparation of theoretical and practical classes for students of all years of high school;
-  - Preparation and correction of tests and assessment activities;
+* Estudante de Iniciação Científica (IC) durante a graduação.
 
-#### **2013-2015** | Freelance software developer
+#### **2015-2016** | Estudante de Iniciação à Docência - CNPq e Escola Estadual Ordem e Progresso - Belo Horizonte
 
-* Freelance software developer, using Java, C and VisualBasic.
+* Bolsista do Programa Institucional de Bolsas de Iniciação à Docência (PIBID), coordenado pela Pontifícia Universidade Católica de Minas Gerais (PUC Minas), atuando no ensino médio na Escola Estadual Ordem e Progresso (Belo Horizonte). As atividades realizadas incluem:
+  - Preparação de aulas teóricas e práticas para alunos de todos os anos do ensino médio;
+  - Elaboração e correção de testes e atividades avaliativas;
 
-**Skills: Visual Basic · C · Java**
+#### **2013-2015** | Desenvolvedor de software Freelancer
 
-#### **2012-2015** | Freelance computer maintenance technician
+* Desenvolvedor de software freelancer, utilizando Java, C e VisualBasic.
 
-* Technician responsible for the maintenance of desktop computers and laptops, acting as a freelancer.
+**Habilidades: Visual Basic · C · Java**
 
-**Skills: Microsoft Windows · Hardware · Linux**
+#### **2012-2015** | Técnico de informática Freelancer
 
-#### **2013-2014** | Computer Instructor - Centro de Apoio Comunitário Serrano - Belo Horizonte, Brazil
+* Técnico responsável pela manutenção de computadores desktop e notebooks, atuando como freelancer.
 
-* IT instructor for children and seniors during and after completing the technical course;
-* Fellow associated with the federal program *TELECENTROS.BR*, which aims to democratize access to technology.
+**Habilidades: Microsoft Windows · Hardware · Linux**
 
-**Skills: Microsoft Excel · MySQL · Teaching · Linux · Java · Programming languages**
+#### **2013-2014** | Instrutor de informática - Centro de Apoio Comunitário Serrano - Belo Horizonte
+
+* Instrutor de informática para crianças e idosos durante e após a conclusão do curso técnico;
+* Bolsista associado ao programa federal TELECENTROS.BR, que visa democratizar o acesso à tecnologia.
+
+**Habilidades: Microsoft Excel · MySQL · Teaching · Linux · Java · Linguages de programação**
 
 <hr>
 
-## Projects and portfolio
+## Projetos e portfólio
 
-Click on the name of each project to access the respective repository on GitHub.
+Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 
-#### Sorted by programming languages
+#### Classificado por linguagens de programação
 
 * Assembly:
 
-  - [**Hexagonix OS**](https://github.com/hexagonix) | **2015-currently**
+  - [**Sistema Operacional Hexagonix (Hexagonix OS)**](https://github.com/hexagonix) | **2015-atualmente**
 
-    - Hexagonix is ​​a simple and lightweight operating system, Unix-like and completely developed in x86 Assembly. Hexagonix is ​​composed by a simple monolithic kernel, called Hexagon, shell, Unix-like utilities developed in Assembly and libraries for the development of other utilities. In addition, it is self-hosting, with a port of the fasm assembler (flat assembler), the same used for its construction. It operates in 32-bit protected mode, with FAT16 support, Pentium III or higher processors and 32 MB of RAM or more. It can be installed on a physical machine, running natively. The system aims to be simple and fast, based on some concepts of the Unix philosophy, in addition to being licensed under the BSD-3-Clause license, a permissive free software license. At the moment, all the project documentation is in Portuguese and English, while the code and code comments are in English only. Hexagonix has extensive documentation covering many system, language, and hardware features. Documentation can be found [here](github.com/hexagonix/Doc). The project also aims to be an educational tool, with well-documented code.
+    - Hexagonix é um sistema operacional simples e leve, Unix-like e totalmente desenvolvido em Assembly x86. O Hexagonix é composto por um kernel monolítico simples, denominado Hexagon, shell, utilitários Unix-like desenvolvidos em Assembly x86 e bibliotecas para desenvolvimento de outros utilitários. Além disso, é auto-hospedado, contando com um port do montador fasm (flat assembler), o mesmo utilizado para sua construção. Opera em modo protegido de 32 bits, com suporte a sistema de arquivos FAT16, processadores Pentium III ou mais recentes e 32 MB de RAM ou mais. Pode ser instalado em uma máquina física, rodando nativamente. O sistema pretende ser simples e rápido, baseado em alguns conceitos da filosofia Unix, além de ser licenciado sob a licença BSD-3-Clause, uma licença permissiva de software livre. No momento, toda a documentação do projeto está em português e inglês, enquanto os comentários e o código estão em inglês. O Hexagonix possui uma extensa documentação que cobre muitos recursos de sistema, linguagem e hardware. A documentação pode ser encontrada [aqui](github.com/hexagonix/Doc). O projeto também pretende ser uma ferramenta educacional, com código bem documentado.
 
   - [**Bin S.O**](https://github.com/felipenlunkes/Bin-S.O) | **2011-2013**
 
-    - My first operating system project developed entirely in x86 Assembly. The system implements a simple file system, called BinFS, based on a linked list of files. The file system is created using a tool developed in C, which creates a disk image. Bin S.O runs in 16-bit real mode and supports the development of utilities using Assembly libraries. The system can be installed on devices to run natively, through an installer running on a Linux LiveCD (Netuno OS).
+    - Meu primeiro projeto de sistema operacional desenvolvido inteiramente em Assembly x86 (NASM). O sistema implementa um sistema de arquivos simples, chamado BinFS, baseado em uma lista vinculada de arquivos. O sistema de arquivos é criado utilizando uma ferramenta desenvolvida em C, que cria uma imagem de disco. O Bin S.O roda em modo real de 16 bits e suporta o desenvolvimento de utilitários usando bibliotecas Assembly x86 disponibilizadas. O sistema pode ser instalado em dispositivos para rodar nativamente, através de um instalador rodando em um LiveCD Linux (Netuno OS).
 
   - [**Asm-MIPS**](https://github.com/felipenlunkes/MIPS-asm) | **2018**
 
-    - MIPS Assembly code written by me for the Discipline of Computer Organization I (DCC006) at the Computer Science Department of the Federal University of Minas Gerais (UFMG), in 2018. The code can be executed in the MARS MIPS Simulator.
+    - Código Assembly MIPS escrito por mim para a disciplina de Organização de Computadores I (DCC006) do Departamento de Ciência da Computação da Universidade Federal de Minas Gerais (UFMG), em 2018. O código pode ser executado no Simulador MARS MIPS.
 
 * C:
 
-  - [**Lunix Operating System (Lunix OS)**](https://github.com/felipenlunkes/lunix) | **2022-currently**
+  - [**Sistema Operacional Lunix (Lunix OS)**](https://github.com/felipenlunkes/lunix) | **2022-atualmente**
 
-    - Lunix OS is an operating system in early development and is developed in C language. Lunix OS has educational and testing purpose, allowing me to improve my experience in C. Furthermore, it is documented, allowing other people to use it for the same end.
+    - Lunix OS é um sistema operacional em desenvolvimento inicial e é desenvolvido em linguagem C. O Lunix OS tem finalidade educacional e de testes, permitindo-me melhorar minha experiência em C. Além disso, é documentado, permitindo que outras pessoas o utilizem para o mesmo fim.
 
   - [**PX-DOS**](https://github.com/felipenlunkes/PX-DOS) | **2013-2015**
 
-    - PX-DOS is derived from an older version of a DOS system, the Public Domain Operating System (PDOS). PX-DOS adds new layers, abstractions and functions on top of PDOS and extends its functionality. Several new utilities (userland) have also been added to the base system. System components were divided into repositories. We have the repository which contains the kernel, boot loader and shell, which contains the system init (user mode) and system utilities. We also have the repository with the assembly and libc development libraries.
+    - O PX-DOS é derivado de uma versão mais antiga de um sistema DOS, o Public Domain Operating System (PDOS). O PX-DOS adiciona novas camadas, abstrações e funções ao PDOS e amplia sua funcionalidade. Vários novos utilitários (userland) também foram adicionados ao sistema básico. Os componentes do sistema foram divididos em repositórios. Temos o repositório que contém o kernel, carregador de boot e shell, que contém o init do sistema (modo de usuário) e utilitários do sistema. Também temos o repositório com as bibliotecas de desenvolvimento Assembly e libc.
 
   - [**PXBAS**](https://github.com/felipenlunkes/PXBAS) | **2011-2013**
 
-    - PXBAS is a simple BASIC interpreter for MS-DOS, FreeDOS, PX-DOS, PDOS and compatibles. It may work on 32-bit versions of Windows.
+    - PXBAS é um interpretador BASIC simples para MS-DOS, FreeDOS, PX-DOS, PDOS e compatíveis. Pode funcionar em versões de 32 bits do Windows.
 
 * C++:
 
   - [**Arduino**](https://github.com/felipenlunkes/AxiomKernel) | **2012-2018**
 
-    - This is one of the Arduino based projects developed between 2012-2018. Other projects can be found among my repositories on GitHub.
+    - Este é um dos projetos baseados em Arduino desenvolvidos entre 2012-2018. Outros projetos podem ser encontrados em meus repositórios no GitHub.
 
 * Java:
 
   - [**FilmPlay**](https://github.com/felipenlunkes/FilmPlay) | **2023**
 
-    - FilmPlay is a small project developed to obtain movie information using the [OMDb](https://www.omdbapi.com/) API. To get the information via HTTP request, FilmPlay uses the GSON library to serialize and deserialize the JSON sent as a response. Application libraries and build are managed by Gradle.
+    - FilmPlay é um pequeno projeto desenvolvido para obter informações de filmes usando a API [OMDb](https://www.omdbapi.com/). Para obter as informações via solicitação HTTP, o FilmPlay usa a biblioteca GSON para serializar e desserializar o JSON enviado como resposta. Bibliotecas e build são gerenciadas pelo Gradle.
 
   - [**Java Power Shell (JpS)**](https://github.com/felipenlunkes/Java-Power-Shell) | **2013**
 
-    - Java Power Shell (JPS) is a portable shell developed in Java and tested on Linux, macOS and Windows. Used as a learning project for the main Java interfaces during the technical course, using language inheritance and standard methods.
+    - Java Power Shell (JPS) é um shell portátil desenvolvido em Java e testado em Linux, macOS e Windows. Utilizado como projeto de aprendizagem das principais interfaces Java durante o curso técnico, utilizando herança de linguagem e métodos padrão.
 
   - [**Java-Contact-Book**](https://github.com/felipenlunkes/Java-Contact-Book/) | **2013**
 
-    - Contact book developed in Java and using a SQL database that allows adding and consulting personal information.
+    - Agenda de contatos desenvolvida em Java e utilizando banco de dados SQL que permite adicionar e consultar informações pessoais.
 
   - [**Java-Random**](https://github.com/felipenlunkes/Java-Random) | **2013**
 
-    - Varied Java projects using SQL databases and Java methods.
+    - Projetos Java variados utilizando bancos de dados SQL e métodos Java.
 
 * Markdown:
 
-  - [**osdev**](https://github.com/felipenlunkes/osdev) | **2021-currently**
+  - [**osdev**](https://github.com/felipenlunkes/osdev) | **2021-atualmente**
 
-    - osdev is a project that aims to catalog and obtain more information about active open source operating system projects, as well as providing selected material that can help in the development of independent operating system projects. Therefore, all projects are classified according to operating system family, target architecture, whether they are available on GitHub or not, whether they are active (with commits less than 4 years old) and software license. In addition, the repository seeks to raise and organize historical material on the most used operating systems or those that revolutionized computing, such as UNIX.
+    - osdev é um projeto que tem como objetivo catalogar e obter mais informações sobre projetos ativos de sistemas operacionais open source, bem como fornecer material selecionado que possa auxiliar no desenvolvimento de projetos de sistemas operacionais independentes. Portanto, todos os projetos são classificados de acordo com família de sistemas operacionais, arquitetura alvo, se estão disponíveis no GitHub ou não, se estão ativos (com commits há menos de 4 anos) e licença de software. Além disso, o repositório busca levantar e organizar material histórico sobre os sistemas operacionais mais utilizados ou que revolucionaram a computação, como o UNIX.
 
   - [**My Resume**](https://github.com/felipenlunkes/cv/tree/main/resumes) | **2022-2023**
 
-    - This resume was entirely developed in Markdown and converted into PDF with the `pandoc` utility.
+    - Este currículo foi inteiramente desenvolvido em Markdown e pode ser convertido em PDF com o utilitário `pandoc`.
 
 * Python:
 
-  - [**Python-exp**](https://github.com/felipenlunkes?tab=repositories) | **2021-currently**
+  - [**Python-exp**](https://github.com/felipenlunkes?tab=repositories) | **2021-atualmente**
 
-    - General purpose tools developed in Python to automate or facilitate tasks performed at the command line. Also, in-language learning utilities like BMI calculator. The projects are distributed among several repositories on my GitHub.
+    - Ferramentas de uso geral desenvolvidas em Python para automatizar ou facilitar tarefas executadas na linha de comando. Além disso, utilitários para aprendizagem da linguagem, como calculadora de IMC. Os projetos estão distribuídos entre diversos repositórios no meu GitHub.
 
-  - Use of Python to create a frontend for tools that run on the command line. Mainly using Tkinter and derivatives, targeting Linux and FreeBSD (WSL on Windows is also supported);
-  - Creating small programs to study algorithms in Python;
+  - Utilização de Python para criação de frontend para ferramentas que rodam na linha de comando. Utilizando principalmente Tkinter e derivados, visando Linux e FreeBSD (WSL no Windows também é suportado);
+  - Criação de pequenos programas para estudo de algoritmos em Python;
 
 * Shell script:
 
-  - [**freebsd-config**](https://github.com/felipenlunkes/freebsd-config) | **2022-currently**
+  - [**freebsd-config**](https://github.com/felipenlunkes/freebsd-config) | **2022-atualmente**
 
-    - The project relies on a shell script designed to automate the installation of various packages after installing FreeBSD. By default, installing FreeBSD does not install graphics and network drivers, as well as GNU utilities and a GUI. The script aims to automate network and graphics configuration, ask the user to choose one of several graphical environments to install and install GNU tools, such as bash and nano, for example.
+    - O projeto conta com um script shell projetado para automatizar a instalação de vários pacotes após a instalação do FreeBSD. Por padrão, a instalação do FreeBSD não instala drivers gráficos e de rede, bem como utilitários GNU e uma GUI. O script tem como objetivo automatizar a configuração de redes e gráficos, solicitar ao usuário a escolha de um dos diversos ambientes gráficos para instalar e instalar ferramentas GNU, como bash e nano, por exemplo.
 
-  - [**Run Ancient UNIX**](https://github.com/felipenlunkes/run-ancient-unix) | **2022-currently**
+  - [**Run Ancient UNIX**](https://github.com/felipenlunkes/run-ancient-unix) | **2022-atualmente**
 
-    - This project/repository aims to facilitate the execution of old versions of UNIX, developed for discontinued architectures, such as PDP-11. This includes the Version 1 UNIX, Version 5 UNIX, and Version 7 UNIX historical versions. The project includes a script and a Python frontend responsible for downloading disk images of old UNIX versions, as well as preparing these images to run on modern architectures.
+    - Este projeto/repositório visa facilitar a execução de versões antigas do UNIX, desenvolvidas para arquiteturas descontinuadas, como o PDP-11. Isso inclui as versões históricas do Version 1 UNIX, Version 5 UNIX e Version 7 UNIX. O projeto inclui um script e um frontend Python responsável por realizar o download imagens de disco de versões antigas do UNIX, bem como preparar essas imagens para rodar em arquiteturas modernas.
 
-#### Sorted by other technologies
+#### Classificado por outras tecnologias
 
 * Linux:
 
   - Netuno OS | **2012-2014**
 
-    - During 2012, motivated to learn more about how a modern operating system works, I started to develop a small and simple Linux distribution, choosing to maintain a command line interface. For that, I followed the steps proposed by the Linux From Scratch project. The result was Netuno OS, an operating system based on the 2.6 series Linux kernel, standard tools and utilities. There are no sources other than those available for the packages used, so a repository had not been created at the time. What was left of it was an installation image of the system, approximately 192 MB, dated 2012 and updated in 2014. At the moment, I also developed some kernel modules to study the interfaces and use of the /proc directory.
+    - Durante 2012, motivado a aprender mais sobre como funciona um sistema operacional moderno, comecei a desenvolver uma pequena e simples distribuição Linux, optando por manter uma interface de linha de comando. Para isso segui os passos propostos pelo projeto Linux From Scratch. O resultado foi o Netuno OS, um sistema operacional baseado no kernel Linux da série 2.6, ferramentas e utilitários padrão. Não existem outras fontes além das disponíveis para os pacotes utilizados, portanto não foi criado um repositório no momento. O que restou do projeto foi uma imagem de instalação do sistema, de aproximadamente 192 MB, datada de 2012 e atualizada em 2014. No momento também desenvolvi alguns módulos do kernel para estudo das interfaces e utilização do diretório /proc.
 
 <hr>
 
-## Tools and technologies
+## Habilidades
 
-### Programming languages
-
-* x86 Assembly (using NASM, FASM and GNU as), Java, Rust, Python, C, Shell script (GNU bash, tcsh), Delphi, VisualBasic .NET, Pascal, Make and Markdown;
-
-### Frameworks
-
-* Spring Framework, Spring Boot;
-
-### Tools
-
-##### IDEs
-
-* Android Studio, Arduino IDE, Eclipse, IntelliJ IDEA, PyCharm, RustRover, Visual Studio and Visual Studio Code;
-
-##### Terminal
-
-* GNU bash, tcsh and Windows Terminal (including PowerShell and Command Prompt);
-
-##### Databases
-
-* MySQL;
-
-##### Code versioning and controle
-
-* Git, Bitbucket and GitHub;
-
-##### Utilities
-
-* DBeaver, MySQL Workbench and Postman;
-
-##### Workflow
-
-* Jenkins and Jira;
-
-##### Virtualization
-
-* Docker, QEMU, VirtualBox and Microsoft VirtualPC;
-
-##### Design
-
-* Adobe Creative Cloud, Canva, GNU GIMP and Inkscape.
+* Português fluente (nativo) e inglês avançado (C1);
+* Domínio do pacote Office (incluindo alternativas open source) e pacotes estatísticos (R e Prism);
+* Domínio de Assembly x86, Java, Python, C, shell script (sistemas Unix-like), SQL e Markdown (ver **[projetos](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md)**);
+* Familiaridade com C++, Rust e VisualBasic;
+* Domínio de ferramentas de versionamento, como git (incluindo uso da ferramentas de linha de comando);
+* Autodidata em diversas linguagens de programação;
+* Boa comunicação e trabalho em equipe;
 
 <hr>
 
-## Skills
+## Formação acadêmica
 
-* Fluent Portuguese (native) and advanced English (C1);
-* Domain of the Office package (including open source alternatives) and statistical packages (R and Prism);
-* Domain of x86 Assembly, Java, Python, C, shell script (Unix-like systems), SQL and Markdown (see **[projects](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md))**;
-* Familiarity with C++, Rust and VisualBasic;
-* Domain of versioning tools, such as git (including use of the command line tools);
-* Self-taught in several programming languages;
-* Good communication and teamwork;
+#### **2024-2027** | **Aluno de graduação em Análise e Desenvolvimento de Sistemas - [Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br/destaques/Paginas/default.aspx) - Belo Horizonte**
 
-<hr>
+* Graduação em andamento em Análise e Desenvolvimento de Sistemas  (ADS).
 
-## Academic background
+#### **2021-2023** | **Mestrado em Ciências da Saúde - [Instituto René Rachou/Fundação Oswaldo Cruz](https://portal.fiocruz.br/) - Belo Horizonte**
 
-#### **2024-2027** | **Undergraduate student in Systems Analysis and Development - [Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br/destaques/Paginas/default.aspx) - Belo Horizonte, Brazil**
+* Mestrado em Ciências da Saúde pelo Instituto René Rachou/Fundação Oswaldo Cruz (IRR/Fundação Oswaldo Cruz);
+* Dissertação de mestrado em acesso público disponível [**aqui**](https://www.arca.fiocruz.br/handle/icict/60305).
 
-* Graduation in progress in Systems Analysis and Development (*Análise e Desenvolvimento de Sistemas - ADS*).
+#### **2016-2020** | **Graduação em Ciências Biológicas - [Universidade Federal de Minas Gerais](https://ufmg.br/) - Belo Horizonte**
 
-#### **2021-2023** | **Master's degree in Health Sciences - [Instituto René Rachou/Fundação Oswaldo Cruz](https://portal.fiocruz.br/) - Belo Horizonte, Brazil**
+* Graduação em Ciências Biológicas com ênfase em Biotecnologia e Saúde pelo Instituto de Ciências Biológicas da Universidade Federal de Minas Gerais (ICB/UFMG).
 
-* Master's degree in Health Sciences at IRR/Fundação Oswaldo Cruz;
-* Master's thesis available [**here**](https://www.arca.fiocruz.br/handle/icict/60305).
+#### **2011-2023** | **Ensino médio com ensino técnico integrado - Escola Técnica Vital Brasil - Belo Horizonte**
 
-#### **2016-2020** | **Graduation in Biological Sciences (Biology - Ciências Biológicas) - [Universidade Federal de Minas Gerais](https://ufmg.br/) - Belo Horizonte, Brazil**
-
-* Graduation in Biological Sciences (Biology - Ciências Biológicas) with emphasis in Biotechnology and Health.
-
-#### **2011-2023** | **High school with computer technician - Escola Técnica Vital Brasil - Belo Horizonte, Brazil**
-
-* Technical formation for developers;
-* Familiar with the notions of programming logic, C, Java, Pascal, Delphi, VisualBasic, hardware, robotics, web development, relational databases and SQL, systems analysis and entrepreneurship.
+* Formação técnica em informática e programação;
+* Familiaridade com noções de lógica de programação, C, Java, Pascal, Delphi, VisualBasic, hardware, robótica, desenvolvimento web, bancos de dados relacionais e SQL, análise de sistemas e empreendedorismo.
 
 <hr>
 
-## Interests
+## Portfólio e contato
 
-* Interested in design and implementation of operating systems;
-* Interested in computing history, emulation and preservation of historical software;
-* Operating system collector: from Version 1 Unix through 86-DOS and Windows 1.0 to FreeBSD 14 and Windows 11. Talk to me about an operating system and I'll probably have a disk, floppy or ISO image;
-* Currently playing (2024):
-  * The Legend of Zelda: Echoes of Wisdom (Nintendo Switch);
-  * The Legend of Zelda: Tears of the Kingdom (Nintendo Switch);
-  * Minecraft (PC, Android and Nintendo Switch);
-  * Ghostwire: Tokyo (Xbox).
-
-<hr>
-
-## Other relevant information about me
-
-* Proficiency in using different operating systems (old and modern):
-  * **DOS (Disk Operating System), OS/2 and Windows**: FreeDOS, MS-DOS, OS/2, Windows DOS (Windows 1x-3x, Windows 95, 98 and ME) and Windows NT (NT 3.x-11);
-  * **Linux**: Arch Linux, Debian, Fedora, Gentoo, Kali Linux, Linux From Scratch, Pop!_OS, OpenSUSE, Ubuntu and ChromeOS;
-  * **UNIX and BSD**: FreeBSD, macOS (including PowerPC versions), OpenIndiana (OpenSolaris), Plan 9 from Bell Labs, UnixWare and UNIX System V;
-  * **Unix-like**: Minix;
-  * **Other OS**: BeOS, Haiku, Mac OS Classic and ReactOS;
-* Familiarity with Arduino;
-
-<hr>
-
-## Portfolio and contact
-
-### Portfolio
+### Portfólio
 
 * [GitHub](https://github.com/felipenlunkes)
 * [LinkedIn](https://linkedin.com/in/felipelunkes)
-* [Currículo Lattes (Brazil)](http://lattes.cnpq.br/2540365589952421)
+* [Currículo Lattes](http://lattes.cnpq.br/2540365589952421)
 * [LinkTree](https://linktr.ee/felipelunkes)
 
 ### Blog
 
-* [Agente x86 (in Portuguese)](https://lunx.me)
+* [Agente x86](https://lunx.me)
 
-### Social media
+### Redes sociais
 
 * [Bluesky](https://bsky.app/profile/lunx.me)
 * [Threads](https://www.threads.net/@lunx8086)
@@ -391,9 +325,9 @@ You can find the CV in PDF, in **[Portuguese (Brazil)](resumes/CV_PT-BR.pdf)** a
 
 <hr> -->
 
-#### About this CV
+#### Sobre este currículo
 
-This resume was built entirely by me in **Markdown** ❤.
+Este currículo foi totalmente escrito por mim em **Markdown** ❤.
 
 <hr>
 
