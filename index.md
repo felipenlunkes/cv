@@ -170,108 +170,165 @@ Desenvolvimento de soluções utilizando, entre outras tecnologias, Java, Spring
 
 Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 
-#### Classificado por linguagens de programação
+### [DoeTech Mobile](https://github.com/felipenlunkes/doetech-mobile) (2025-atualmente)
 
-* Assembly:
+O DoeTech é uma plataforma que visa criar uma interface entre empresas e pessoas físicas, interessadas em doar equipamentos eletrônicos que seriam descartados, e instituições sociais ou pessoas carentes que desejam receber esse tipo de equipamento. A proposta do DoeTech é diminuir a produção de lixo eletrônico enquanto favorece a reutilização de equipamentos eletrônicos por instituições de cunho social e pessoas de baixa renda.
 
-  - [**Sistema Operacional Hexagonix (Hexagonix OS)**](https://github.com/hexagonix) | **2015-atualmente**
+Desenvolvido em C# e React Native, utilizando Entity Framework e ASP.NET MVC, implementa uma arquitetura limpa sobre o modelo MVC (MVC + Services + Repositories). Implementa também uma base PostgreSQL, além do suporte a armazenamento de imagens e documentos utilizando o Azure Blobs Storage.
 
-    - Hexagonix é um sistema operacional simples e leve, Unix-like e totalmente desenvolvido em Assembly x86. O Hexagonix é composto por um kernel monolítico simples, denominado Hexagon, shell, utilitários Unix-like desenvolvidos em Assembly x86 e bibliotecas para desenvolvimento de outros utilitários. Além disso, é auto-hospedado, contando com um port do montador fasm (flat assembler), o mesmo utilizado para sua construção. Opera em modo protegido de 32 bits, com suporte a sistema de arquivos FAT16, processadores Pentium III ou mais recentes e 32 MB de RAM ou mais. Pode ser instalado em uma máquina física, rodando nativamente. O sistema pretende ser simples e rápido, baseado em alguns conceitos da filosofia Unix, além de ser licenciado sob a licença BSD-3-Clause, uma licença permissiva de software livre. No momento, toda a documentação do projeto está em português e inglês, enquanto os comentários e o código estão em inglês. O Hexagonix possui uma extensa documentação que cobre muitos recursos de sistema, linguagem e hardware. A documentação pode ser encontrada [aqui](github.com/hexagonix/Doc). O projeto também pretende ser uma ferramenta educacional, com código bem documentado.
+Suporta autenticação via JWT (Web Token), envio de notificações e emails e recuperação de senha sob demanda. Testado e validado em hospedagem no Azure.
 
-  - [**Bin S.O**](https://github.com/felipenlunkes/Bin-S.O) | **2011-2013**
+O DoeTech foi premiado como projeto destaque realizado pelos alunos do curso de graduação em Análise e Desenvolvimento de Sistemas da Pontifícia Universidade Católica de Minas Gerais (PUC Minas), no primeiro semestre de 2025. Esta nova iteração leva o projeto além, criando uma nova forma de acesso e interatividade para a plataforma.
+O DoeTech é uma plataforma que visa criar uma interface entre empresas e pessoas físicas, interessadas em doar equipamentos eletrônicos que seriam descartados, e instituições sociais ou pessoas carentes que desejam receber esse tipo de equipamento. A proposta do DoeTech é diminuir a produção de lixo eletrônico enquanto favorece a reutilização de equipamentos eletrônicos por instituições de cunho social e pessoas de baixa renda. Desenvolvido em C# e React Native, utilizando Entity Framework e ASP.NET MVC, implementa uma arquitetura limpa sobre o modelo MVC (MVC + Services + Repositories). Implementa também uma base PostgreSQL, além do suporte a armazenamento de imagens e documentos utilizando o Azure Blobs Storage. Suporta autenticação via JWT (Web Token), envio de notificações e emails e recuperação de senha sob demanda. Testado e validado em hospedagem no Azure. O DoeTech foi premiado como projeto destaque realizado pelos alunos do curso de graduação em Análise e Desenvolvimento de Sistemas da Pontifícia Universidade Católica de Minas Gerais (PUC Minas), no primeiro semestre de 2025. Esta nova iteração leva o projeto além, criando uma nova forma de acesso e interatividade para a plataforma.
 
-    - Meu primeiro projeto de sistema operacional desenvolvido inteiramente em Assembly x86 (NASM). O sistema implementa um sistema de arquivos simples, chamado BinFS, baseado em uma lista vinculada de arquivos. O sistema de arquivos é criado utilizando uma ferramenta desenvolvida em C, que cria uma imagem de disco. O Bin S.O roda em modo real de 16 bits e suporta o desenvolvimento de utilitários usando bibliotecas Assembly x86 disponibilizadas. O sistema pode ser instalado em dispositivos para rodar nativamente, através de um instalador rodando em um LiveCD Linux (Netuno OS).
+**Competências**: C# · ASP.NET MVC · API REST · Azure Storage Blobs · Azure · Entity Framework (EF) Core · PostgreSQL
 
-  - [**Asm-MIPS**](https://github.com/felipenlunkes/MIPS-asm) | **2018**
+### [Agente x86](https://github.com/felipenlunkes/agentex86) (2023-atualmente)
 
-    - Código Assembly MIPS escrito por mim para a disciplina de Organização de Computadores I (DCC006) do Departamento de Ciência da Computação da Universidade Federal de Minas Gerais (UFMG), em 2018. O código pode ser executado no Simulador MARS MIPS.
+Agente x86 é um blog de tecnologia desenvolvido em HTML, JavaScript, CSS e Ruby.
 
-* C:
+**Competências**: HTML · CSS · JavaScript · Ruby
 
-  - [**Sistema Operacional Lunix (Lunix OS)**](https://github.com/felipenlunkes/lunix) | **2022-atualmente**
+### [osdev](https://github.com/felipenlunkes/osdev) (2021-atualmente)
 
-    - Lunix OS é um sistema operacional em desenvolvimento inicial e é desenvolvido em linguagem C. O Lunix OS tem finalidade educacional e de testes, permitindo-me melhorar minha experiência em C. Além disso, é documentado, permitindo que outras pessoas o utilizem para o mesmo fim.
+osdev é um projeto que visa catalogar e obter mais informações sobre projetos de sistemas operacionais de código livre em atividade, além de fornecer material selecionado que pode auxiliar no desenvolvimento de projetos de sistemas operacionais independentes. Sendo assim, todos os projetos são classificados quanto a família de sistema operacional, arquitetura alvo, se estão disponíveis no GitHub ou não, se estão ativos (com commits com menos de 4 anos) e licença de software. Além disso, o repositório busca levantar e organizar material histórico sobre os sistemas operacionais mais utilizados ou que revolucionaram a computação, como o UNIX.
 
-  - [**PX-DOS**](https://github.com/felipenlunkes/PX-DOS) | **2013-2015**
+### [Sistema Operacional Hexagonix](https://github.com/hexagonix) (2015-atualmente)
 
-    - O PX-DOS é derivado de uma versão mais antiga de um sistema DOS, o Public Domain Operating System (PDOS). O PX-DOS adiciona novas camadas, abstrações e funções ao PDOS e amplia sua funcionalidade. Vários novos utilitários (userland) também foram adicionados ao sistema básico. Os componentes do sistema foram divididos em repositórios. Temos o repositório que contém o kernel, carregador de boot e shell, que contém o init do sistema (modo de usuário) e utilitários do sistema. Também temos o repositório com as bibliotecas de desenvolvimento Assembly e libc.
+O Hexagonix é um sistema operacional simples e leve, Unix-like e completamente desenvolvido em Assembly x86. O Hexagonix é composto por um kernel monolítico simples, chamado Hexagon, shell, utilitários Unix-like desenvolvidos em Assembly e bibliotecas para o desenvolvimento de outros utilitários. Além disso, ele é self-hosting, contando com um port do montador fasm (flat assembler), o mesmo utilizado para sua construção. Ele opera em modo protegido 32-bit, com suporte a FAT16, processadores Pentium III ou superiores e 32 MB de memória RAM ou mais. Ele pode ser instalado em máquina física, sendo executado de forma nativa. O sistema visa ser simples e rápido, se baseando em alguns conceitos da filosofia Unix, além de ser licenciado sob a licença BSD-3-Clause, uma licença de software livre permissiva. No momento, toda a documentação do projeto se encontra em português e inglês, enquanto os comentários do código estão em português. O Hexagonix possui uma documentação extensa, que abrange diversas características do sistema, da linguagem e de hardware. A documentação pode ser encontrada em: github.com/hexagonix/Doc. O projeto também visa ser uma ferramenta educacional, com código bem comentado.
+O Hexagonix é um sistema operacional simples e leve, Unix-like e completamente desenvolvido em Assembly x86. O Hexagonix é composto por um kernel monolítico simples, chamado Hexagon, shell, utilitários Unix-like desenvolvidos em Assembly e bibliotecas para o desenvolvimento de outros utilitários. Além disso, ele é self-hosting, contando com um port do montador fasm (flat assembler), o mesmo utilizado para sua construção. Ele opera em modo protegido 32-bit, com suporte a FAT16, processadores Pentium III ou superiores e 32 MB de memória RAM ou mais. Ele pode ser instalado em máquina física, sendo executado de forma nativa. O sistema visa ser simples e rápido, se baseando em alguns conceitos da filosofia Unix, além de ser licenciado sob a licença BSD-3-Clause, uma licença de software livre permissiva. No momento, toda a documentação do projeto se encontra em português e inglês, enquanto os comentários do código estão em português. O Hexagonix possui uma documentação extensa, que abrange diversas características do sistema, da linguagem e de hardware. A documentação pode ser encontrada em: github.com/hexagonix/Doc. O projeto também visa ser uma ferramenta educacional, com código bem comentado.
 
-  - [**PXBAS**](https://github.com/felipenlunkes/PXBAS) | **2011-2013**
+**Competências**: Hardware · x86 Assembly · OSDev
 
-    - PXBAS é um interpretador BASIC simples para MS-DOS, FreeDOS, PX-DOS, PDOS e compatíveis. Pode funcionar em versões de 32 bits do Windows.
+### [DoeTech](https://github.com/felipenlunkes/DoeTech) (2025-2026)
 
-* C++:
+O DoeTech é uma plataforma que visa criar uma interface entre empresas e pessoas físicas, interessadas em doar equipamentos eletrônicos que seriam descartados, e instituições sociais ou pessoas carentes que desejam receber esse tipo de equipamento. A proposta do DoeTech é diminuir a produção de lixo eletrônico enquanto favorece a reutilização de equipamentos eletrônicos por instituições de cunho social e pessoas de baixa renda.
 
-  - [**Arduino**](https://github.com/felipenlunkes/AxiomKernel) | **2012-2018**
+Desenvolvido em C# e Angular, utilizando Entity Framework e ASP.NET MVC, implementa uma arquitetura limpa sobre o modelo MVC (MVC + Services + Repositories). Implementa também uma base MySQL, além do suporte a armazenamento de imagens e documentos utilizando o Azure Blobs Storage.
 
-    - Este é um dos projetos baseados em Arduino desenvolvidos entre 2012-2018. Outros projetos podem ser encontrados em meus repositórios no GitHub.
+Suporta autenticação via JWT (Web Token), envio de notificações e emails e recuperação de senha sob demanda. Testado e validado em hospedagem no Azure.
 
-* Java:
+O DoeTech foi premiado como projeto destaque realizado pelos alunos do curso de graduação em Análise e Desenvolvimento de Sistemas da Pontifícia Universidade Católica de Minas Gerais (PUC Minas), no primeiro semestre de 2025.
+O DoeTech é uma plataforma que visa criar uma interface entre empresas e pessoas físicas, interessadas em doar equipamentos eletrônicos que seriam descartados, e instituições sociais ou pessoas carentes que desejam receber esse tipo de equipamento. A proposta do DoeTech é diminuir a produção de lixo eletrônico enquanto favorece a reutilização de equipamentos eletrônicos por instituições de cunho social e pessoas de baixa renda. Desenvolvido em C# e Angular, utilizando Entity Framework e ASP.NET MVC, implementa uma arquitetura limpa sobre o modelo MVC (MVC + Services + Repositories). Implementa também uma base MySQL, além do suporte a armazenamento de imagens e documentos utilizando o Azure Blobs Storage. Suporta autenticação via JWT (Web Token), envio de notificações e emails e recuperação de senha sob demanda. Testado e validado em hospedagem no Azure. O DoeTech foi premiado como projeto destaque realizado pelos alunos do curso de graduação em Análise e Desenvolvimento de Sistemas da Pontifícia Universidade Católica de Minas Gerais (PUC Minas), no primeiro semestre de 2025.
 
-  - [**FilmPlay**](https://github.com/felipenlunkes/FilmPlay) | **2023**
+**Competências**: C# · ASP.NET MVC · MySQL · Azure · Azure Storage Blobs · Angular (Framework)
 
-    - FilmPlay é um pequeno projeto desenvolvido para obter informações de filmes usando a API [OMDb](https://www.omdbapi.com/). Para obter as informações via solicitação HTTP, o FilmPlay usa a biblioteca GSON para serializar e desserializar o JSON enviado como resposta. Bibliotecas e build são gerenciadas pelo Gradle.
+### [Run Ancient UNIX](https://github.com/felipenlunkes/run-ancient-unix) (2022-2026)
 
-  - [**Java Power Shell (JpS)**](https://github.com/felipenlunkes/Java-Power-Shell) | **2013**
+Este projeto/repositório visa facilitar a execução de versões antigas do UNIX, desenvolvidas para arquiteturas descontinuadas, como PDP-11. Isso inclui as versões históricas Version 1 UNIX, Version 5 UNIX e Version 7 UNIX. O projeto inclui um script e um frontend em Python responsáveis por realizar o download de imagens de disco de versões antigas do UNIX, bem como preparar essas imagens para serem executadas em arquiteturas modernas.
 
-    - Java Power Shell (JPS) é um shell portátil desenvolvido em Java e testado em Linux, macOS e Windows. Utilizado como projeto de aprendizagem das principais interfaces Java durante o curso técnico, utilizando herança de linguagem e métodos padrão.
+**Competências**: Shell script · Python
 
-  - [**Java-Contact-Book**](https://github.com/felipenlunkes/Java-Contact-Book/) | **2013**
+### Python-exp (2021-2025)
 
-    - Agenda de contatos desenvolvida em Java e utilizando banco de dados SQL que permite adicionar e consultar informações pessoais.
+Ferramentas de propósito geral desenvolvidas em Python para automatizar ou facilitar tarefas executadas em linha de comando. Além disso, utilitários de aprendizado na linguagem, como calculadora de IMC. Os projetos estão distribuídos entre vários repositórios em meu GitHub.
 
-  - [**Java-Random**](https://github.com/felipenlunkes/Java-Random) | **2013**
+**Competências**: Python
 
-    - Projetos Java variados utilizando bancos de dados SQL e métodos Java.
+### [Sistema Operacional Lunix](https://github.com/felipenlunkes/lunix) (2022-2025)
 
-* Markdown:
+Lunix OS é um sistema operacional em início de desenvolvimento e é desenvolvido em linguagem C. O Lunix OS tem propósito educacional e de teste, me permitindo aprimorar minha experiência em C. Além disso, é documentado, permitindo que outras pessoas o utilizem para o mesmo fim.
 
-  - [**osdev**](https://github.com/felipenlunkes/osdev) | **2021-atualmente**
+**Competências**: Hardware · C · x86 Assembly · C · OSDev
 
-    - osdev é um projeto que tem como objetivo catalogar e obter mais informações sobre projetos ativos de sistemas operacionais open source, bem como fornecer material selecionado que possa auxiliar no desenvolvimento de projetos de sistemas operacionais independentes. Portanto, todos os projetos são classificados de acordo com família de sistemas operacionais, arquitetura alvo, se estão disponíveis no GitHub ou não, se estão ativos (com commits há menos de 4 anos) e licença de software. Além disso, o repositório busca levantar e organizar material histórico sobre os sistemas operacionais mais utilizados ou que revolucionaram a computação, como o UNIX.
+### [freebsd-config](https://github.com/felipenlunkes/freebsd-config) (2022-2025)
 
-  - [**My Resume**](https://github.com/felipenlunkes/cv/tree/main/resumes) | **2022-2023**
+O projeto se baseia em um script de shell desenvolvido para automatizar a instalação de diversos pacotes após a instalação do FreeBSD. Por padrão, a instalação do FreeBSD não instala drivers gráficos e de rede, bem como utilitários GNU e uma interface gráfica. O script visa automatizar a configuração de rede e gráficos, solicitar ao usuário a escolha de um dos vários ambientes gráficos a instalar e instalar ferramentas GNU, como bash e nano, por exemplo.
 
-    - Este currículo foi inteiramente desenvolvido em Markdown e pode ser convertido em PDF com o utilitário `pandoc`.
+**Competências**: FreeBSD ·Shell script
 
-* Python:
+### [POC-CRUD-csharp](https://github.com/felipenlunkes/poc-crud-csharp) (2025-2025)
 
-  - [**Python-exp**](https://github.com/felipenlunkes?tab=repositories) | **2021-atualmente**
+O POC-CRUD-csharp é uma prova de conceito de aplicação web backend desenvolvida em C# que implementa o acesso e manipulação de dados em uma base MySQL.
 
-    - Ferramentas de uso geral desenvolvidas em Python para automatizar ou facilitar tarefas executadas na linha de comando. Além disso, utilitários para aprendizagem da linguagem, como calculadora de IMC. Os projetos estão distribuídos entre diversos repositórios no meu GitHub.
+Funcionalidades já implementadas:
 
-  - Utilização de Python para criação de frontend para ferramentas que rodam na linha de comando. Utilizando principalmente Tkinter e derivados, visando Linux e FreeBSD (WSL no Windows também é suportado);
-  - Criação de pequenos programas para estudo de algoritmos em Python;
+* Integração com banco de dados MySQL;
+* Entity Framework + ASP.NET MVC;
+* Clean Architecture aplicada ao MVC (Controller → Service → Repository);
+* Injeção automática de dependências via interfaces IService e IRepository;
+* Mapeamento de exceções para respostas HTTP apropriadas;
+* Autenticação via JWT (incluindo verificação de admin para alguns endpoints);
+* CRUDs completos de User e Account (com vínculo entre eles).
 
-* Shell script:
+A aplicação permite login autenticado, gerenciamento de usuários e contas e segue boas práticas de organização e separação de responsabilidades, utilizando um modelo MVC + Services + Repositories, não o modelo MVC convencional.
 
-  - [**freebsd-config**](https://github.com/felipenlunkes/freebsd-config) | **2022-atualmente**
+**Competências**: C# · Entity Framework (EF) Core · ASP.NET MVC · API REST
 
-    - O projeto conta com um script shell projetado para automatizar a instalação de vários pacotes após a instalação do FreeBSD. Por padrão, a instalação do FreeBSD não instala drivers gráficos e de rede, bem como utilitários GNU e uma GUI. O script tem como objetivo automatizar a configuração de redes e gráficos, solicitar ao usuário a escolha de um dos diversos ambientes gráficos para instalar e instalar ferramentas GNU, como bash e nano, por exemplo.
+### [rust-bank](https://github.com/felipenlunkes/rust-bank) (2025-2025)
 
-  - [**Run Ancient UNIX**](https://github.com/felipenlunkes/run-ancient-unix) | **2022-atualmente**
+O rust-bank é um projeto que visa experimentar algumas particularidades do desenvolvimento utilizando a linguagem Rust, como borrowing, módulos, crates, macros e etc. A aplicação simula operações bancárias e foi desenvolvida do zero.
+O rust-bank é um projeto que visa experimentar algumas particularidades do desenvolvimento utilizando a linguagem Rust, como borrowing, módulos, crates, macros e etc. A aplicação simula operações bancárias e foi desenvolvida do zero.
 
-    - Este projeto/repositório visa facilitar a execução de versões antigas do UNIX, desenvolvidas para arquiteturas descontinuadas, como o PDP-11. Isso inclui as versões históricas do Version 1 UNIX, Version 5 UNIX e Version 7 UNIX. O projeto inclui um script e um frontend Python responsável por realizar o download imagens de disco de versões antigas do UNIX, bem como preparar essas imagens para rodar em arquiteturas modernas.
+**Competências**: Rust
 
-#### Classificado por outras tecnologias
+### [Which Medicine](https://github.com/felipenlunkes/whichmedicine) (2024-2024)
 
-* Linux:
+O Which Medicine é uma aplicação web frontend desenvolvida para solucionar diversos problemas relacionados ao uso de medicamentos em nosso país, como a dificuldade na leitura e compreensão de bulas e reações adversas oriundas da administração de medicamentos incompatíveis, muitas vezes durante a automedicação. A automedicação é um fenômeno bastante comum, e um quinto da população relata se automedicar com frequência. Entretanto, a administração sem prescrição médica, associada ao uso de medicamentos incompatíveis, é a causa de diversas hospitalizações e óbitos em nosso país. Com este problema em mente, e utilizando a tecnologia para melhorar a vida das pessoas, tivemos a ideia de desenvolver uma aplicação web que facilite a pesquisa de medicamentos e que forneça, de forma rápida e prática, informações sobre os medicamentos cadastrados e os efeitos colaterais quando administrados juntamente a outros medicamentos. O usuário da aplicação é capaz de se cadastrar e autenticar, comparar medicamentos para obter possíveis interações medicamentosas, listar e obter mais informações sobre todos os medicamentos cadastrados e compartilhar os medicamentos por redes sociais, incluindo Facebook, X e WhatsApp. Além disso, consegue sugerir a inclusão de novas medicações. Também temos usuários administradores, que podem incluir, remover ou alterar cadastros de medicamentos, além de incluir ou não as sugestões dos usuários. 
 
-  - Netuno OS | **2012-2014**
+A interface da aplicação foi pensada com a responsividade em mente, e se adapta à diversos tamanhos de tela.
 
-    - Durante 2012, motivado a aprender mais sobre como funciona um sistema operacional moderno, comecei a desenvolver uma pequena e simples distribuição Linux, optando por manter uma interface de linha de comando. Para isso segui os passos propostos pelo projeto Linux From Scratch. O resultado foi o Netuno OS, um sistema operacional baseado no kernel Linux da série 2.6, ferramentas e utilitários padrão. Não existem outras fontes além das disponíveis para os pacotes utilizados, portanto não foi criado um repositório no momento. O que restou do projeto foi uma imagem de instalação do sistema, de aproximadamente 192 MB, datada de 2012 e atualizada em 2014. No momento também desenvolvi alguns módulos do kernel para estudo das interfaces e utilização do diretório /proc.
+O desafio era construir uma aplicação web utilizando apenas HTML, CSS e JavaScript, sendo que o Bootstrap foi o único framework permitido.
+O Which Medicine é uma aplicação web frontend desenvolvida para solucionar diversos problemas relacionados ao uso de medicamentos em nosso país, como a dificuldade na leitura e compreensão de bulas e reações adversas oriundas da administração de medicamentos incompatíveis, muitas vezes durante a automedicação. A automedicação é um fenômeno bastante comum, e um quinto da população relata se automedicar com frequência. Entretanto, a administração sem prescrição médica, associada ao uso de medicamentos incompatíveis, é a causa de diversas hospitalizações e óbitos em nosso país. Com este problema em mente, e utilizando a tecnologia para melhorar a vida das pessoas, tivemos a ideia de desenvolver uma aplicação web que facilite a pesquisa de medicamentos e que forneça, de forma rápida e prática, informações sobre os medicamentos cadastrados e os efeitos colaterais quando administrados juntamente a outros medicamentos. O usuário da aplicação é capaz de se cadastrar e autenticar, comparar medicamentos para obter possíveis interações medicamentosas, listar e obter mais informações sobre todos os medicamentos cadastrados e compartilhar os medicamentos por redes sociais, incluindo Facebook, X e WhatsApp. Além disso, consegue sugerir a inclusão de novas medicações. Também temos usuários administradores, que podem incluir, remover ou alterar cadastros de medicamentos, além de incluir ou não as sugestões dos usuários. 
 
-<hr>
+A interface da aplicação foi pensada com a responsividade em mente, e se adapta à diversos tamanhos de tela. 
 
-## Habilidades
+O desafio era construir uma aplicação web utilizando apenas HTML, CSS e JavaScript, sendo que o Bootstrap foi o único framework permitido.
 
-* Português fluente (nativo) e inglês avançado (C1);
-* Domínio do pacote Office (incluindo alternativas open source) e pacotes estatísticos (R e Prism);
-* Domínio de Assembly x86, Java, Python, C, shell script (sistemas Unix-like), SQL e Markdown (ver **[projetos](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md)**);
-* Familiaridade com C++, Rust e VisualBasic;
-* Domínio de ferramentas de versionamento, como git (incluindo uso da ferramentas de linha de comando);
-* Autodidata em diversas linguagens de programação;
-* Boa comunicação e trabalho em equipe;
+**Competências**: JavaScript · CSS · HTML · Bootstrap
+
+### [FilmPlay](https://github.com/felipenlunkes/FilmPlay) (2023-2023)
+
+O FilmPlay é um pequeno projeto desenvolvido para obter informações de filmes utilizando a API do OMDb, exercitando o uso de requisições REST e programação orientada a objeto. Para obter as informações via solicitação HTTP, o FilmPlay utiliza a biblioteca GSON para serializar e deserializar o JSON enviado como resposta. As bibliotecas e build do aplicativo são gerenciados pelo Gradle.
+O FilmPlay é um pequeno projeto desenvolvido para obter informações de filmes utilizando a API do OMDb, exercitando o uso de requisições REST e programação orientada a objeto. Para obter as informações via solicitação HTTP, o FilmPlay utiliza a biblioteca GSON para serializar e deserializar o JSON enviado como resposta. As bibliotecas e build do aplicativo são gerenciados pelo Gradle.
+
+**Competências**: Java
+
+### [cv-exemplo](https://github.com/felipenlunkes/cv-exemplo) (2023-2023)
+
+Esse projeto visa exemplificar e facilitar a criação de um currículo legível (para humanos e robôs) em Markdown, além da sua conversão para PDF. Esse formato é útil para oferecer um currículo sucinto, sem distrações e que pode ser processado por mecanismos automatizados de sites de cadastro e análise de currículo.
+Esse projeto visa exemplificar e facilitar a criação de um currículo legível (para humanos e robôs) em Markdown, além da sua conversão para PDF. Esse formato é útil para oferecer um currículo sucinto, sem distrações e que pode ser processado por mecanismos automatizados de sites de cadastro e análise de currículo.
+
+**Competências**: Markdown
+
+### [Asm-MIPS](https://github.com/felipenlunkes/MIPS-asm) (2018-2018)
+
+Código Assembly MIPS escrito por mim para a disciplina de Disciplina de Organização de Computadores I (DCC006) do Departamento de Ciências da Computação da Universidade Federal de Minas Gerais (UFMG), em 2018. O código pode ser executado no MARS MIPS Simulator.
+
+**Competências**: Assembly MIPS
+
+### [Projetos em Arduino](https://github.com/felipenlunkes/AxiomKernel) (2012-2018)
+
+Este é um dos projetos baseados em Arduino desenvolvidos entre 2012-2018. Outros projetos podem ser encontrados entre meus repositórios no GitHub.
+Este é um dos projetos baseados em Arduino desenvolvidos entre 2012-2018. Outros projetos podem ser encontrados entre meus repositórios no GitHub.
+
+**Competências**: C++ · Assembly
+
+### [PX-DOS](https://github.com/felipenlunkes/PX-DOS-Core) (2013-2015)
+
+PX-DOS é derivado de uma versão mais antiga de um sistema DOS, o Public Domain Operating System (PDOS). O PX-DOS adiciona novas camadas, abstrações e funções sobre o PDOS e estende sua funcionalidade. Também foram adicionados vários novos utilitários (userland) ao sistema básico.
+
+Os componentes do sistema foram divididos em repositórios. Temos o repositório que contém o kernel, carregador de inicialização e interpretador de comandos, o ​​que contém o init do sistema (modo de usuário) e os utilitários do sistema. Também temos o repositório com as bibliotecas de desenvolvimento Assembly e libc.
+
+**Competências**: C · Assembly x86 · OSDev
+
+### [Netuno OS]() (2012-2014)
+
+Durante o ano de 2012, motivado em aprender mais sobre o funcionamento de um sistema operacional moderno, passei a desenvolver uma distribuição Linux pequena e simples, optando por manter uma interface em linha de comando. Para isso, segui os passos propostos pelo projeto Linux From Scratch. O resultado foi o Netuno OS, um sistema operacional baseado no kernel Linux da série 2.6, ferramentas e utilitários padrão. Não existem fontes diferentes dos disponíveis nos pacotes utilizados, então um repositório não havia sido criado na época. O que restou dele foi uma imagem de instalação do sistema, com aproximadamente 192 Mb, datada de 2012 e atualizada em 2014. No momento, também desenvolvi alguns módulos de kernel para estudar as interfaces e uso do diretório /proc.
+
+**Competências**: Linux · C · Shell script · OSDev
+
+### [PXBAS](https://github.com/felipenlunkes/PXBAS) (2013-2014)
+
+PXBAS é um simples interpretador BASIC para MS-DOS, FreeDOS, PX-DOS, PDOS e compatíveis. Pode funcionar em versões de 32 bits do Windows.
+
+**Competências**: C · Assembly x86
+
+### [Bin S.O](https://github.com/felipenlunkes/Bin-S.O) (2011-2013)
+
+Meu primeiro projeto de sistema operacional desenvolvido integralmente em Assembly x86. O sistema implementa um sistema de arquivos simples, chamado BinFS, baseado em uma lista encadeada de arquivos. O sistema de arquivos é criado através de uma ferramenta desenvolvida em C, que cria uma imagem de disco. O Bin S.O é executado em modo real 16-bit e tem suporte a desenvolvimento de utilitários utilizando bibliotecas Assembly. O sistema pode ser instalado em dispositivos para ser executado de forma nativa, através de um instalado rodando em um LiveCD Linux (Netuno OS).
+
+**Competências**: Assembly x86 · OSDev
 
 <hr>
 
@@ -294,6 +351,18 @@ Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 
 * Formação técnica em informática e programação;
 * Familiaridade com noções de lógica de programação, C, Java, Pascal, Delphi, VisualBasic, hardware, robótica, desenvolvimento web, bancos de dados relacionais e SQL, análise de sistemas e empreendedorismo.
+
+<hr>
+
+## Habilidades
+
+* Português fluente (nativo) e inglês avançado (C1);
+* Domínio do pacote Office (incluindo alternativas open source) e pacotes estatísticos (R e Prism);
+* Domínio de Assembly x86, Java, Python, C, shell script (sistemas Unix-like), SQL e Markdown (ver **[projetos](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md)**);
+* Familiaridade com C++ e VisualBasic;
+* Domínio de ferramentas de versionamento, como git (incluindo uso da ferramentas de linha de comando);
+* Autodidata em diversas linguagens de programação;
+* Boa comunicação e trabalho em equipe;
 
 <hr>
 
