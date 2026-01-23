@@ -354,6 +354,18 @@ Meu primeiro projeto de sistema operacional desenvolvido integralmente em Assemb
 
 <hr>
 
+## Prêmios e títulos
+
+* **Projeto destaque desenvolvido em 1/2025: DoeTech** - Pontifícia Universidade Católica de Minas Gerais (PUC Minas) - 2025;
+* **Projeto destaque desenvolvido em 2/2024: Which Medicine** - Pontifícia Universidade Católica de Minas Gerais - (PUC Minas) - 2025;
+* **Primeiro colocado no processo seletivo para mestrado acadêmico (1ª entrada de 2021) do Programa de Pós-Graduação em Ciências da Saúde do Instituto René Rachou/Fiocruz Minas** - Instituto René Rachou (Fiocruz Minas) - 2021;
+* **Destaque em apresentação oral na XXVII Reunião Anual de Iniciação Científica da Fundação Oswaldo Cruz** - Instituto René Rachou (Fiocruz Minas) - 2019;
+* **Destaque em apresentação oral na XXVI Reunião Anual de Iniciação Científica do Instituto René Rachou - Fiocruz Minas** - Instituto René Rachou (Fiocruz Minas) - 2018;
+* **Melhor apresentação oral na IV Jornada da Pós-Graduação/XXV Reunião Anual de Iniciação Científica/XII Jornada do Programa de Vocação Científica do Centro de Pesquisas René Rachou/Fiocruz Minas** - Instituto René Rachou (Fiocruz Minas) - 2017;
+* **Destaque acadêmico do 1° semestre de 2016 no curso de Ciências Biológicas (Licenciatura) da Pontifícia Universidade Católica de Minas Gerais (PUC Minas)** - Pontifícia Universidade Católica de Minas Gerais (PUC Minas) - 2016;
+
+<hr>
+
 ## Habilidades
 
 * Português fluente (nativo) e inglês avançado (C1);
