@@ -385,7 +385,6 @@ Meu primeiro projeto de sistema operacional desenvolvido integralmente em Assemb
 * [GitHub](https://github.com/felipenlunkes)
 * [LinkedIn](https://linkedin.com/in/felipelunkes)
 * [Currículo Lattes](http://lattes.cnpq.br/2540365589952421)
-* [LinkTree](https://linktr.ee/felipelunkes)
 
 ### Blog
 
