@@ -108,6 +108,8 @@ Backend developer working on project development using, among other technologies
 
 ###### **2025/11-currently** | Lead Integration Engineer
 
+Backend engineering team lead responsible for integrations, working on architectural definitions and technology choices (together with the software architect), code reviews, developer mentoring, and solution development.
+
 ###### **2025/11-currently** | Backend developer III
 
 * Change of seniority from Backend Developer to Backend Developer III.

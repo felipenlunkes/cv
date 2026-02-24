@@ -109,6 +109,8 @@ Desenvolvimento de soluções utilizando, entre outras tecnologias, Java, Spring
 
 ###### **11/2025-atualmente** | Líder do time de engenharia de integrações
 
+Líder do time de engenharia backend responsável por integrações, atuando em definições arquiteturais e tecnologias a serem utilizadas (junto ao arquiteto de software), revisão de código, mentoria de desenvolvedores e no desenvolvimento de soluções.
+
 ###### **11/2025-atualmente** | Desenvolvedor backend pleno III
 
 * Alteração de senioridade (promoção de cargo) de desenvolvedor backend pleno I para desenvolvedor backend pleno III.
