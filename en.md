@@ -32,7 +32,7 @@ Belo Horizonte, Brazil
 
 <div align="justify">
 
-**Backend developer** at *UbiSafe/Orsegups Participações S/A*.
+**Backend developer** at *UbiSafe*.
 
 I’m a backend developer with experience in building solutions using Java (Spring Framework and Spring Boot), Rust, C# (ASP.NET ad Entity Framework), and Python. I work on developing scalable applications, with a focus on event-driven microservices architecture, using RESTful APIs, relational databases (MySQL), NoSQL databases (MongoDB), Docker, Redis/Valkey, RabbitMQ, messaging systems like Apache Kafka and Kinesis, and AWS services (Lambda, S3, and SQS). I also have extensive experience with unit and integration testing.
 
@@ -102,17 +102,23 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 ## Professional experience
 
-#### **2023-currently** | Backend developer at UbiSafe/Orsegups Participações S/A
+#### **2023-currently** | Backend developer at UbiSafe
 
 Backend developer working on project development using, among other technologies, Java, Spring Framework, Spring Boot, relational databases (such as MySQL), Python, JavaScript/TypeScript (Node.js), Docker, Linux, Redis, AWS SQS, Amazon S3, messaging with Apache Kafka and Amazon Kinesis, unit and integration tests, microservices architecture and AWS Lambda (serverless computing).
 
+###### **2025/11-currently** | Lead Integration Engineer
+
+###### **2025/11-currently** | Backend developer III
+
+* Change of seniority from Backend Developer to Backend Developer III.
+
 ###### **2024/07-currently** | Backend developer
 
-* Change of seniority from Jr. developer to backend developer.
+* Change of seniority from Jr. developer to Backend Developer.
 
 ###### **2023/11-2024/06** | Junior backend developer
 
-* Change of seniority from trainee backend developer to Junior backend developer.
+* Change of seniority from trainee Backend Developer to Junior Backend Developer.
 
 ###### **2023/06-2023/10** | Trainee backend developer
 

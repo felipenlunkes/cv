@@ -32,7 +32,7 @@ Belo Horizonte, Brasil
 
 <div align="justify">
 
-**Desenvolvedor backend pleno** na UbiSafe/Orsegups Participações S/A.
+**Desenvolvedor backend pleno** na UbiSafe.
 
 Sou um desenvolvedor backend pleno com experiência no desenvolvimento de soluções utilizando Java (Spring Framework e Spring Boot), Rust, C# (ASP.NET) e Python. Atuo na construção de aplicações escaláveis, com foco em arquitetura de microsserviços orientada a eventos, utilizando APIs RESTful, bancos de dados relacionais (MySQL) e não relacionais (MongoDB), Docker, Redis/Valkey, RabbitMQ e mensageria com Apache Kafka e Kinesis, além de serviços AWS (Lambda, S3 e SQS). Também possuo extensa prática em testes unitários e de integração.
 
@@ -103,9 +103,11 @@ Veja mais sobre meus projetos no [**GitHub**](https://github.com/felipenlunkes) 
 
 ## Experiência profissional
 
-#### **2023-atualmente** | Desenvolvedor backend na UbiSafe/Orsegups Participações S/A
+#### **2023-atualmente** | Desenvolvedor backend na UbiSafe
 
 Desenvolvimento de soluções utilizando, entre outras tecnologias, Java, Spring Framework, Spring Boot, Rust, Python, APIs RESTful, bancos de dados relacionais (MySQL) e não relacionais (MongoDB), JavaScript/TypeScript, Docker, Linux, Redis/Valkey, RabbitMQ, AWS SQS, Amazon S3, mensageria com Apache Kafka e Kinesis, testes unitários e de integração, arquitetura de microsserviços e AWS Lambda (serverless).Desenvolvimento de soluções utilizando, entre outras tecnologias, Java, Spring Framework, Spring Boot, Rust, Python, APIs RESTful, bancos de dados relacionais (MySQL) e não relacionais (MongoDB), JavaScript/TypeScript, Docker, Linux, Redis/Valkey, RabbitMQ, AWS SQS, Amazon S3, mensageria com Apache Kafka e Kinesis, testes unitários e de integração, arquitetura de microsserviços e AWS Lambda (serverless).
+
+###### **11/2025-atualmente** | Líder do time de engenharia de integrações
 
 ###### **11/2025-atualmente** | Desenvolvedor backend pleno III
 
