@@ -107,17 +107,13 @@ Veja mais sobre meus projetos no [**GitHub**](https://github.com/felipenlunkes) 
 
 Desenvolvimento de soluções utilizando, entre outras tecnologias, Java, Spring Framework, Spring Boot, Rust, Python, APIs RESTful, bancos de dados relacionais (MySQL) e não relacionais (MongoDB), JavaScript/TypeScript, Docker, Linux, Redis/Valkey, RabbitMQ, AWS SQS, Amazon S3, mensageria com Apache Kafka e Kinesis, testes unitários e de integração, arquitetura de microsserviços e AWS Lambda (serverless).
 
-###### **11/2025-atualmente** | Líder do time de engenharia de integrações
+###### **11/2025-atualmente** | Líder do time de engenharia de integrações (Lead Integration Engineer)
 
 Líder do time de engenharia backend responsável por integrações, atuando em definições arquiteturais e tecnologias a serem utilizadas (junto ao arquiteto de software), revisão de código, mentoria de desenvolvedores e no desenvolvimento de soluções.
 
-###### **11/2025-atualmente** | Desenvolvedor backend pleno III
+###### **07/2024-10/2025** | Desenvolvedor backend pleno
 
-Alteração de senioridade (promoção de cargo) de desenvolvedor backend pleno I para desenvolvedor backend pleno III.
-
-###### **07/2024-10/2025** | Desenvolvedor backend pleno I
-
-Alteração de senioridade (promoção de cargo) de desenvolvedor backend Jr. para desenvolvedor backend pleno I.
+Alteração de senioridade (promoção de cargo) de desenvolvedor backend Jr. para desenvolvedor backend pleno.
 
 ###### **11/2023-06/2024** | Desenvolvedor backend Jr.
 

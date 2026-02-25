@@ -110,10 +110,6 @@ Development of solutions using, among other technologies, Java, Spring Framework
 
 Backend engineering team lead responsible for integrations, working on architectural definitions and technology choices (together with the software architect), code reviews, developer mentoring, and solution development.
 
-###### **2025/11-currently** | Backend developer III
-
-Change of seniority from Backend Developer to Backend Developer III.
-
 ###### **2024/07-currently** | Backend developer
 
 Change of seniority from Jr. developer to Backend Developer.
