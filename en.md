@@ -32,11 +32,11 @@ Belo Horizonte, Brazil
 
 <div align="justify">
 
-**Backend developer** at *UbiSafe*.
+**Backend developer and Lead Integration Engineer** at *UbiSafe*.
 
-I’m a backend developer with experience in building solutions using Java (Spring Framework and Spring Boot), Rust, C# (ASP.NET ad Entity Framework), and Python. I work on developing scalable applications, with a focus on event-driven microservices architecture, using RESTful APIs, relational databases (MySQL), NoSQL databases (MongoDB), Docker, Redis/Valkey, RabbitMQ, messaging systems like Apache Kafka and Kinesis, and AWS services (Lambda, S3, and SQS). I also have extensive experience with unit and integration testing.
+I am a backend developer and Lead Integration Engineer, focusing on architectural decision-making and technology selection (in collaboration with the Chief Software Architect), as well as code reviews, technical mentoring, and developing solutions that integrate platforms and devices. I have experience building solutions using Java (Spring Framework and Spring Boot), Rust, C# (ASP.NET), and Python. I work on building scalable applications with a focus on event-driven microservices architecture, leveraging RESTful APIs, relational (MySQL) and non-relational (MongoDB) databases, Docker, Redis/Valkey, RabbitMQ, and messaging with Apache Kafka and Kinesis, as well as AWS services (Lambda, S3, and SQS). I also have extensive experience with unit and integration testing.
 
-I have solid experience in various programming languages and ecosystems, including Java, C#, Python, C, x86 Assembly, and shell scripts, as well as hands-on experience with Rust, JavaScript/TypeScript, HTML, and CSS. I’m constantly improving my technical skills, with a recent focus on Rust. Since 2015 I have been developing an original operating system project (Hexagonix, which you can find below, in the [Projects and portfolio](#projects-and-portfolio) section) completely written in x86 Assembly, as well as others low-level projects.
+I have solid experience in various programming languages and ecosystems, including Java, C#, Rust, Python, C, x86 Assembly, and shell scripts, as well as hands-on experience with JavaScript/TypeScript, HTML, and CSS. I’m constantly improving my technical skills, with a recent focus on Rust. Since 2015 I have been developing an original operating system project (Hexagonix, which you can find below, in the [Projects and portfolio](#projects-and-portfolio) section) completely written in x86 Assembly, as well as others low-level projects.
 
 I am currently pursuing a degree in Systems Analysis and Development (Análise e Desenvolvimento de Sistemas - PUC Minas), with a technical background in IT and previous academic training in Biological Sciences (Ciências Biológicas - UFMG), holding a master's degree in Health Sciences (Ciências da Saúde - Fiocruz). See my [academic background](#academic-background) below.
 

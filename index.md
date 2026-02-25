@@ -32,11 +32,11 @@ Belo Horizonte, Brasil
 
 <div align="justify">
 
-**Desenvolvedor backend pleno** na UbiSafe.
+**Desenvolvedor backend e líder do time de engenharia de integrações (Lead Integration Engineer)** na UbiSafe.
 
-Sou um desenvolvedor backend pleno com experiência no desenvolvimento de soluções utilizando Java (Spring Framework e Spring Boot), Rust, C# (ASP.NET) e Python. Atuo na construção de aplicações escaláveis, com foco em arquitetura de microsserviços orientada a eventos, utilizando APIs RESTful, bancos de dados relacionais (MySQL) e não relacionais (MongoDB), Docker, Redis/Valkey, RabbitMQ e mensageria com Apache Kafka e Kinesis, além de serviços AWS (Lambda, S3 e SQS). Também possuo extensa prática em testes unitários e de integração.
+Sou desenvolvedor backend e exerço o cargo de líder do time de engenharia de integrações (Lead Integration Engineer), com foco em decisões arquiteturais e definição de tecnologias (em conjunto com o arquiteto-chefe de software), além de revisão de código, mentoria técnica e desenvolvimento de soluções que integram plataformas e dispositivos. Tenho experiência no desenvolvimento de soluções utilizando Java (Spring Framework e Spring Boot), Rust, C# (ASP.NET) e Python. Atuo na construção de aplicações escaláveis, com foco em arquitetura de microsserviços orientada a eventos, utilizando APIs RESTful, bancos de dados relacionais (MySQL) e não relacionais (MongoDB), Docker, Redis/Valkey, RabbitMQ e mensageria com Apache Kafka e Kinesis, além de serviços AWS (Lambda, S3 e SQS). Também possuo extensa prática em testes unitários e de integração.
 
-Possuo sólida experiência em diferentes linguagens e ecossistemas, incluindo Java, C#, Python, C, Assembly x86 e shell scripts, além de vivência prática com Rust, JavaScript/TypeScript, HTML e CSS.
+Possuo sólida experiência em diferentes linguagens e ecossistemas, incluindo Java, C#, Rust, Python, C, Assembly x86 e shell scripts, além de vivência prática com JavaScript/TypeScript, HTML e CSS.
 Estou em constante evolução técnica, com destaque recente para Rust. Desde 2015, desenvolvo o Hexagonix, um sistema operacional autoral escrito inteiramente em Assembly x86 (veja abaixo meus projetos de código aberto, na seção de [Projetos e portfólio](#projetos-e-portflio)).
 
 Sou graduando em Análise e Desenvolvimento de Sistemas (PUC Minas), com formação técnica em informática e formação anterior em Ciências Biológicas (UFMG), com mestrado em Ciências da Saúde (Fiocruz). Leia mais sobre minha [formação acadêmica](#formao-acadmica) abaixo.
