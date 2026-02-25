@@ -104,7 +104,7 @@ See my projects on my [**GitHub**](https://github.com/felipenlunkes) or on [**Li
 
 #### **2023-currently** | Backend developer at UbiSafe
 
-Backend developer working on project development using, among other technologies, Java, Spring Framework, Spring Boot, relational databases (such as MySQL), Python, JavaScript/TypeScript (Node.js), Docker, Linux, Redis, AWS SQS, Amazon S3, messaging with Apache Kafka and Amazon Kinesis, unit and integration tests, microservices architecture and AWS Lambda (serverless computing).
+Development of solutions using, among other technologies, Java, Spring Framework, Spring Boot, Rust, Python, RESTful APIs, relational databases (MySQL) and non-relational databases (MongoDB), JavaScript/TypeScript, Docker, Linux, Redis/Valkey, RabbitMQ, AWS SQS, Amazon S3, messaging with Apache Kafka and Kinesis, unit and integration testing, microservices architecture, and AWS Lambda (serverless).
 
 ###### **2025/11-currently** | Lead Integration Engineer
 
@@ -112,19 +112,19 @@ Backend engineering team lead responsible for integrations, working on architect
 
 ###### **2025/11-currently** | Backend developer III
 
-* Change of seniority from Backend Developer to Backend Developer III.
+Change of seniority from Backend Developer to Backend Developer III.
 
 ###### **2024/07-currently** | Backend developer
 
-* Change of seniority from Jr. developer to Backend Developer.
+Change of seniority from Jr. developer to Backend Developer.
 
 ###### **2023/11-2024/06** | Junior backend developer
 
-* Change of seniority from trainee Backend Developer to Junior Backend Developer.
+Change of seniority from trainee Backend Developer to Junior Backend Developer.
 
 ###### **2023/06-2023/10** | Trainee backend developer
 
-* Trainee backend developer.
+Trainee backend developer.
 
 **Skills: Java · Spring Framework · Spring Boot · Rust · C# · MySQL · MongoDB · RabbitMQ · JavaScript · Typescript · Docker · Redis · Linux · Apache Kafka · Kinesis**
 
