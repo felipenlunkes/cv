@@ -170,6 +170,10 @@ Desenvolvedor backend trainee.
 
 Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 
+### [Gamer Monitor](https://github.com/felipenlunkes/gamer-monitor) (2026-atualmente)
+
+Gamer Monitor é um monitor de desempenho em tempo real para Linux construído em Rust utilizando GTK4<. O objetivo deste projeto é oferecer uma ferramenta simples, leve e intuitiva para jogadores que exibe a utilização dos recursos do dispositivo, como carga de trabalho e temperatura dos componentes. O Gamer Monitor agrega informações e dados de uso do processaor, memória RAM, armazenamento (apenas NVMe) e placa de vídeo. Ele é otimizado para placas AMD Radeon e NVIDIA. Há planos de suporte para placas Intel Arc.
+
 ### [DoeTech Mobile](https://github.com/felipenlunkes/doetech-mobile) (2025-atualmente)
 
 O DoeTech é uma plataforma que visa criar uma interface entre empresas e pessoas físicas, interessadas em doar equipamentos eletrônicos que seriam descartados, e instituições sociais ou pessoas carentes que desejam receber esse tipo de equipamento. A proposta do DoeTech é diminuir a produção de lixo eletrônico enquanto favorece a reutilização de equipamentos eletrônicos por instituições de cunho social e pessoas de baixa renda.
