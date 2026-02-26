@@ -39,7 +39,7 @@ Sou desenvolvedor backend e exerço o cargo de líder do time de engenharia de i
 Possuo sólida experiência em diferentes linguagens e ecossistemas, incluindo Java, C#, Rust, Python, C, Assembly x86 e shell scripts, além de vivência prática com JavaScript/TypeScript, HTML e CSS.
 Estou em constante evolução técnica, com destaque recente para Rust. Desde 2015, desenvolvo o Hexagonix, um sistema operacional autoral escrito inteiramente em Assembly x86 (veja abaixo meus projetos de código aberto, na seção de [Projetos e portfólio](#projetos-e-portflio)).
 
-Sou graduando em Análise e Desenvolvimento de Sistemas (PUC Minas), com formação técnica em informática e formação anterior em Ciências Biológicas (UFMG), com mestrado em Ciências da Saúde (Fiocruz). Leia mais sobre minha [formação acadêmica](#formao-acadmica) abaixo.
+Sou graduando em Análise e Desenvolvimento de Sistemas (PUC Minas), com formação técnica em informática. Leia mais sobre minha [formação acadêmica](#formao-acadmica) abaixo.
 
 Me interesso por preservação, documentação e emulação de software histórico, tendo uma grande coleção de sistemas operacionais coletados ao longo dos anos. Veja outros [interesses](#interesses) e [outras informações relevantes sobre mim](#outras-informaes-relevante-sobre-mim) abaixo.
 

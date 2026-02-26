@@ -38,7 +38,7 @@ I am a backend developer and Lead Integration Engineer, focusing on architectura
 
 I have solid experience in various programming languages and ecosystems, including Java, C#, Rust, Python, C, x86 Assembly, and shell scripts, as well as hands-on experience with JavaScript/TypeScript, HTML, and CSS. I’m constantly improving my technical skills, with a recent focus on Rust. Since 2015 I have been developing an original operating system project (Hexagonix, which you can find below, in the [Projects and portfolio](#projects-and-portfolio) section) completely written in x86 Assembly, as well as others low-level projects.
 
-I am currently pursuing a degree in Systems Analysis and Development (Análise e Desenvolvimento de Sistemas - PUC Minas), with a technical background in IT and previous academic training in Biological Sciences (Ciências Biológicas - UFMG), holding a master's degree in Health Sciences (Ciências da Saúde - Fiocruz). See my [academic background](#academic-background) below.
+I am an undergraduate student in Systems Analysis and Development (Análise e Desenvolvimento de Sistemas) at PUC Minas, with a technical background in IT. See my [academic background](#academic-background) below.
 
 I am interested in preservation, documentation and emulation of historical software, having a large collection of operating systems collected over the years. See other [interests](#interests) and [other relevant information about me](#other-relevant-information-about-me) below.
 
