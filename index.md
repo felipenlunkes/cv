@@ -32,7 +32,7 @@ Belo Horizonte, Brasil
 
 <div align="justify">
 
-**Desenvolvedor backend e líder do time de engenharia de integrações (Lead Integration Engineer)** na UbiSafe.
+**Desenvolvedor backend e líder do time de engenharia de integrações (*Lead Integration Engineer*)** na UbiSafe.
 
 Sou desenvolvedor backend e exerço o cargo de líder do time de engenharia de integrações (Lead Integration Engineer), com foco em decisões arquiteturais e definição de tecnologias (em conjunto com o arquiteto-chefe de software), além de revisão de código, mentoria técnica e desenvolvimento de soluções que integram plataformas e dispositivos. Tenho experiência no desenvolvimento de soluções utilizando Java (Spring Framework e Spring Boot), Rust, C# (ASP.NET) e Python. Atuo na construção de aplicações escaláveis, com foco em arquitetura de microsserviços orientada a eventos, utilizando APIs RESTful, bancos de dados relacionais (MySQL) e não relacionais (MongoDB), Docker, Redis/Valkey, RabbitMQ e mensageria com Apache Kafka e Kinesis, além de serviços AWS (Lambda, S3 e SQS). Também possuo extensa prática em testes unitários e de integração.
 
