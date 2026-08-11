@@ -32,9 +32,9 @@ Belo Horizonte, Brasil
 
 <div align="justify">
 
-**Desenvolvedor backend e líder do time de engenharia de integrações (*Lead Integration Engineer*)** na UbiSafe.
+**Desenvolvedor backend sênior e líder do time de engenharia de integrações (*Lead Integration Engineer*)** na UbiSafe.
 
-Sou desenvolvedor backend e exerço o cargo de líder do time de engenharia de integrações (Lead Integration Engineer), com foco em decisões arquiteturais e definição de tecnologias (em conjunto com o arquiteto-chefe de software), além de revisão de código, mentoria técnica e desenvolvimento de soluções que integram plataformas e dispositivos. Tenho experiência no desenvolvimento de soluções utilizando Java (Spring Framework e Spring Boot), Rust, C# (ASP.NET) e Python. Atuo na construção de aplicações escaláveis, com foco em arquitetura de microsserviços orientada a eventos, utilizando APIs RESTful, bancos de dados relacionais (MySQL) e não relacionais (MongoDB), Docker, Redis/Valkey, RabbitMQ e mensageria com Apache Kafka e Kinesis, além de serviços AWS (Lambda, S3 e SQS). Também possuo extensa prática em testes unitários e de integração.
+Sou desenvolvedor backend sênior e acumulo o cargo de líder do time de engenharia de integrações (Lead Integration Engineer), com foco em decisões arquiteturais e definição de tecnologias (em conjunto com o arquiteto-chefe), além de revisão de código, mentoria técnica e desenvolvimento de soluções que integram plataformas e dispositivos. Tenho experiência no desenvolvimento de soluções utilizando Java (Spring Framework e Spring Boot), Rust, C# (ASP.NET) e Python. Atuo na construção de aplicações escaláveis, com foco em arquitetura de microsserviços orientada a eventos, utilizando APIs RESTful, comunicação de rede assíncrona orientada a eventos, bancos de dados relacionais (MySQL) e não relacionais (MongoDB), framework Temporal.io, Docker, Redis/Valkey, RabbitMQ e mensageria com Apache Kafka e Kinesis, além de serviços AWS (Lambda, S3 e SQS). Também possuo extensa prática em testes unitários e de integração.
 
 Possuo sólida experiência em diferentes linguagens e ecossistemas, incluindo Java, C#, Rust, Python, C, Assembly x86 e shell scripts, além de vivência prática com JavaScript/TypeScript, HTML e CSS.
 Estou em constante evolução técnica, com destaque recente para Rust. Desde 2015, desenvolvo o Hexagonix, um sistema operacional autoral escrito inteiramente em Assembly x86 (veja abaixo meus projetos de código aberto, na seção de [Projetos e portfólio](#projetos-e-portflio)).
@@ -53,9 +53,14 @@ Veja mais sobre meus projetos no [**GitHub**](https://github.com/felipenlunkes) 
 
 ## Certificados e formação complementar
 
+
+#### **2026**
+
+* Qualificação profissional como Analista de Software - Pontifícia Universidade Católica de Minas Gerais (PUC Minas);
+
 #### **2025**
 
-* [Qualificação profissional como Desenvolvedor de Software](https://web.sistemas.pucminas.br/GAD/DOC/Verificador) - Pontifícia Universidade Católica de Minas Gerais (PUC Minas);
+* Qualificação profissional como Desenvolvedor de Software - Pontifícia Universidade Católica de Minas Gerais (PUC Minas);
 
 #### **2024**
 
@@ -106,6 +111,10 @@ Veja mais sobre meus projetos no [**GitHub**](https://github.com/felipenlunkes) 
 #### **2023-atualmente** | Desenvolvedor backend na UbiSafe
 
 Desenvolvimento de soluções utilizando, entre outras tecnologias, Java, Spring Framework, Spring Boot, Rust, Python, APIs RESTful, bancos de dados relacionais (MySQL) e não relacionais (MongoDB), JavaScript/TypeScript, Docker, Linux, Redis/Valkey, RabbitMQ, AWS SQS, Amazon S3, mensageria com Apache Kafka e Kinesis, testes unitários e de integração, arquitetura de microsserviços e AWS Lambda (serverless).
+
+###### **08/2026-atualmente** | Desenvolvedor backend sênior
+
+Atuo no desenvolvimento de soluções escaláveis que integram plataformas e dispositivos. Acumulo o cargo de líder do time de engenharia de integrações da UbiSafe.
 
 ###### **11/2025-atualmente** | Líder do time de engenharia de integrações (Lead Integration Engineer)
 
@@ -170,9 +179,17 @@ Desenvolvedor backend trainee.
 
 Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 
+### [EloCampo](https://github.com/felipenlunkes/EloCampo) (2026-2026)
+
+O EloCampo é um marketplace agrícola distribuído. O EloCampo conecta produtores rurais (agricultura familiar e hortas urbanas) diretamente a consumidores, eliminando atravessadores na cadeira de comercialização. A plataforma é composta por 8 microsserviços desenvolvidos em Java 25 e Spring Boot 4, orquestrados por um API Gateway próprio (EloGateway), que centraliza a autenticação JWT implementada e o roteamento das requisições entre as aplicações. A persistência fica a cargo de uma base NoSQL (MongoDB). Do lado do usuário, temos uma aplicação Web desenvolvida em React 18 (com Vite), e uma aplicação mobile para Android, desenvolvida em React Native (com Expo). O deploy do backend foi feito na Azure.Neste projeto, atuei como arquiteto da solução.
+
+**Competências**: Java · Spring Framework · Microsserviços · MongoDB · Azure · React · React Native
+
 ### [Gamer Monitor](https://github.com/felipenlunkes/gamer-monitor) (2026-atualmente)
 
 Gamer Monitor é um monitor de desempenho em tempo real para Linux construído em Rust utilizando GTK4<. O objetivo deste projeto é oferecer uma ferramenta simples, leve e intuitiva para jogadores que exibe a utilização dos recursos do dispositivo, como carga de trabalho e temperatura dos componentes. O Gamer Monitor agrega informações e dados de uso do processaor, memória RAM, armazenamento (apenas NVMe) e placa de vídeo. Ele é otimizado para placas AMD Radeon e NVIDIA. Há planos de suporte para placas Intel Arc.
+
+**Competências**: Linux · Rust
 
 ### [DoeTech Mobile](https://github.com/felipenlunkes/doetech-mobile) (2025-atualmente)
 
