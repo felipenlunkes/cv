@@ -114,25 +114,61 @@ Desenvolvimento de soluções utilizando, entre outras tecnologias, Java, Spring
 
 ###### **08/2026-atualmente** | Desenvolvedor backend sênior
 
-Atuo no desenvolvimento de soluções escaláveis que integram plataformas e dispositivos. Acumulo o cargo de líder do time de engenharia de integrações da UbiSafe.
+Atualmente atuo como desenvolvedor backend sênior, acumulando esse título com o cargo de liderança técnica do time de engenharia de integrações, com foco no desenvolvimento de soluções escaláveis para comunicação entre a plataforma, dispositivos e sistemas externos.
+
+Minha atuação combina desenvolvimento (leitura e implementação de protocolos de comunicação, desenho de conectores e serviços de integração, homologação de dispositivos e plataformas) com responsabilidades de liderança técnica, como definição de arquitetura e tecnologias em conjunto com o arquiteto de software, revisão de código e mentoria de outros desenvolvedores.
+
+Tenho aprofundado meus conhecimentos em comunicação de baixo nível (sockets, protocolos binários proprietários), arquitetura orientada a eventos e sistemas distribuídos, sempre com foco em soluções que precisam lidar com volume/escala real (número alto de dispositivos conectados e se comunicando em paralelo), protocolos complexos, alto volume de eventos processados, concorrência, dentro outros fatores, de forma confiável e performática.
+
+Um dos aspectos mais importantes na minha atuação é a capacidade de analisar problemas de forma crítica antes da implementação, avaliando impactos, antecipando riscos e oportunidades de evolução da solução, especialmente relevante em um domínio onde decisões técnicas mal avaliadas têm alto custo de correção.
+
+**Competências e tecnologias: Java · Netty · Rust · Spring Framework · Spring Boot · Apache Kafka · RabbitMQ · Redis/Valkey · MySQL · MongoDB · Docker · Linux · Arquitetura orientada a eventos · Comunicação de rede assíncrona orientada a eventos · Framework Temporal.io · Sistemas distribuídos · Protocolos de comunicação proprietários · Homologação de dispositivos**
 
 ###### **11/2025-atualmente** | Líder do time de engenharia de integrações (Lead Integration Engineer)
 
-Líder do time de engenharia backend responsável por integrações, atuando em definições arquiteturais e tecnologias a serem utilizadas (junto ao arquiteto de software), revisão de código, mentoria de desenvolvedores e no desenvolvimento de soluções.
+Assumi a liderança do time responsável pelas integrações da plataforma com dispositivos e plataformas externas, consolidando a frente que comecei a desenvolver como pleno dentro do time de desenvolvimento.
+
+Atuo na proposição e definição de arquitetura e tecnologias para novas integrações em conjunto com o arquiteto de software, avaliando trade-offs, diferentes protocolos de comunicação oferecidos pelos fabricantes de dispositivos, formatos de comunicação (incluindo protocolos binários de baixo nível) e estratégias de homologação de novos dispositivos e parceiros. Sou responsável também pela revisão de código do time e pela mentoria técnica de outros desenvolvedores, apoiando decisões de design e boas práticas específicas para esse domínio (incluindo comunicação assíncrona, tolerância a falhas, versionamento de protocolo, etc). Também iniciei a implementação de novas ferramentas, como o framework Temporal.io.
+
+Sigo desenvolvendo ativamente soluções, principalmente em Java (com Netty para comunicação de baixo nível) e Rust, além de participar de discussões e definições técnicas sobre arquitetura aplicada ao contexto de integrações com dispositivos e plataformas.
+
+Um dos aspectos que mais valorizo nessa função é a análise crítica antes da implementação, uma disciplina que venho praticando e me desenvolvendo cada vez mais: avaliar riscos, impactos e alternativas de solução, especialmente relevante nesse domínio, em que erros de interpretação de protocolo ou decisões arquiteturais mal avaliadas têm custo alto de correção após a homologação de um dispositivo.
+
+**Competências e tecnologias: Java · Netty · Rust · Spring Framework/Spring Boot · Apache Kafka · RabbitMQ · Redis/Valkey · MySQL · MongoDB · Docker · Linux · Arquitetura orientada a eventos · Comunicação de rede assíncrona orientada a eventos · Framework Temporal.io · Protocolos de comunicação proprietários · Homologação de dispositivos · Liderança técnica · Mentoria · Code review**
 
 ###### **07/2024-10/2025** | Desenvolvedor backend pleno
 
-Alteração de senioridade (promoção de cargo) de desenvolvedor backend Jr. para desenvolvedor backend pleno.
+Este foi o período em que minha atuação se ampliou de forma significativa. Além de seguir contribuindo com a evolução das aplicações de negócio da plataforma, passei a atuar também em uma nova frente: o desenvolvimento de soluções que integram a plataforma da UbiSafe com dispositivos e plataformas externas. Na área de dispositivos, iniciei a minha atuação na comunicação e homologação de centrais de alarme.
+
+Nessa frente, minha atuação passou a envolver todo o ciclo de viabilização técnica de uma nova integração: leitura e interpretação de protocolos de comunicação proprietários (muitas vezes a partir de documentação técnica de terceiros), definição das ferramentas e da abordagem de implementação mais adequadas a cada caso, desenvolvimento de conectores/serviços responsáveis pela comunicação, e condução do processo de homologação de dispositivos junto à outros integrantes do time de engenharia da UbiSafe.
+
+Para isso, ampliei meu ferramental técnico com Rust, utilizado em componentes que exigiam maior controle e performance na manipulação de protocolos binários e Python, além de bancos não relacionais (MongoDB) e mensageria adicional com RabbitMQ, mantendo o uso de bases de dados relacionais e não relacionais, cache distribuído e Kafka.
+
+Esse período também marcou um avanço na forma como eu avaliava problemas antes de implementá-los. Passei a dedicar mais tempo à análise de riscos, limitações de protocolo, impactos de cada decisão técnica antes de iniciar o desenvolvimento e testes, garantindo uma maior qualidade nas entregas.
+
+**Competências e tecnologias: Java · Spring Framework · Spring Boot · Rust · Python · MySQL · MongoDB · Redis/Valkey · RabbitMQ · Apache Kafka · Amazon Kinesis · AWS SQS · Amazon S3 · AWS Lambda · Docker · Linux · Protocolos de comunicação proprietários · Homologação de dispositivos**
 
 ###### **11/2023-06/2024** | Desenvolvedor backend Jr.
 
-Alteração de senioridade (promoção de cargo) de desenvolvedor backend trainee para desenvolvedor backend Jr.
+Promovido a desenvolvedor Jr., segui atuando no time responsável pelas aplicações de negócio da plataforma, com mais autonomia sobre o desenho e a implementação de funcionalidades, desde o levantamento de requisitos até a entrega e o acompanhamento em produção. Passei a estudar temas ligados à engenharia de requisitos e arquitetura de software.
+
+Ampliei minha atuação em modelagem de APIs RESTful e evolução de serviços em arquitetura de microsserviços, além de aprofundar o uso de mensageria orientada a eventos (Apache Kafka e Amazon Kinesis) para integração entre serviços internos, visando reduzir acoplamentos, e persistência com MySQL e Redis.
+
+Passei também a utilizar Python em rotinas complementares e a reforçar a cobertura de testes unitários e de integração, buscando maior confiabilidade nas entregas em um ambiente de microsserviços com múltiplos serviços interdependentes.
+
+**Competências e tecnologias: Java · Spring Framework · Spring Boot · Python · MySQL · Redis · Apache Kafka · Amazon Kinesis · AWS SQS · Amazon S3 · AWS Lambda · Docker · Linux · APIs RESTful · Arquitetura de microsserviços orientada a eventos**
 
 ###### **06/2023-10/2023** | Desenvolvedor backend trainee
 
-Desenvolvedor backend trainee.
+Iniciei minha atuação profissional em desenvolvimento backend em um time responsável pelas aplicações centrais de negócio da plataforma, contribuindo com o desenvolvimento de novas funcionalidades e a manutenção de serviços já existentes, sob uma arquitetura de microsserviços orientada a eventos.
 
-**Habilidades: Java · Spring Framework · Spring Boot · Rust · C# · MySQL · MongoDB · RabbitMQ · JavaScript · Typescript · Docker · Redis · Linux · Apache Kafka · Kinesis**
+Participei do ciclo completo de desenvolvimento, desde a definição de contratos e implementação, até a escrita de testes unitários e de integração , utilizando Java com Spring Framework e Spring Boot para construção de APIs RESTful, além de persistência em banco relacional (MySQL) e cache com Redis.
+
+Também tive contato e atuei com comunicação assíncrona baseada em eventos, utilizando Apache Kafka e Amazon Kinesis, e com serviços de nuvem como AWS SQS, Amazon S3 e AWS Lambda (serverless), além de utilização de dependências containerizadas com Docker sobre o Linux.
+
+Nesta etapa da minha carreira, consolidei fundamentos de desenvolvimento backend em Java e boas práticas de arquitetura de software em ambiente de produção real.
+
+**Competências e tecnologias: Java · Spring Framework · Spring Boot · MySQL · Redis · Apache Kafka · Amazon Kinesis · AWS SQS · Amazon S3 · AWS Lambda · Docker · Linux · APIs RESTful · Arquitetura de microsserviços orientada a eventos**
 
 #### **2023** | Transição de carreira para desenvolvedor backend
 

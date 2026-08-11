@@ -114,23 +114,62 @@ Development of solutions using, among other technologies, Java, Spring Framework
 
 ###### **08/2026-currently** | Senior backend developer
 
-I work on developing scalable solutions that integrate platforms and devices. I also hold the role of Lead Integration Engineer at UbiSafe.
+I currently work as a Senior Backend Developer, holding this title alongside the technical leadership of the integration engineering team, focused on developing scalable solutions for communication between the platform, devices and external systems.
+
+My work combines hands-on development — reading and implementing communication protocols, designing connectors and integration services, certifying devices and platforms — with technical leadership responsibilities, such as defining architecture and technologies together with the software architect, code review and mentoring other developers.
+
+I have been deepening my knowledge of low-level communication (sockets, proprietary binary protocols), event-driven architecture and distributed systems, always with a focus on solutions that need to handle real volume/scale (a large number of devices connected and communicating in parallel), complex protocols, high volumes of processed events, concurrency, among other factors, in a reliable and performant way.
+
+One of the most important aspects of my work is the ability to critically analyze problems before implementation, evaluating impacts, anticipating risks and identifying opportunities to evolve the solution — especially relevant in a domain where poorly evaluated technical decisions carry a high cost to fix.
+
+**Skills and technologies: Java · Netty · Rust · Spring Framework · Spring Boot · Apache Kafka · RabbitMQ · Redis/Valkey · MySQL · MongoDB · Docker · Linux · Event-driven architecture · Event-driven asynchronous network communication · Temporal.io framework · Distributed systems · Proprietary communication protocols · Device certification**
 
 ###### **11/2025-currently** | Lead Integration Engineer
 
-Lead of the backend engineering team responsible for integrations, working on architectural decisions and technology choices (together with the software architect), code review, developer mentoring, and solution development.
+I took on the technical leadership of the team responsible for the platform's integrations with external devices and platforms, consolidating the front I had started developing as a Mid-Level Developer within the engineering team.
+
+I work on proposing and defining architecture and technologies for new integrations together with the software architect, evaluating trade-offs, the different communication protocols offered by device manufacturers, communication formats (including low-level binary protocols), and certification strategies for new devices and partners. I'm also responsible for the team's code review and for the technical mentoring of other developers, supporting design decisions and best practices specific to this domain (including asynchronous communication, fault tolerance, protocol versioning, etc.). I also began the implementation of new tools, such as the Temporal.io framework.
+
+I continue to actively develop solutions, mainly in Java (using Netty for low-level communication) and Rust, in addition to taking part in technical discussions and decisions about architecture applied to the context of integrations with devices and platforms.
+
+One of the aspects I value most in this role is critical analysis before implementation — a discipline I keep practicing and developing further: evaluating risks, impacts and alternative solutions, which is especially relevant in this domain, where protocol misinterpretation or poorly evaluated architectural decisions carry a high cost to fix after a device has already been certified.
+
+**Skills and technologies: Java · Netty · Rust · Spring Framework/Spring Boot · Apache Kafka · RabbitMQ · Redis/Valkey · MySQL · MongoDB · Docker · Linux · Event-driven architecture · Event-driven asynchronous network communication · Temporal.io framework · Proprietary communication protocols · Device certification · Technical leadership · Mentoring · Code review**
+
 
 ###### **07/2024-10/2025** | Backend developer
 
-Change in seniority from Junior Backend Developer to Backend Developer.
+This was the period in which my role expanded significantly. In addition to continuing to contribute to the evolution of the platform's business applications, I also started working on a new front: developing solutions that integrate the UbiSafe platform with external devices and platforms. In the devices area, I began working on communication with, and certification of, alarm control panels.
+
+In this new front, my work came to cover the full technical feasibility cycle of a new integration: reading and interpreting proprietary communication protocols (often based on third-party technical documentation), defining the most suitable tools and implementation approach for each case, developing the connectors/services responsible for the communication, and leading the device certification process together with other members of UbiSafe's engineering team.
+
+To support this, I expanded my technical toolset with Rust, used in components that required tighter control and better performance when handling binary protocols, and Python, along with non-relational databases (MongoDB) and additional messaging with RabbitMQ, while continuing to use relational and non-relational databases, distributed caching and Kafka.
+
+This period also marked a shift in how I approached problems before implementing them. I started dedicating more time to analyzing risks, protocol limitations and the impact of each technical decision before starting development and testing, ensuring higher quality deliveries.
+
+**Skills and technologies: Java · Spring Framework · Spring Boot · Rust · Python · MySQL · MongoDB · Redis/Valkey · RabbitMQ · Apache Kafka · Amazon Kinesis · AWS SQS · Amazon S3 · AWS Lambda · Docker · Linux · Proprietary communication protocols · Device certification**
 
 ###### **11/2023-06/2024** | Junior backend developer
 
-Change in seniority from Trainee Backend Developer to Junior Backend Developer.
+After being promoted to Junior Developer, I continued working on the team responsible for the platform's business applications, with more autonomy over the design and implementation of features, from requirements gathering through delivery and production monitoring. I also began studying topics related to requirements engineering and software architecture.
 
+I expanded my work in RESTful API design and the evolution of services within a microservices architecture, and deepened my use of event-driven messaging (Apache Kafka and Amazon Kinesis) for integration between internal services, aiming to reduce coupling, along with persistence using MySQL and Redis.
+
+I also started using Python for complementary routines and strengthened unit and integration test coverage, aiming for greater reliability in deliveries within a microservices environment with multiple interdependent services.
+
+**Skills and technologies: Java · Spring Framework · Spring Boot · Python · MySQL · Redis · Apache Kafka · Amazon Kinesis · AWS SQS · Amazon S3 · AWS Lambda · Docker · Linux · RESTful APIs · Event-driven microservices architecture
+**
 ###### **06/2023-10/2023** | Trainee backend developer
 
-Trainee backend developer.
+I started my professional career in backend development on a team responsible for the platform's core business applications, contributing to the development of new features and the maintenance of existing services, under an event-driven microservices architecture.
+
+I took part in the full development cycle, from contract definition and implementation to writing unit and integration tests, using Java with Spring Framework and Spring Boot to build RESTful APIs, along with relational persistence (MySQL) and caching with Redis.
+
+I also worked with event-driven asynchronous communication using Apache Kafka and Amazon Kinesis, and with cloud services such as AWS SQS, Amazon S3 and AWS Lambda (serverless), in addition to using containerized dependencies with Docker on Linux.
+
+This stage of my career allowed me to build solid foundations in backend development with Java and software architecture best practices in a real production environment.
+
+**Skills and technologies: Java · Spring Framework · Spring Boot · MySQL · Redis · Apache Kafka · Amazon Kinesis · AWS SQS · Amazon S3 · AWS Lambda · Docker · Linux · RESTful APIs · Event-driven microservices architecture**
 
 **Skills: Java · Spring Framework · Spring Boot · Rust · C# · MySQL · MongoDB · RabbitMQ · JavaScript · Typescript · Docker · Redis · Linux · Apache Kafka · Kinesis**
 
