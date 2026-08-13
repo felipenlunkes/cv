@@ -162,7 +162,7 @@ Passei também a utilizar Python em rotinas complementares e a reforçar a cober
 
 Iniciei minha atuação profissional em desenvolvimento backend em um time responsável pelas aplicações centrais de negócio da plataforma, contribuindo com o desenvolvimento de novas funcionalidades e a manutenção de serviços já existentes, sob uma arquitetura de microsserviços orientada a eventos.
 
-Participei do ciclo completo de desenvolvimento, desde a definição de contratos e implementação, até a escrita de testes unitários e de integração , utilizando Java com Spring Framework e Spring Boot para construção de APIs RESTful, além de persistência em banco relacional (MySQL) e cache com Redis.
+Participei do ciclo completo de desenvolvimento, desde a definição de contratos e implementação, até a escrita de testes unitários e de integração, utilizando Java com Spring Framework e Spring Boot para construção de APIs RESTful, além de persistência em banco relacional (MySQL) e cache com Redis.
 
 Também tive contato e atuei com comunicação assíncrona baseada em eventos, utilizando Apache Kafka e Amazon Kinesis, e com serviços de nuvem como AWS SQS, Amazon S3 e AWS Lambda (serverless), além de utilização de dependências containerizadas com Docker sobre o Linux.
 
